@@ -113,9 +113,9 @@ puppeteer.use(StealthPlugin());
         ? auctionTypeElement.innerText.toLowerCase()
         : "unknown";
 
-      const thumbnailElements = item.querySelectorAll(".carousel-item");
+      const thumbnailElements = item.querySelectorAll("div[data-thumb-src]");
       const thumbnails = Array.from(thumbnailElements).map((el) =>
-        el.getAttribute("data-src")
+        el.getAttribute("data-thumb-src")
       );
 
       const mainImage = thumbnails ? thumbnails[0] : "";
