@@ -18,7 +18,7 @@ options.add_argument("--disable-dev-shm-usage")
 service = Service(ChromeDriverManager().install())
 driver = webdriver.Chrome(service=service, options=options)
 
-url = "https://www.copart.com/lotSearchResults?free=true&query=&qId=9d03a1d2-1d10-4779-a6ab-497962109e20-1741568083803&emptySearch=true&index=undefined&searchCriteria=%7B%22query%22:%5B%22*%22%5D,%22filter%22:%7B%22MAKE%22:%5B%22lot_make_desc:%5C%22AUDI%5C%22%22%5D,%22YEAR%22:%5B%22lot_year:%5B2018%20TO%202025%5D%22%5D%7D,%22searchName%22:%22%22,%22watchListOnly%22:false,%22freeFormSearch%22:false%7D"
+url = "https://www.copart.com/lotSearchResults?free=true&query=&qId=9d03a1d2-1d10-4779-a6ab-497962109e20-1741568083803&emptySearch=true&index=undefined&searchCriteria=%7B%22query%22:%5B%22*%22%5D,%22filter%22:%7B%22MAKE%22:%5B%22lot_make_desc:%5C%22AUDI%5C%22%22%5D,%22YEAR%22:%5B%22lot_year:%5B2020%20TO%202025%5D%22%5D%7D,%22searchName%22:%22%22,%22watchListOnly%22:false,%22freeFormSearch%22:false%7D"
 
 # Open the URL
 driver.get(url)
