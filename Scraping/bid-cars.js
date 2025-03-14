@@ -125,13 +125,21 @@ const makes = [
                     : auctionStatus.includes("live")
                     ? "live"
                     : "opened";
-                const priceElement = item.querySelector(
-                    ".item-price .price-box"
-                );
-                const priceText = priceElement
-                    ? priceElement.innerText.replace(/[^0-9.]/g, "")
-                    : "0";
-                const price = parseFloat(priceText) || 0;
+                const priceElement = item.querySelector(".item-price .price-box");
+                let price = 0;
+                
+                if (priceElement) {
+                    const currentBidElement = priceElement.querySelector("div:first-child");
+                    const buyNowElement = priceElement.querySelector("div:nth-child(2)");
+                
+                    if (currentBidElement) {
+                        const bidText = currentBidElement.innerText.replace(/[^0-9.]/g, "");
+                        price = parseFloat(bidText) || 0; // Extracting only the current bid
+                    } else {
+                        const priceText = priceElement.innerText.replace(/[^0-9.]/g, "");
+                        price = parseFloat(priceText) || 0; // Fallback if no current bid
+                    }
+                }
                 const auctionTypeElement = item.querySelector(".item-seller");
                 const auctionType = auctionTypeElement
                     ? auctionTypeElement.innerText.toLowerCase()
@@ -232,6 +240,7 @@ const makes = [
         allCarData = allCarData.concat(carData);
         console.log(`Total cars found for ${make}: ${carData.length}`);
     }
+    console.log(`Total cars found: ${allCarData.length}`);
 
     if (allCarData.length > 0) {
         fs.writeFileSync(
