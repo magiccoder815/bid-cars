@@ -1,0 +1,271 @@
+[
+    {
+        "title": "2023 MCLAREN AUTOMOTIVE ARTURA",
+        "make": "MCLAREN AUTOMOTIVE",
+        "year": "2023",
+        "model": "ARTURA",
+        "link": "https://www.copart.com/lot/88790405/2023-mclaren-automotive-artura-nj-glassboro-east",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 50500
+        },
+        "details": {
+            "lotNumber": "88790405",
+            "vin": "SBM16AEA4PW******",
+            "primaryDamage": "WATER/FLOOD",
+            "transmission": "AUTOMATIC",
+            "color": "SILVER",
+            "drive": "Rear-wheel drive",
+            "fuel": "HYBRID ENGINE",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/d623dab4472c484191d3281b3c8900f1_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/d623dab4472c484191d3281b3c8900f1_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/bc691d676bd243b293b6abd8a6a11e7b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/9bb174444ce64559818eb2f9cb057889_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/47569bc8046c4098943e07ec1b4cd18e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/053dce5541574386b8da55a0cb6c7215_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 MCLAREN AUTOMOTIVE 720S",
+        "make": "MCLAREN AUTOMOTIVE",
+        "year": "2021",
+        "model": "720S",
+        "link": "https://www.copart.com/lot/85341394/2021-mclaren-automotive-720s-nv-las-vegas",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "85341394",
+            "vin": "SBM14FCA4MW******",
+            "primaryDamage": "UNDERCARRIAGE",
+            "transmission": "AUTOMATIC",
+            "color": "CHARCOAL",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "4.0L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/b0d9744dfb9c461e8523e9fda7c478f2_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/b0d9744dfb9c461e8523e9fda7c478f2_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/685bd7136f3f448c925645bda6f9679a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/fc3351c233a5467cbbb617986098b60c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/6dc4116cf30340d4a85ff4bbadb4beec_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/71bedd94f35d42dcb30caba0ed4751ac_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 MCLAREN AUTOMOTIVE 720S",
+        "make": "MCLAREN AUTOMOTIVE",
+        "year": "2020",
+        "model": "720S",
+        "link": "https://www.copart.com/lot/81746894/salvage-2020-mclaren-automotive-720s-ca-san-jose",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "81746894",
+            "vin": "SBM14FCA2LW******",
+            "primaryDamage": "FRONT END",
+            "transmission": "Yes",
+            "color": "SILVER",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "4.0L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/673a84205f5f4257b010750903171f8b_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/673a84205f5f4257b010750903171f8b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/8c4c017a72f64e4d8ec39687410df791_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/1b1613a9e9594c7899e7dfdc85bef8b9_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/ca5d1f949262498aa1043cd8baf4b2df_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/5b2fc2b63c6846d09451c8e3fb16fe5d_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 MCLAREN AUTOMOTIVE GT",
+        "make": "MCLAREN AUTOMOTIVE",
+        "year": "2023",
+        "model": "GT",
+        "link": "https://www.copart.com/lot/78866364/salvage-2023-mclaren-automotive-gt-nv-las-vegas",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 40500
+        },
+        "details": {
+            "lotNumber": "78866364",
+            "vin": "SBM22GCA0PW******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "TURQUOISE",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "4.0L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/2b9b66f7b24d4950a2d59efe91f97f82_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/2b9b66f7b24d4950a2d59efe91f97f82_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/51066983d2904a46962defb7aaec2c1c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/e78e21aa4ab144f4b0f313bf4e4e013c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/eaefcd89b8ae43a2a4aa54d004527ee4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/77242e09b89a4042be64991f4bbd19bf_thb.jpg"
+        ]
+    },
+    {
+        "title": "2025 MCLAREN AUTOMOTIVE ARTURA",
+        "make": "MCLAREN AUTOMOTIVE",
+        "year": "2025",
+        "model": "ARTURA",
+        "link": "https://www.copart.com/lot/48354735/2025-mclaren-automotive-artura-ca-rancho-cucamonga",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "48354735",
+            "vin": "SBM16BEA4SW******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "BLUE",
+            "drive": "Rear-wheel drive",
+            "fuel": "HYBRID ENGINE",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/f40b92c84871429ba28a0fa1ec04368c_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/f40b92c84871429ba28a0fa1ec04368c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/342b238113024ceca8ad54237a83fc18_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/a4e3e76fd4fe4d6ba383474de83f7593_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/0ab5026553204e84a28b6a8c2a471b8a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/d9a117466d564bdbbc1ac2d31d858173_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 MCLAREN AUTOMOTIVE 720S",
+        "make": "MCLAREN AUTOMOTIVE",
+        "year": "2022",
+        "model": "720S",
+        "link": "https://www.copart.com/lot/48148685/2022-mclaren-automotive-720s-tx-houston",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "48148685",
+            "vin": "SBM14FCA0NW******",
+            "primaryDamage": "UNDERCARRIAGE",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "4.0L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/eb20a3404eb54b9696f1cb154a6bb414_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/eb20a3404eb54b9696f1cb154a6bb414_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/a0225d2112eb4c3bb4620b9de677c130_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/457d4d5113ca4759961b18dc4e4cdcb2_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/74324f407e4c4fb8944db4ff4e60a096_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/9afb432262534495b5bf04add59d9a53_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 MCLAREN AUTOMOTIVE GT",
+        "make": "MCLAREN AUTOMOTIVE",
+        "year": "2023",
+        "model": "GT",
+        "link": "https://www.copart.com/lot/47143765/2023-mclaren-automotive-gt-ca-van-nuys",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "47143765",
+            "vin": "SBM22GCA9PW******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLUE",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "4.0L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/62c2a2f706b843ec905c0a3514f33774_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/62c2a2f706b843ec905c0a3514f33774_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/1c723eb1a56245d18993e4e3f49d274f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/ff89d275ebbd413ea7998a0176c3bff5_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/deef58221c3f42e88b3c055d0ce3150b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/4d8ccf11f177482e946971fb1a3b6c14_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 MCLAREN AUTOMOTIVE ARTURA",
+        "make": "MCLAREN AUTOMOTIVE",
+        "year": "2024",
+        "model": "ARTURA",
+        "link": "https://www.copart.com/lot/45177415/2024-mclaren-automotive-artura-tx-dallas",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "45177415",
+            "vin": "SBM16AEA3RW******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "Rear-wheel drive",
+            "fuel": "HYBRID ENGINE",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/2746189b9b584457aa4de50f0e3b9def_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/2746189b9b584457aa4de50f0e3b9def_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/a52b18eeb0dc4541ab50fa1a4816bc25_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/316b42212697423db0a2bf2b43217df1_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/8d8ba4afc8c7471d928321899a096394_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/adbd1b37c3e64a6591f57db3c055bf62_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 MCLAREN AUTOMOTIVE 765LT",
+        "make": "MCLAREN AUTOMOTIVE",
+        "year": "2022",
+        "model": "765LT",
+        "link": "https://www.copart.com/lot/44145645/2022-mclaren-automotive-765lt-tx-houston",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "44145645",
+            "vin": "SBM14SCA9NW******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "BLUE",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "4.0L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/0b66c4f2b6db473fbd6373aa238a7e4e_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/0b66c4f2b6db473fbd6373aa238a7e4e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/e612cd004ab348f5a3d59f968c03a679_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/b4ffa37c47d143ad905ad77849441f6f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/dbab1cc396904812b9fd4b80ff30641e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/6cd86b1c3d4d41da961f55ab8ccb6c09_thb.jpg"
+        ]
+    },
+    {
+        "title": "2025 MCLAREN AUTOMOTIVE ARTURA",
+        "make": "MCLAREN AUTOMOTIVE",
+        "year": "2025",
+        "model": "ARTURA",
+        "link": "https://www.copart.com/lot/43462325/2025-mclaren-automotive-artura-fl-miami-south",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "43462325",
+            "vin": "SBM16BEA8SW******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "ORANGE",
+            "drive": "Rear-wheel drive",
+            "fuel": "HYBRID ENGINE",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/faf137e3f62d496ca78a4182fd046947_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/faf137e3f62d496ca78a4182fd046947_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/ac306e9e65aa478fb92ac10a4623c001_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/3a83a97d269a4a0d967d83bc01dbe467_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/90a656acb3284c809a5665682881390a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/625db04983204e1d86c614ec128f4e15_thb.jpg"
+        ]
+    }
+]

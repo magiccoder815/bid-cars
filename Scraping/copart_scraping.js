@@ -1,20 +1,22 @@
-const puppeteer = require("puppeteer");
 const fs = require("fs");
 const path = require("path");
+const puppeteer = require("puppeteer");
+// const StealthPlugin = require("puppeteer-extra-plugin-stealth");
+// puppeteer.use(StealthPlugin());
 
 const makes = [
-    "AUDI",
-    "ASTON MARTIN",
-    "BMW",
-    "MERCEDES-BENZ",
-    "PORSCHE",
-    "FERRARI",
-    "LAMBORGHINI",
-    "LEXUS",
-    "MCLAREN AUTOMOTIVE",
-    "BENTLEY",
+    // "AUDI",
+    // "ASTON MARTIN",
+    // "BMW",
+    // "MERCEDES-BENZ",
+    // "PORSCHE",
+    // "FERRARI",
+    // "LAMBORGHINI",
+    // "LEXUS",
+    // "MCLAREN AUTOMOTIVE",
+    // "BENTLEY",
     "LAND ROVER",
-    "ROLLS-ROYCE",
+    // "ROLLS-ROYCE",
 ];
 const baseUrl =
     "https://www.copart.com/lotSearchResults?free=true&query=&searchCriteria=%7B%22query%22:%5B%22*%22%5D,%22filter%22:%7B%22MAKE%22:%5B%22lot_make_desc:%5C%22{make}%5C%22%22%5D,%22YEAR%22:%5B%22lot_year:%5B2020%20TO%202025%5D%22%5D%7D,%22watchListOnly%22:false,%22freeFormSearch%22:false%7D";
@@ -228,6 +230,7 @@ const baseUrl =
                             thumbnails,
                         };
 
+                        console.log(carInfo);
                         carData.push(carInfo);
                     } catch (error) {
                         console.log("Error processing car:", error);
