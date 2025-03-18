@@ -1,0 +1,2773 @@
+[
+    {
+        "title": "2022 LEXUS NX 450H",
+        "make": "LEXUS",
+        "year": "2022",
+        "model": "NX 450H",
+        "link": "https://www.copart.com/lot/89403825/salvage-2022-lexus-nx-450h-ca-san-diego",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "89403825",
+            "vin": "JTJHKCFZ7N2******",
+            "primaryDamage": "ALL OVER",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "HYBRID ENGINE",
+            "engineType": "2.5L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/1cd3f4650bb44844b5d1dd17723fb632_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/1cd3f4650bb44844b5d1dd17723fb632_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/988b6b87401c417fa80ffa3dd69dc6b3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/e811aabf28b94df6a0ebeda9e1503161_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c03ea69c14564352a99909f4b8f03ca4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/8f807ac04b574d9c9ade3ce69477474a_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 LEXUS ES 350 BASE",
+        "make": "LEXUS",
+        "year": "2024",
+        "model": "ES 350 BASE",
+        "link": "https://www.copart.com/lot/89401705/salvage-2024-lexus-es-350-base-tx-el-paso",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "89401705",
+            "vin": "58ADZ1B15RU******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "GREEN",
+            "drive": "Front-wheel Drive",
+            "fuel": "GAS",
+            "engineType": "3.5L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ca1a836204ab4fc0a7c3d6b12418bdf8_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ca1a836204ab4fc0a7c3d6b12418bdf8_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/9ab7052f95764eae81020ac1f650e99c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/0116c41f686845108e36667e46792cfd_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b5cf5e17c1e2499ba636d03f4bd8179a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ca69512288b747d09a107bc1e7123502_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 LEXUS NX 300 BASE",
+        "make": "LEXUS",
+        "year": "2021",
+        "model": "NX 300 BASE",
+        "link": "https://www.copart.com/lot/89386525/salvage-2021-lexus-nx-300-base-dc-washington-dc",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 2200
+        },
+        "details": {
+            "lotNumber": "89386525",
+            "vin": "JTJDARDZ1M2******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/539bafb1de3e43948cc76cf690f92094_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/539bafb1de3e43948cc76cf690f92094_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/2419bdf4c6204355aefbda0801d4c550_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ae83b79dc1e54d9d8a36bc5c3803a2bb_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/2a6f69dd5ef34dbfa2d6a006154fb45b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/8d83ff5f582a4894a5751ca1c41479af_thb.jpg"
+        ]
+    },
+    {
+        "title": "2025 LEXUS ES 350 BASE",
+        "make": "LEXUS",
+        "year": "2025",
+        "model": "ES 350 BASE",
+        "link": "https://www.copart.com/lot/89373555/2025-lexus-es-350-base-fl-tampa-south",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "89373555",
+            "vin": "58AFZ1B1XSU******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "Front-wheel Drive",
+            "fuel": "GAS",
+            "engineType": "3.5L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/08f60481074c4ff8876e182b5d73c8f0_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/08f60481074c4ff8876e182b5d73c8f0_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c579775be42d42c197183545759b6e56_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/898c9586e5a34318a49480c0b1a5ebbe_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/54c1b642b0ed4adc880b0d53df64b59a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/1e76f4d33db44deea464e908de04a27e_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 LEXUS RX 350",
+        "make": "LEXUS",
+        "year": "2021",
+        "model": "RX 350",
+        "link": "https://www.copart.com/lot/89368875/salvage-2021-lexus-rx-350-sc-spartanburg",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "89368875",
+            "vin": "JTJHZMDA6M2******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "TAN",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.5L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/4a3295c211d3408fba82c277ae921704_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/4a3295c211d3408fba82c277ae921704_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/174664ac45814acda9aeb942a7d8eb66_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/e0ef649e66ea4609ae18ce827bf88f27_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ccd8aac5635143feb907882ec3414282_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/56e668ee85e64d43bd5126903b0b0f2c_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 LEXUS IS 300",
+        "make": "LEXUS",
+        "year": "2024",
+        "model": "IS 300",
+        "link": "https://www.copart.com/lot/89364525/salvage-2024-lexus-is-300-tx-dallas-south",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "89364525",
+            "vin": "JTHDA1D2XR5******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b7cf19198bde46b3bff7a4563eb1248f_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b7cf19198bde46b3bff7a4563eb1248f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/fdc2d7b57b5143f6825f341539e06a09_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/997a8ef5664a4043b2953d0b5fdb82df_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/4d2d79949be2476ab6398f06219959f9_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/063816dfa2d0473d9e91a7cd8e2674ea_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 LEXUS RC 350 BASE",
+        "make": "LEXUS",
+        "year": "2022",
+        "model": "RC 350 BASE",
+        "link": "https://www.copart.com/lot/89360385/salvage-2022-lexus-rc-350-base-va-fredericksburg",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "89360385",
+            "vin": "JTHGZ5DC4N5******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "SILVER",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.5L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/3cc4327aec0a450eb47d5c89e6dab330_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/3cc4327aec0a450eb47d5c89e6dab330_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/f8f322ba84ed494b8903540a549b470a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/675caee0087040089b003e69485fa3a8_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ee8553f132354df9be0599a3a3920a37_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/da6d91737cb1474c80f3ca26881081e1_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 LEXUS RX 350H BASE",
+        "make": "LEXUS",
+        "year": "2024",
+        "model": "RX 350H BASE",
+        "link": "https://www.copart.com/lot/89351485/salvage-2024-lexus-rx-350h-base-md-baltimore",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "89351485",
+            "vin": "2T2BBMCA3RC******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "HYBRID ENGINE",
+            "engineType": "2.5L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/3d1d7b70546a4192b7078050572435e1_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/3d1d7b70546a4192b7078050572435e1_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/15b8c62ebfe5422ca54a8cd1c8c32713_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/7d648f27fe5949ffb1bd53ef53f88e30_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/576f713654e246448cff68c38f1c5db8_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/0a394f17e5c54d6c8cc7550769b878d9_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LEXUS UX 200",
+        "make": "LEXUS",
+        "year": "2020",
+        "model": "UX 200",
+        "link": "https://www.copart.com/lot/89348125/2020-lexus-ux-200-sc-spartanburg",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "89348125",
+            "vin": "JTHP3JBH3L2******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "Front-wheel Drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/74955aeb0b004d59ac11813b0cafacd5_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/74955aeb0b004d59ac11813b0cafacd5_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/8f7cfc8cc6b245b7b4445f6a5b9302f2_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c7666d43c137401c912237f37b977709_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/241f7929fa8645f08090cda236480677_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/9406cd1fca3b4602acf5854d7854ab83_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 LEXUS IS 350 F SPORT DESIGN",
+        "make": "LEXUS",
+        "year": "2023",
+        "model": "IS 350 F SPORT DESIGN",
+        "link": "https://www.copart.com/lot/89312435/2023-lexus-is-350-f-sport-design-ma-south-boston",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "89312435",
+            "vin": "JTHGZ1B22P5******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.5L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/f955f329ce444838a81221f44e138caa_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/f955f329ce444838a81221f44e138caa_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/26cfb2e554434411bb9a91357d0f0e5c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/6423701b769f4fad835a058f71ec5ebe_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/7870e06b667042e9bb72e34f396db1b2_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b3ad244589a54789ab7c51977e7885ab_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 LEXUS RX 350 BASE",
+        "make": "LEXUS",
+        "year": "2024",
+        "model": "RX 350 BASE",
+        "link": "https://www.copart.com/lot/89298845/2024-lexus-rx-350-base-ct-hartford-springfield",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "89298845",
+            "vin": "2T2BAMCA0RC******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.4L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/fef64ffaa0ff4aad8b790c7039c7215b_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/fef64ffaa0ff4aad8b790c7039c7215b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/83f5ebe95a004dba9b6820cbf96459ac_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/0537eb695f0443609cb210b51ff544b7_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/3d7151e323ca43b1ba80767c2900f4da_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/52a812db4a764c6f90372efc69387d04_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 LEXUS ES 350 BASE",
+        "make": "LEXUS",
+        "year": "2021",
+        "model": "ES 350 BASE",
+        "link": "https://www.copart.com/lot/89267675/salvage-2021-lexus-es-350-base-tx-dallas",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "89267675",
+            "vin": "58ADZ1B16MU******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "BURGUNDY",
+            "drive": "Front-wheel Drive",
+            "fuel": "GAS",
+            "engineType": "3.5L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/cc45c4247d5c4c2caf6dd77b286f1693_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/cc45c4247d5c4c2caf6dd77b286f1693_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/b9a8b30ca9e74ce8966df268872102da_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/468e149fff454cadbdb58d9035e23168_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/ac67ccb71b3745b688ba64d7c2d83579_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/94a85242536445189094fad34dce4eee_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LEXUS RX 350 F SPORT",
+        "make": "LEXUS",
+        "year": "2020",
+        "model": "RX 350 F SPORT",
+        "link": "https://www.copart.com/lot/89262785/2020-lexus-rx-350-f-sport-on-toronto",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "89262785",
+            "vin": "2T2YZMDA2LC******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.5L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/4c37c9198d8648d9bd6c4f3a65d63815_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/4c37c9198d8648d9bd6c4f3a65d63815_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c9f7a8796ae141abaacacc6fbc283a8c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/826884fee73b4cdc83969eaef5a9583f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/601d5ee1c4f84d6b86ff97f7a17c3177_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/3583bd9605ef477593dd0e95effacea4_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 LEXUS NX 300H BASE",
+        "make": "LEXUS",
+        "year": "2021",
+        "model": "NX 300H BASE",
+        "link": "https://www.copart.com/lot/89261605/salvage-2021-lexus-nx-300h-base-il-chicago-south",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "89261605",
+            "vin": "JTJDJRDZ8M5******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "RED",
+            "drive": "All wheel drive",
+            "fuel": "HYBRID ENGINE",
+            "engineType": "2.5L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/6856f8a4ac6d45f990332f95766bc72b_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/6856f8a4ac6d45f990332f95766bc72b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a0b18bd9b24942c9a5027447a0f76df9_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a81aead3c2984ffe9fa2245dfda7ef52_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/d55152d16def43a09b99c39e4ce54fe8_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ec883ff96d5e4a0da7a2e74c8c4dbb51_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 LEXUS NX 250 BASE",
+        "make": "LEXUS",
+        "year": "2024",
+        "model": "NX 250 BASE",
+        "link": "https://www.copart.com/lot/89218155/salvage-2024-lexus-nx-250-base-tx-houston",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "89218155",
+            "vin": "JTJADCAZXR5******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "CHARCOAL",
+            "drive": "Front-wheel Drive",
+            "fuel": "GAS",
+            "engineType": "2.5L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/ecf1034e1c534407a36c2f41ffb3b1a4_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/ecf1034e1c534407a36c2f41ffb3b1a4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/9c5c8a24176641e88182895a8492cb03_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/e2f1c244f6064b528d324ea66530df52_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/821234be03944b22b02d224d26b390a5_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/66f488ccc7414c7fa57f71ec6aeb792e_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 LEXUS NX 350 PREMIUM",
+        "make": "LEXUS",
+        "year": "2024",
+        "model": "NX 350 PREMIUM",
+        "link": "https://www.copart.com/lot/89199715/salvage-2024-lexus-nx-350-premium-nj-glassboro-east",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "89199715",
+            "vin": "JTJGGCEZ5R2******",
+            "primaryDamage": "ALL OVER",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.4L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/56c29e0aebbd42a7acb98336f69a3119_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/56c29e0aebbd42a7acb98336f69a3119_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/05f5e357d1494388a78203c254bc9a54_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/1a62f21321434c2a9af2ad9ae64d544f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ea9a39da096942a8a33aa9db12803579_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/269480870c4f4ea99a2297bbf24466bb_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 LEXUS ES 300H",
+        "make": "LEXUS",
+        "year": "2021",
+        "model": "ES 300H",
+        "link": "https://www.copart.com/lot/89188855/2021-lexus-es-300h-ca-fresno",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "89188855",
+            "vin": "58ADA1C18MU******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "Front-wheel Drive",
+            "fuel": "HYBRID ENGINE",
+            "engineType": "2.5L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/84d844712a9541b3af99545cc8a29e3c_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/84d844712a9541b3af99545cc8a29e3c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/63162d65db334a498248a0ce3f43cd4f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/83e9511794574acab51b84384c47c02c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/22f545216efa4705a0f51875fd074358_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/825f2dac96e4434c9480c37e32461d23_thb.jpg"
+        ]
+    },
+    {
+        "title": "2025 LEXUS ES 300H BASE",
+        "make": "LEXUS",
+        "year": "2025",
+        "model": "ES 300H BASE",
+        "link": "https://www.copart.com/lot/89183155/2025-lexus-es-300h-base-ct-hartford",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "89183155",
+            "vin": "58ADA1C10SU******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLUE",
+            "drive": "Front-wheel Drive",
+            "fuel": "HYBRID ENGINE",
+            "engineType": "2.5L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/7c188116f21f4435bdf6e3c4b0a40391_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/7c188116f21f4435bdf6e3c4b0a40391_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/84db0049148d4390ae1d9a9e3677b53c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/628a370f74f04063904564e75dc562f7_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/8f2b4d4828204f4d9abcf78c3c64a796_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a13adbe8ee1d46dfaa0eddf7ca05ec58_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 LEXUS TX 500H F SPORT PREMIUM",
+        "make": "LEXUS",
+        "year": "2024",
+        "model": "TX 500H F SPORT PREMIUM",
+        "link": "https://www.copart.com/lot/89179345/salvage-2024-lexus-tx-500h-f-sport-premium-ca-san-diego",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "89179345",
+            "vin": "5TDABAB62RS******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "HYBRID ENGINE",
+            "engineType": "2.4L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/60d4b6f865ef4b468f58c34b49dfa693_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/60d4b6f865ef4b468f58c34b49dfa693_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a0dc1dd17e72455abca9d5d45525fd5d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/305e1ca25657499cac5e4d737b2e4f6e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/757eef128c544a33a1a443027da7d8d9_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/555825dbed234d458848dc3dc400f108_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 LEXUS RX 450H",
+        "make": "LEXUS",
+        "year": "2022",
+        "model": "RX 450H",
+        "link": "https://www.copart.com/lot/89176865/salvage-2022-lexus-rx-450h-md-baltimore",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 250
+        },
+        "details": {
+            "lotNumber": "89176865",
+            "vin": "2T2HGMDA2NC******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLUE",
+            "drive": "All wheel drive",
+            "fuel": "HYBRID ENGINE",
+            "engineType": "3.5L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/5ee4a8053f97410d9508e3be144fe12c_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/5ee4a8053f97410d9508e3be144fe12c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/2b8b26d416cf4e9db940bc2e6cd3f2a9_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/cae4334a459948cc8d55777db576f602_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/68187c41f56549ad9bd1c769f146fc98_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b4ab633679224f65b008ea7efaec174d_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LEXUS IS 300 F SPORT",
+        "make": "LEXUS",
+        "year": "2020",
+        "model": "IS 300 F SPORT",
+        "link": "https://www.copart.com/lot/89159195/salvage-2020-lexus-is-300-f-sport-ca-san-jose",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 7200
+        },
+        "details": {
+            "lotNumber": "89159195",
+            "vin": "JTHGA1D20L5******",
+            "primaryDamage": "TOP/ROOF",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/0c87398797654ada853e27c147c9219d_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/0c87398797654ada853e27c147c9219d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a65b060a2ff24a6a918e296165b02f94_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/beceb6bae93e448492c2f0c43bb9fa63_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/63663ecc59154802b863e5dd431e44bc_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/67dbdf7fd3834b4da6ae419955af07ac_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 LEXUS TX 350 BASE",
+        "make": "LEXUS",
+        "year": "2024",
+        "model": "TX 350 BASE",
+        "link": "https://www.copart.com/lot/89141225/2024-lexus-tx-350-base-ok-oklahoma-city",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "89141225",
+            "vin": "5TDAAAA67RS******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "Front-wheel Drive",
+            "fuel": "GAS",
+            "engineType": "2.4L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c187e26442e2475780a9720862b1432a_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c187e26442e2475780a9720862b1432a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/d991fe459e2849918c45d3adfed2895c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/6d92d3829fe94cff8c237688b017aaed_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/8c27a111508541ae85930e12795f4e15_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a157f9a5fc63446e8e272158c3ee5dce_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 LEXUS IS 350 F SPORT DESIGN",
+        "make": "LEXUS",
+        "year": "2024",
+        "model": "IS 350 F SPORT DESIGN",
+        "link": "https://www.copart.com/lot/89104165/2024-lexus-is-350-f-sport-design-ca-sun-valley",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "89104165",
+            "vin": "JTHGZ1B29R5******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.5L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/57eaf46a84ad451faead0e3e5f4482a9_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/57eaf46a84ad451faead0e3e5f4482a9_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/610256cbc9b94673bbba04f240271a13_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/42ed8c1983c540feab8382227d8f959b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/f7ad3b117c524ee6aee6e5c22171e52c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/eb590c24f53544b5a3550ad7c318f87a_thb.jpg"
+        ]
+    },
+    {
+        "title": "2025 LEXUS NX 350H BASE",
+        "make": "LEXUS",
+        "year": "2025",
+        "model": "NX 350H BASE",
+        "link": "https://www.copart.com/lot/89100825/salvage-2025-lexus-nx-350h-base-il-chicago-north",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "89100825",
+            "vin": "2T2GKCEZ1SC******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "HYBRID ENGINE",
+            "engineType": "2.5L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/91a84ebcfd07480dbee9becebf52b68e_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/91a84ebcfd07480dbee9becebf52b68e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/d54dd615653a40a283cbef4a06c0b5d8_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/d695ccaef3b54342a0e4ffcd307d0fdb_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/063d51d45b1d4533894f0b83f8dbd96d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/13442f2e0b32435ea994dbdd653e94ab_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 LEXUS ES 350 BASE",
+        "make": "LEXUS",
+        "year": "2021",
+        "model": "ES 350 BASE",
+        "link": "https://www.copart.com/lot/89083255/salvage-2021-lexus-es-350-base-al-birmingham",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "89083255",
+            "vin": "58AGZ1B13MU******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "Front-wheel Drive",
+            "fuel": "GAS",
+            "engineType": "3.5L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/f851d678c4f54635b2787fb84186747f_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/f851d678c4f54635b2787fb84186747f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/bd938b66abde43998249e3ca9a5cbbb7_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/196c2079d7f04477bb6c2250d8cc6129_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/144aebd75b844d388dfdf89c95b3c570_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/479142b95e0846559ad6ebf88611ccdc_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 LEXUS RX 350 L",
+        "make": "LEXUS",
+        "year": "2022",
+        "model": "RX 350 L",
+        "link": "https://www.copart.com/lot/89028255/salvage-2022-lexus-rx-350-l-md-laurel",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "89028255",
+            "vin": "JTJHZKFA1N2******",
+            "primaryDamage": "ALL OVER",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.5L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c1951805a30e44568f09ba2fdba6a2dc_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c1951805a30e44568f09ba2fdba6a2dc_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a548ca7b50f44465ab36158cc4515764_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/03437a89e9634b4aa1ad3fa8450ccd46_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/571220b25cd445aaa5e3a30b57eac502_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/739797ac16f3494ca95df69e99d32f5f_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 LEXUS RX 350",
+        "make": "LEXUS",
+        "year": "2022",
+        "model": "RX 350",
+        "link": "https://www.copart.com/lot/89022575/salvage-2022-lexus-rx-350-hi-honolulu",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "89022575",
+            "vin": "2T2HZMAA2NC******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "Front-wheel Drive",
+            "fuel": "GAS",
+            "engineType": "3.5L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b5b3b8ab02f0439390d3fe6d69641492_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b5b3b8ab02f0439390d3fe6d69641492_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/5d12182ea59c4294a886e30e2de327fd_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/10dfb28068ba4e0781a648a5fd900187_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/0265ca7fbb13426c98ec5a68b08b7884_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/556c13cc0e4d4e0eb88d63c91c84cda9_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 LEXUS ES 300H LUXURY",
+        "make": "LEXUS",
+        "year": "2021",
+        "model": "ES 300H LUXURY",
+        "link": "https://www.copart.com/lot/89016795/salvage-2021-lexus-es-300h-luxury-ca-sun-valley",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "89016795",
+            "vin": "58AEA1C11MU******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "Front-wheel Drive",
+            "fuel": "HYBRID ENGINE",
+            "engineType": "2.5L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/0ec0379df86a4a1bb6d6363fa2701148_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/0ec0379df86a4a1bb6d6363fa2701148_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/f28a6653a04245da870dc72a2e3f00fd_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/1762c905167f4b839d1c74f7e85603bc_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/40856eadc550418ca265758ec60a988e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/49b8d0698e684c90b264de1a02dbe498_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 LEXUS ES 350 BASE",
+        "make": "LEXUS",
+        "year": "2023",
+        "model": "ES 350 BASE",
+        "link": "https://www.copart.com/lot/89001825/salvage-2023-lexus-es-350-base-ca-hayward",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "89001825",
+            "vin": "58ADZ1B18PU******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLUE",
+            "drive": "Front-wheel Drive",
+            "fuel": "GAS",
+            "engineType": "3.5L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/f8fa07e5b48349268185ae0c6b28f1d7_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/f8fa07e5b48349268185ae0c6b28f1d7_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/4cb885558aff408eb463826df35bfd6f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/8e40863c64c54154bd34f603d3264a67_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/7c83572cbc1b4b74871b04a19136c7f9_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/e762c22dba27426d91672cdac52877b2_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LEXUS ES 350",
+        "make": "LEXUS",
+        "year": "2020",
+        "model": "ES 350",
+        "link": "https://www.copart.com/lot/88974385/salvage-2020-lexus-es-350-az-phoenix-north",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "88974385",
+            "vin": "58ADZ1B19LU******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "Front-wheel Drive",
+            "fuel": "GAS",
+            "engineType": "3.5L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/9ca2384daadf4095bf3712064a893e18_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/9ca2384daadf4095bf3712064a893e18_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/2b4480e465704cefb48f919c8c4900e0_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/f75cf672b0ee4ba3896f2291e2f9d602_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a610c89bd17d4f2db4071a4d43ab88b9_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/e535ce31455d42a1bce85c1d5d1ae10e_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 LEXUS ES 350 BASE",
+        "make": "LEXUS",
+        "year": "2024",
+        "model": "ES 350 BASE",
+        "link": "https://www.copart.com/lot/88961765/2024-lexus-es-350-base-nc-mebane",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "88961765",
+            "vin": "58ADZ1B16RU******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "Front-wheel Drive",
+            "fuel": "GAS",
+            "engineType": "3.5L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a6df1d4ab4a3424a9ccb379ce21cf2cb_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a6df1d4ab4a3424a9ccb379ce21cf2cb_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b0888973debd46a5b0cde741f26afa31_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/5285fcabe4494812acbea586c2444648_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/436c80d2cb064814afa38c9124eb3a67_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/eaf3337813f949bfa128c556f9ab7bd6_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LEXUS RX 450H L",
+        "make": "LEXUS",
+        "year": "2020",
+        "model": "RX 450H L",
+        "link": "https://www.copart.com/lot/88950195/2020-lexus-rx-450h-l-qc-montreal",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "88950195",
+            "vin": "JTJHGKFA2L2******",
+            "primaryDamage": "SIDE",
+            "transmission": "N/A",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "HYBRID ENGINE",
+            "engineType": "No"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/72c9b86190744d3c9e7195e8a0f3d00b_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/72c9b86190744d3c9e7195e8a0f3d00b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/9e2f829a29834160b3b2a385f2340f13_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/f2bdd74e54a44ed5893769e84049d862_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/2e6f5c41643f4cd2a083596a3a937ba6_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/02e0d86a2e964e148ac66625f6d11515_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 LEXUS IS 350 F SPORT DESIGN",
+        "make": "LEXUS",
+        "year": "2024",
+        "model": "IS 350 F SPORT DESIGN",
+        "link": "https://www.copart.com/lot/88948995/salvage-2024-lexus-is-350-f-sport-design-ga-macon",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "88948995",
+            "vin": "JTHBZ1B21R5******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.5L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c3e12c25be1441a29598f83b9fb764ae_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c3e12c25be1441a29598f83b9fb764ae_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/f5552dcf28d44398914a76c194e6daa3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/29392a5f89ef463eb970adffc44eddc0_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/71cb526755654b9ab361d3472e3744da_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/6e5b296614534813ac4db1f5a734bc58_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 LEXUS NX 300 BASE",
+        "make": "LEXUS",
+        "year": "2021",
+        "model": "NX 300 BASE",
+        "link": "https://www.copart.com/lot/88929205/2021-lexus-nx-300-base-mi-detroit",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "88929205",
+            "vin": "JTJSARDZ8M2******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/9bd86a3a2f044fc8af139eee72281f21_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/9bd86a3a2f044fc8af139eee72281f21_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/40d6b863d8e645e1a7e0873cb8a4d137_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/3c7713d080af40f3a460b122c2836f4c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/8c5986db5c874f9592ab08f5c481b91f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ff36780551ad43ffb799a09e5013ab90_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 LEXUS RX 450H L",
+        "make": "LEXUS",
+        "year": "2021",
+        "model": "RX 450H L",
+        "link": "https://www.copart.com/lot/88920335/clean-title-2021-lexus-rx-450h-l-ga-fairburn",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 21600
+        },
+        "details": {
+            "lotNumber": "88920335",
+            "vin": "JTJHGKFA3M2******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "GOLD",
+            "drive": "All wheel drive",
+            "fuel": "HYBRID ENGINE",
+            "engineType": "3.5L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/50d8a2933142496cbe2c6a905e9c9330_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/50d8a2933142496cbe2c6a905e9c9330_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b12ebd2e37eb4971b175e267f9fe8c23_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/2cba21d113a3405ea8743fa3f036110e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/6f72339f5bdc4d53bee0865d4997f112_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/5241746ac1914829b50b4e79d848bd31_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 LEXUS NX 250",
+        "make": "LEXUS",
+        "year": "2023",
+        "model": "NX 250",
+        "link": "https://www.copart.com/lot/88885555/salvage-2023-lexus-nx-250-tx-san-antonio",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 10
+        },
+        "details": {
+            "lotNumber": "88885555",
+            "vin": "JTJADCAZ4P5******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "Front-wheel Drive",
+            "fuel": "GAS",
+            "engineType": "2.5L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/85bae099e7af4dd6bed01318e6544df7_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/85bae099e7af4dd6bed01318e6544df7_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/fc7ad109940242a9bcfec31561d59303_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/9c8f01dd9ab444b68cf7cbc86758bfdb_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/97347b210767441e83d6a4bb043ccf4e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/4764fce9413740b5b85578dcf1c8d2d2_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 LEXUS UX 250H BASE",
+        "make": "LEXUS",
+        "year": "2024",
+        "model": "UX 250H BASE",
+        "link": "https://www.copart.com/lot/88883245/2024-lexus-ux-250h-base-dc-washington-dc",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "88883245",
+            "vin": "JTHB9JBHXR2******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "SILVER",
+            "drive": "All wheel drive",
+            "fuel": "HYBRID ENGINE",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/3f536c2d45144cada8adff5fbf854986_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/3f536c2d45144cada8adff5fbf854986_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/f867ff1232eb40668fac6d6084e3ffba_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/643d392363bb481e9930298d46abc12a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b64704d7b06b4f4f9e3468629a7f3f8b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/e4af50be73284edc925112ea17e6ff3e_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 LEXUS RX 350 BASE",
+        "make": "LEXUS",
+        "year": "2023",
+        "model": "RX 350 BASE",
+        "link": "https://www.copart.com/lot/88875635/salvage-2023-lexus-rx-350-base-fl-punta-gorda-south",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "88875635",
+            "vin": "2T2BAMBA0PC******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "Front-wheel Drive",
+            "fuel": "GAS",
+            "engineType": "2.4L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ed4093a80c8f4069a1c60ac360fc778f_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ed4093a80c8f4069a1c60ac360fc778f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c36fd2b908cc475aa21bee2a85f39d4c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/f747270b91214f06971310334e748566_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/fd43310ba1fb40719675d05519ee6f1f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/aca4869533464b33b1e63d3706154687_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 LEXUS NX 300 BASE",
+        "make": "LEXUS",
+        "year": "2021",
+        "model": "NX 300 BASE",
+        "link": "https://www.copart.com/lot/88875625/salvage-2021-lexus-nx-300-base-ri-exeter",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "88875625",
+            "vin": "JTJDARDZ2M5******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "RED",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/41bfa7ac648c4b5487eb217fb66aea34_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/41bfa7ac648c4b5487eb217fb66aea34_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/908a0518ad4c45b49e70f2e51d4cb93d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/486b3766b9204973b883df4fb5c53b71_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/0d4edac3966544ab8cb12ac3c22d72ad_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/bbdefdf134e7462a9171698c870b4a75_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LEXUS ES 350",
+        "make": "LEXUS",
+        "year": "2020",
+        "model": "ES 350",
+        "link": "https://www.copart.com/lot/88861095/2020-lexus-es-350-tx-andrews",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "88861095",
+            "vin": "58ADZ1B1XLU******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "Front-wheel Drive",
+            "fuel": "GAS",
+            "engineType": "3.5L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/25991b15ee7248be81cd769d92fd82c3_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/25991b15ee7248be81cd769d92fd82c3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b0b27126523f4427a4e366aae5905b47_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/2d15932ed7174802a64a6cd83cfe8e81_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/5293af842be6404299fa154a93d2d280_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/bfafc96d041e424fab69fb6749f47020_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LEXUS ES 350 LUXURY",
+        "make": "LEXUS",
+        "year": "2020",
+        "model": "ES 350 LUXURY",
+        "link": "https://www.copart.com/lot/88812185/2020-lexus-es-350-luxury-ok-oklahoma-city",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "88812185",
+            "vin": "58AEZ1B16LU******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "SILVER",
+            "drive": "Front-wheel Drive",
+            "fuel": "GAS",
+            "engineType": "3.5L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/36df257cf44e48b5b9e55de70d2d305e_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/36df257cf44e48b5b9e55de70d2d305e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/865f0f8db3674ba5a87cd26a47ae2247_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/e16298ce0d47492cbb282a9d9a18138d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a7aa6b5582504f688c7252f258108d38_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b8bee3f06dfb479ead3cc11051581ed3_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LEXUS IS 300",
+        "make": "LEXUS",
+        "year": "2020",
+        "model": "IS 300",
+        "link": "https://www.copart.com/lot/88799685/salvage-2020-lexus-is-300-al-birmingham",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 500
+        },
+        "details": {
+            "lotNumber": "88799685",
+            "vin": "JTHAA1D26L5******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "SILVER",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/2769b21153f045c2960c25384adfa45e_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/2769b21153f045c2960c25384adfa45e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ce99d092bfff4d559f1e74f87c369cd6_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/33a447cbb1604c2998ba90cda22927d7_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/989787a1988a4fe2bf8d43c31cd213bd_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/520b359d57e04e06bc4ba856fb1d27b2_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LEXUS NX 300 BASE",
+        "make": "LEXUS",
+        "year": "2020",
+        "model": "NX 300 BASE",
+        "link": "https://www.copart.com/lot/88791325/2020-lexus-nx-300-base-fl-orlando-south",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "88791325",
+            "vin": "JTJAARBZXL5******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "Front-wheel Drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/213009caf3504821882a197463689764_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/213009caf3504821882a197463689764_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/cb2ce4ac15c348f2aa4d6405b9670816_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/87c47cc2074f4b5bbfa0c5a5bddc8354_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/3d098c0c41cc4225aaa95180cc0da54e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/4dd85eee5b5d440d92525cde78262eb8_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 LEXUS RX 350 F SPORT",
+        "make": "LEXUS",
+        "year": "2022",
+        "model": "RX 350 F SPORT",
+        "link": "https://www.copart.com/lot/88775795/2022-lexus-rx-350-f-sport-pa-altoona",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "88775795",
+            "vin": "2T2SZMDA5NC******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.5L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/233e98e2d9b54c39aba21ffa110bfbe7_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/233e98e2d9b54c39aba21ffa110bfbe7_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/82803683f79b4452ba4fd5d08dc325df_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/224bea5cd2e34d8aa16de1f7fb22512b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/39845a49ebad47e1a7fc17882b812589_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ac534127ea724df9ad435b4e0822484d_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 LEXUS ES 350 BASE",
+        "make": "LEXUS",
+        "year": "2023",
+        "model": "ES 350 BASE",
+        "link": "https://www.copart.com/lot/88743535/2023-lexus-es-350-base-ks-kansas-city",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "88743535",
+            "vin": "58AEZ1B17PU******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "Front-wheel Drive",
+            "fuel": "GAS",
+            "engineType": "3.5L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/74ec5ef43779482486f707240e700664_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/74ec5ef43779482486f707240e700664_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/36e3938facea444187098d7f1d8596a7_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/1c8cd2feb51b447e83345ec2d65e4b75_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/1eed3c336a9e40d987df0f05b8954607_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/1fc88f11f4d04be8aa4b625b76781f9f_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 LEXUS IS 300",
+        "make": "LEXUS",
+        "year": "2024",
+        "model": "IS 300",
+        "link": "https://www.copart.com/lot/88718275/clean-title-2024-lexus-is-300-on-toronto",
+        "currentBid": {
+            "currency": "CAD",
+            "amount": 150
+        },
+        "details": {
+            "lotNumber": "88718275",
+            "vin": "JTHG81F2XR5******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.5L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/d7272f1fac6d4ed08ffd42de90d41435_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/d7272f1fac6d4ed08ffd42de90d41435_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/97cef1124a5c41f78a3f5265c3d783f3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/da17d787f1464b268165337ecd28f45d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/e657a3a502114879b42ebac5076edc80_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/07b7e31e04ff4ed79e7dd1cfc43053ad_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 LEXUS RC 350 BASE",
+        "make": "LEXUS",
+        "year": "2021",
+        "model": "RC 350 BASE",
+        "link": "https://www.copart.com/lot/88706725/salvage-2021-lexus-rc-350-base-tx-san-antonio",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "88706725",
+            "vin": "JTHDZ5BC1M5******",
+            "primaryDamage": "ALL OVER",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.5L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/4b41bd5848c34340b1efe33d7bf30ef3_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/4b41bd5848c34340b1efe33d7bf30ef3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/5d59e563dea24d9b899b9ee34421e755_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/5f91ea4dc64c419290c19cf44b62efbb_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c9f7ab324e304b4d9659549fe6038901_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/627f6c92818d47ce9689a1cdb42d1840_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 LEXUS IS 350 F SPORT",
+        "make": "LEXUS",
+        "year": "2021",
+        "model": "IS 350 F SPORT",
+        "link": "https://www.copart.com/lot/88703345/salvage-2021-lexus-is-350-f-sport-sc-north-charleston",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "88703345",
+            "vin": "JTHGZ1B23M5******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.5L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ab59e19ed2d948acb74815dc3e4b3361_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ab59e19ed2d948acb74815dc3e4b3361_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a5b800f5a3564a1b8e689bc19b41182d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/9c070e72f8bc4fa9bd8d82278af76d80_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/0b585060f73440c2b7681ff0bd621ec3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/22b35b9580354f0490d40746d4d48fc9_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 LEXUS RX 350H BASE",
+        "make": "LEXUS",
+        "year": "2024",
+        "model": "RX 350H BASE",
+        "link": "https://www.copart.com/lot/88694175/salvage-2024-lexus-rx-350h-base-dc-washington-dc",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "88694175",
+            "vin": "2T2BBMCAXRC******",
+            "primaryDamage": "ALL OVER",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "HYBRID ENGINE",
+            "engineType": "2.5L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/be9d4a55b49749e49c35ea7214914993_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/be9d4a55b49749e49c35ea7214914993_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/1036912161ea484ab4f8142f115e036f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/f93797ad75774abb90e8bf27a054ed6e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/9cf868ccff554756b98c2f6fe0f3c110_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ca3def5fc8144ef5abb9435e5574cc4b_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 LEXUS IS 300",
+        "make": "LEXUS",
+        "year": "2022",
+        "model": "IS 300",
+        "link": "https://www.copart.com/lot/88693305/2022-lexus-is-300-fl-punta-gorda-south",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 7700
+        },
+        "details": {
+            "lotNumber": "88693305",
+            "vin": "JTHAA1D25N5******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "SILVER",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/a933f04b346a44ef9a9ec2bb522d9b05_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/a933f04b346a44ef9a9ec2bb522d9b05_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/8319d8f7eb334e8787b18333579b83fa_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/48e3d9f71dc4438ca30f476d1485f071_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/96a00365a5b042f7947dfcff164befdb_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/b5986571b2534541bec60b05ab01b6ab_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 LEXUS NX 300 BASE",
+        "make": "LEXUS",
+        "year": "2021",
+        "model": "NX 300 BASE",
+        "link": "https://www.copart.com/lot/88677345/salvage-2021-lexus-nx-300-base-mi-detroit",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 325
+        },
+        "details": {
+            "lotNumber": "88677345",
+            "vin": "JTJDARBZ2M5******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "Front-wheel Drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c1b5a1c056704528a0b21d8e5d64fee3_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c1b5a1c056704528a0b21d8e5d64fee3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/d0260192d6864864b858ceede4433261_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/4a1e9acbb786432a8b71c4cbc26e807e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/25bff5ffa4aa4e0fb368d4c047d029dc_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/feaec9c11e484dc6a7b0604e83b4a1b2_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 LEXUS GX 460",
+        "make": "LEXUS",
+        "year": "2023",
+        "model": "GX 460",
+        "link": "https://www.copart.com/lot/88597485/salvage-2023-lexus-gx-460-ca-bakersfield",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 175
+        },
+        "details": {
+            "lotNumber": "88597485",
+            "vin": "JTJAM7BX8P5******",
+            "primaryDamage": "ALL OVER",
+            "transmission": "AUTOMATIC",
+            "color": "SILVER",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "4.6L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/8fedc67b07e8450cba67293156f00f0a_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/8fedc67b07e8450cba67293156f00f0a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/1b8ae4c8e8ca4280b0981805a033e964_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/f88da28987bc4e68a683bc3d89292553_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/cb912f045c704bc0b58006c07204f879_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/af53b53178da4fcc8cac56400fc9fb93_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 LEXUS GX 460",
+        "make": "LEXUS",
+        "year": "2023",
+        "model": "GX 460",
+        "link": "https://www.copart.com/lot/88583655/clean-title-2023-lexus-gx-460-ny-long-island",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "88583655",
+            "vin": "JTJAM7BX2P5******",
+            "primaryDamage": "MINOR DENT/SCRATCHES",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "4.6L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b2b9b26265e9497f813f554b16283ed5_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b2b9b26265e9497f813f554b16283ed5_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/546e20ccbebf49c6820cf14f28e02fdf_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/8c21edb9e64f48caaa47dc171617715a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/84844839f72b464895ffa317dc77e87e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/023a4d363e2345739542cf7f4ad2fa2b_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LEXUS ES 350 BASE",
+        "make": "LEXUS",
+        "year": "2020",
+        "model": "ES 350 BASE",
+        "link": "https://www.copart.com/lot/88558665/2020-lexus-es-350-base-ga-atlanta-west",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "88558665",
+            "vin": "58ACZ1B12LU******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "Front-wheel Drive",
+            "fuel": "GAS",
+            "engineType": "3.5L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/06a3b816a39e4177b6d8fbb7d1bcc114_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/06a3b816a39e4177b6d8fbb7d1bcc114_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ea86eae05d0545dabb0af373678a994a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/3c9a104c33f6448796bfbe5355f46758_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ee747b12d4d24774925a2cbf5c300dca_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/30b58c851490484ab06c4f8bf01eb5f4_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 LEXUS ES 300H",
+        "make": "LEXUS",
+        "year": "2021",
+        "model": "ES 300H",
+        "link": "https://www.copart.com/lot/88557295/salvage-2021-lexus-es-300h-la-baton-rouge",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 2300
+        },
+        "details": {
+            "lotNumber": "88557295",
+            "vin": "58ADA1C1XMU******",
+            "primaryDamage": "ALL OVER",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "Front-wheel Drive",
+            "fuel": "HYBRID ENGINE",
+            "engineType": "2.5L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/01ea8f8f43ff447bab6da0503edb8b6b_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/01ea8f8f43ff447bab6da0503edb8b6b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/68bda831f52748a3b38a7501c7717aaf_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/3d3491386d0441c5b1add4acfb41ac3e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/8e2d4577bea4404795d8ec0ff575c2ba_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/d061b723161348a9aef2c389a93f972a_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 LEXUS ES 300H BASE",
+        "make": "LEXUS",
+        "year": "2024",
+        "model": "ES 300H BASE",
+        "link": "https://www.copart.com/lot/88536875/salvage-2024-lexus-es-300h-base-ca-sun-valley",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 6600
+        },
+        "details": {
+            "lotNumber": "88536875",
+            "vin": "58ADA1C13RU******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLUE",
+            "drive": "Front-wheel Drive",
+            "fuel": "HYBRID ENGINE",
+            "engineType": "2.5L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b4370223b0854d79b894507e68c29dab_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b4370223b0854d79b894507e68c29dab_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/9c7b366a1d614e658200b41470348421_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/d3ba46ca6a274e7b851086305636803c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/d8ddcf8363a44372801287fdda13f66d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b6e9adf4420a4b978c5a56474d15c095_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 LEXUS NX 350H BASE",
+        "make": "LEXUS",
+        "year": "2024",
+        "model": "NX 350H BASE",
+        "link": "https://www.copart.com/lot/88507375/salvage-2024-lexus-nx-350h-base-ga-atlanta-west",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "88507375",
+            "vin": "JTJHKCEZ9R2******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BURGUNDY",
+            "drive": "All wheel drive",
+            "fuel": "HYBRID ENGINE",
+            "engineType": "2.5L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/88e069c6da844d1ca12ce2f38ded1307_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/88e069c6da844d1ca12ce2f38ded1307_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/f91d8b3bc20541df9399cb4cbca44327_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/e6244d151f124678a892e42884532441_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a35e51ac292c4332ae42f8d3560e1ca1_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/fac9bf540fcf4b969b49cfedbf7b1f12_thb.jpg"
+        ]
+    },
+    {
+        "title": "2025 LEXUS ES 350 BASE",
+        "make": "LEXUS",
+        "year": "2025",
+        "model": "ES 350 BASE",
+        "link": "https://www.copart.com/lot/88488695/2025-lexus-es-350-base-sc-spartanburg",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "88488695",
+            "vin": "58ADZ1B14SU******",
+            "primaryDamage": "REAR END",
+            "transmission": "Yes",
+            "color": "SILVER",
+            "drive": "Front-wheel Drive",
+            "fuel": "GAS",
+            "engineType": "3.5L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b463740e024d4e419c72672bee68cf1b_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b463740e024d4e419c72672bee68cf1b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a98bea09ac64485b91b05cc359c3d03c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/7efea6bfd2bc49d7a731c33ea0586eef_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/29dd6e3639cf4018b81fa0ecc80f5900_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/d56b6e63a80c464a881bb4c2cf2bf2ee_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 LEXUS IS 350 F SPORT",
+        "make": "LEXUS",
+        "year": "2022",
+        "model": "IS 350 F SPORT",
+        "link": "https://www.copart.com/lot/88472395/2022-lexus-is-350-f-sport-ca-san-jose",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "88472395",
+            "vin": "JTHGZ1B28N5******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.5L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/385ed5198b034ad19f97d818fe85b3f3_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/385ed5198b034ad19f97d818fe85b3f3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b6d7a135e32840ae80d29ec912fe2bab_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/16e9f39960c249919f08f18fdbe5382f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ea37d22903c44c2aa6532d9d4c3e989e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b184b9b8b6bc4240aa9739454c1f6b33_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 LEXUS RX 350 L",
+        "make": "LEXUS",
+        "year": "2022",
+        "model": "RX 350 L",
+        "link": "https://www.copart.com/lot/88469235/salvage-2022-lexus-rx-350-l-ky-earlington",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "88469235",
+            "vin": "JTJHZKFA4N2******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "RED",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.5L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/49db13f85bb947118469aff65cef5106_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/49db13f85bb947118469aff65cef5106_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/431915bb8a3a4f128c2e52a26105b01c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/7fddda196c6b4a1881057251fa70d44e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/901c6b754aa949329749c2bddeed7518_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/d7c5d0b8bec04b5eb7198d49161990e2_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 LEXUS NX 300 BASE",
+        "make": "LEXUS",
+        "year": "2021",
+        "model": "NX 300 BASE",
+        "link": "https://www.copart.com/lot/88459685/clean-title-2021-lexus-nx-300-base-tx-andrews",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "88459685",
+            "vin": "JTJSARBZ6M2******",
+            "primaryDamage": "ALL OVER",
+            "transmission": "AUTOMATIC",
+            "color": "BEIGE",
+            "drive": "Front-wheel Drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a3a4e3c148ac4369afada48227ffec13_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a3a4e3c148ac4369afada48227ffec13_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/f586a91d4161478b9f32d35664325f90_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/e1405639befb4413bfdfcdb11e315c3c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/87061506808545e08c33806445893785_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/d530713061ff4af4b6279d2e4be87d68_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 LEXUS NX 350H BASE",
+        "make": "LEXUS",
+        "year": "2024",
+        "model": "NX 350H BASE",
+        "link": "https://www.copart.com/lot/88349845/2024-lexus-nx-350h-base-ca-van-nuys",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "88349845",
+            "vin": "JTJGKCEZ3R2******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "HYBRID ENGINE",
+            "engineType": "2.5L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b0bc438d5cb84326bd05894403e03d8c_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b0bc438d5cb84326bd05894403e03d8c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/e2520cd490504336b96e5b6dd99d45fe_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/9224c61d168145b3863bce5fdb2af2cd_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/3292aec8057245cea4d221d4434e4209_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c254c868577a45a784803a0aac9ff811_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LEXUS RC 350 F SPORT",
+        "make": "LEXUS",
+        "year": "2020",
+        "model": "RC 350 F SPORT",
+        "link": "https://www.copart.com/lot/88333365/salvage-2020-lexus-rc-350-f-sport-il-chicago-north",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 2600
+        },
+        "details": {
+            "lotNumber": "88333365",
+            "vin": "JTHGZ5DCXL5******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.5L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/5b33ae5abefe4a50b149f0cde1e823f6_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/5b33ae5abefe4a50b149f0cde1e823f6_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/77fe3390bb4e46e0ae3f4786e961423d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/81ad30e41d414f7ea8eca54b280452f9_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/fcdbe9c9c8004f8b9d87ee504a7748e6_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/32d23128c2b4499fb766c90ff72c9110_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 LEXUS NX 300 BASE",
+        "make": "LEXUS",
+        "year": "2021",
+        "model": "NX 300 BASE",
+        "link": "https://www.copart.com/lot/88302755/2021-lexus-nx-300-base-ct-hartford",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "88302755",
+            "vin": "JTJDARDZ1M2******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/9111acb3f9f04ff8ad1ab5c9e4806093_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/9111acb3f9f04ff8ad1ab5c9e4806093_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/19389bc2363848c9a110f9785a32bacd_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/2a277cb627f34aa98c6c795b11934e87_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/f8c25cff4b294e08ad09f636997c12cc_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/0360a16fa91645f8a1500488659d00a5_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 LEXUS IS 350 F SPORT",
+        "make": "LEXUS",
+        "year": "2022",
+        "model": "IS 350 F SPORT",
+        "link": "https://www.copart.com/lot/88294685/2022-lexus-is-350-f-sport-ct-hartford",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "88294685",
+            "vin": "JTHGZ1E28N5******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.5L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a36d701f0e184f16880c016aeb73c7d6_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a36d701f0e184f16880c016aeb73c7d6_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/703346a9ea9049c592dfefbd16789558_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/9cc11c51340d445f836bc2f4b839ece1_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/e6f321b792344ebaa9ad7a08b2155565_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/63b295fc2b6341d3bf73c4371433df82_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 LEXUS IS 300",
+        "make": "LEXUS",
+        "year": "2022",
+        "model": "IS 300",
+        "link": "https://www.copart.com/lot/88272585/salvage-2022-lexus-is-300-fl-miami-south",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "88272585",
+            "vin": "JTHDA1D22N5******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/26bd031e0e4d4f359dc50c665f4a0f59_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/26bd031e0e4d4f359dc50c665f4a0f59_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/5ae87cc47af84b3398dfb4def922326d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a458ebabab4448f083ae7a77dd5ff22a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a86bcdbdde084183891b38a81c7d1af8_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/d9999c7a19744b06a528a5f09fc903ad_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 LEXUS IS 350 F SPORT",
+        "make": "LEXUS",
+        "year": "2021",
+        "model": "IS 350 F SPORT",
+        "link": "https://www.copart.com/lot/88272285/salvage-2021-lexus-is-350-f-sport-nc-gastonia",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "88272285",
+            "vin": "JTHGZ1B23M5******",
+            "primaryDamage": "ALL OVER",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.5L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/d75448b26a34467d91e1f05064397b98_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/d75448b26a34467d91e1f05064397b98_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/eacc9852f5e64d5b99c96abd89c08a6b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/42853fd6f3f64c038a12992825b75f21_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/075a962ef8894784972a1c73d37ec315_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a986156c455c47a886317fe26cea4700_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 LEXUS RX 350",
+        "make": "LEXUS",
+        "year": "2022",
+        "model": "RX 350",
+        "link": "https://www.copart.com/lot/88264515/2022-lexus-rx-350-nj-somerville",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "88264515",
+            "vin": "2T2HZMDA0NC******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLUE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.5L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a4f7c26d920844198593f6688d3532f9_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a4f7c26d920844198593f6688d3532f9_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/9e4ba07ddde8408d8941b8406cfa44c8_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a934ade6454642c3a8bdeb3ffabb2a97_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/7151f59b4ec948a3964c35c676a874df_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ac3f889923404da294331ce3e2e4fb24_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 LEXUS ES 350 BASE",
+        "make": "LEXUS",
+        "year": "2023",
+        "model": "ES 350 BASE",
+        "link": "https://www.copart.com/lot/88211475/2023-lexus-es-350-base-oh-dayton",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "88211475",
+            "vin": "58ADZ1B1XPU******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "Front-wheel Drive",
+            "fuel": "GAS",
+            "engineType": "3.5L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/3d5fabc17d2942bc8f7bc02697338a9a_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/3d5fabc17d2942bc8f7bc02697338a9a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/8fc6b9bf54b74efcbf19d9bcc402c245_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/2f93ec0e5acb418cad38f12f6915aef0_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/acf6002dfaff40448d9f3a715e1f1fef_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/2eb923b794324f1d8a60a787e7058a8d_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 LEXUS GX 550 PREMIUM/PREMIUM+",
+        "make": "LEXUS",
+        "year": "2024",
+        "model": "GX 550 PREMIUM/PREMIUM+",
+        "link": "https://www.copart.com/lot/88151095/2024-lexus-gx-550-premiumpremium%2B-nh-candia",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "88151095",
+            "vin": "JTJTBCDX4R5******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.4L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/6ab4162675e14454883728b8acdae21d_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/6ab4162675e14454883728b8acdae21d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/72525f49cb7e4536aa303eea6164bb66_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/773ad0183f0a453c9e8bdb02d4697e33_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/89435b6692e940e687142cda2f214376_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/3b1b8ff11f7545dcaff8ec4ca24ea1ba_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 LEXUS IS 350 F SPORT",
+        "make": "LEXUS",
+        "year": "2021",
+        "model": "IS 350 F SPORT",
+        "link": "https://www.copart.com/lot/88141175/salvage-2021-lexus-is-350-f-sport-oh-cleveland-east",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "88141175",
+            "vin": "JTHGZ1E28M5******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "SILVER",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.5L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/6eb18ba406dd4abb9ccf3ce9bd890dd3_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/6eb18ba406dd4abb9ccf3ce9bd890dd3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/4ec83366b94c462f97105efb50c61c3b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/56751d9ddad34b0ca01620a7d8ba47d6_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/f20f9fe656ad4b52ac8f49b4312a5247_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/e65bbe2d17394b6f8f6674026935453e_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 LEXUS RX 350 L",
+        "make": "LEXUS",
+        "year": "2021",
+        "model": "RX 350 L",
+        "link": "https://www.copart.com/lot/88116705/2021-lexus-rx-350-l-ks-kansas-city",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "88116705",
+            "vin": "JTJHZKFA6M2******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "CHARCOAL",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.5L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/cdf94b7bfcfc43dd8137b7f35e1d1f2a_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/cdf94b7bfcfc43dd8137b7f35e1d1f2a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/9fa81596f2c049638f33959fcc2b2da3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/0389a892ca0a437d84d0390d0b4d1904_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/1bc4fb3abffa495aa52347ac445527d4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/1dedf68a29714a3cbd272fd289adee5b_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 LEXUS IS 300",
+        "make": "LEXUS",
+        "year": "2021",
+        "model": "IS 300",
+        "link": "https://www.copart.com/lot/88082845/salvage-2021-lexus-is-300-la-shreveport",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "88082845",
+            "vin": "JTHAA1D21M5******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/dee9861218824f20862396a9f1967bcc_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/dee9861218824f20862396a9f1967bcc_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/bac5b4dd465e4dd0a41aa16e12b3abff_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b3e2fc0d1e3347a0b6e4ef66d5b1332e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ddc5f8855b2d4204ac2abd24758342a8_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/79ffdd0629684da591f890f845817582_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 LEXUS IS 300",
+        "make": "LEXUS",
+        "year": "2021",
+        "model": "IS 300",
+        "link": "https://www.copart.com/lot/88060185/2021-lexus-is-300-wv-charleston",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "88060185",
+            "vin": "JTHC81F22M5******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.5L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a3e95cc0ce244bb688bcc7146cc1cfc1_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a3e95cc0ce244bb688bcc7146cc1cfc1_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/d05bf0e047414c6c8928e0d836260626_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/93564f725ab04755b696a9b11cb8d4b3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/57b83b1889b146e3b0e3ba64b263c450_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/d038f2fec0ee4cd6a43acbd44eb02f1a_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LEXUS GX 460 PREMIUM",
+        "make": "LEXUS",
+        "year": "2020",
+        "model": "GX 460 PREMIUM",
+        "link": "https://www.copart.com/lot/88028255/2020-lexus-gx-460-premium-on-london",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "88028255",
+            "vin": "JTJAM7BX4L5******",
+            "primaryDamage": "VANDALISM",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "4.6L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/e8375dc6f8b24ed9bb87744e82453000_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/e8375dc6f8b24ed9bb87744e82453000_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/28d07ab9cece456abe90548b131c4987_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/d3294a45bee3414387681a1a5bbbad52_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/fa5569eb7ffc42fa8ebc8b4dc81bf074_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c1c2f0fa1c0548d6a2d3303d5e2676d3_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LEXUS RX 350",
+        "make": "LEXUS",
+        "year": "2020",
+        "model": "RX 350",
+        "link": "https://www.copart.com/lot/87957465/2020-lexus-rx-350-tn-memphis",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "87957465",
+            "vin": "2T2HZMAA5LC******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "Front-wheel Drive",
+            "fuel": "GAS",
+            "engineType": "3.5L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/710f4ee505ca4b2483fcee4614d8a3f3_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/710f4ee505ca4b2483fcee4614d8a3f3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/14c843ef09a94f2a8c6c47ab0b9702cb_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/47a720336f3f4a16ba2edb300d7b9ab1_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b94671b6ae464651ac046fae1f41f9f1_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/420de57354a54f89b3cf4100a46d87eb_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 LEXUS UX 250H",
+        "make": "LEXUS",
+        "year": "2021",
+        "model": "UX 250H",
+        "link": "https://www.copart.com/lot/87916535/2021-lexus-ux-250h-wy-casper",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "87916535",
+            "vin": "JTHX9JBH8M2******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "HYBRID ENGINE",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/7e357d9550354718ad0453e59777bf2d_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/7e357d9550354718ad0453e59777bf2d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/5045688ce0f04126824f3e6e0e89cfa0_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/1ac42065dd1f4654b08a02fb1597224e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/887cc2433392468192a630834684d868_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/515a0bbb40da443f899870145f6ee2ad_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 LEXUS ES 250 BASE",
+        "make": "LEXUS",
+        "year": "2021",
+        "model": "ES 250 BASE",
+        "link": "https://www.copart.com/lot/87913945/2021-lexus-es-250-base-tx-north-austin",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "87913945",
+            "vin": "58AD11D14MU******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "SILVER",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.5L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a4a3df01f4e74db48ec61413607a1626_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a4a3df01f4e74db48ec61413607a1626_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/f9f67944f1144c41a869b5285c6b573e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/2a95fc8bba74494bbf45043ba2e26a9e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/0ceaee237a394c548aebbc11ee917b8e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/93c2918219204399841060a5bcd49709_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LEXUS NX 300H",
+        "make": "LEXUS",
+        "year": "2020",
+        "model": "NX 300H",
+        "link": "https://www.copart.com/lot/87912485/salvage-2020-lexus-nx-300h-nj-somerville",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "87912485",
+            "vin": "JTJGJRDZ6L2******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "TAN",
+            "drive": "All wheel drive",
+            "fuel": "HYBRID ENGINE",
+            "engineType": "2.5L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/85ac11de8cdf4e8881ef43ba912a7501_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/85ac11de8cdf4e8881ef43ba912a7501_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/f7dc55b9d7d54471981532c95621f47f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/091484b799e94864adbe6bfc604a70f0_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/9612474d95fc44a2abb11d404cdf39ed_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/f2c36cbacf1b4404b4566d4e8f7e96fb_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 LEXUS TX 350 BASE",
+        "make": "LEXUS",
+        "year": "2024",
+        "model": "TX 350 BASE",
+        "link": "https://www.copart.com/lot/87905515/2024-lexus-tx-350-base-fl-west-palm-beach",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 10300
+        },
+        "details": {
+            "lotNumber": "87905515",
+            "vin": "5TDAAAA65RS******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "Front-wheel Drive",
+            "fuel": "GAS",
+            "engineType": "2.4L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/e0540896e09c42c7b7a305b96e4fe2ec_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/e0540896e09c42c7b7a305b96e4fe2ec_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/3bd527058adc4962810e3b1b797aa8de_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/1a3a50675b044965a39a4724b3022cae_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ecbbc0d27cff4d1591140807f7501d05_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/66e21a9f9502485b90c0356b8019da64_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 LEXUS ES 250 BASE",
+        "make": "LEXUS",
+        "year": "2023",
+        "model": "ES 250 BASE",
+        "link": "https://www.copart.com/lot/87857175/2023-lexus-es-250-base-wa-north-seattle",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "87857175",
+            "vin": "58AD11D15PU******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.5L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/1841f1bbdeaf461ba7000adebe7c9ff2_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/1841f1bbdeaf461ba7000adebe7c9ff2_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/61b3b51540f54d76adb51b59a2142a58_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/02d3b11d9ee140649743cc2812c72b53_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/793eccb8e1d5402f8bf2081376fd0d2e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/6c1003b817df4b29948907bbb91aef6b_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 LEXUS NX 350 LUXURY",
+        "make": "LEXUS",
+        "year": "2024",
+        "model": "NX 350 LUXURY",
+        "link": "https://www.copart.com/lot/87848295/2024-lexus-nx-350-luxury-ca-martinez",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "87848295",
+            "vin": "2T2KGCEZ6RC******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.4L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ae3c2f8b546c4edc9f3497cdafdd9a9b_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ae3c2f8b546c4edc9f3497cdafdd9a9b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/d6ac1199ece646c5b3b0e658a531c2ed_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/26d267a2936e4aedabe5ca5c9310f219_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/2634567c1a094568bfecdf869a993b1e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/0da2deabdd9542588f64e7995632b9c7_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 LEXUS NX 300 BASE",
+        "make": "LEXUS",
+        "year": "2021",
+        "model": "NX 300 BASE",
+        "link": "https://www.copart.com/lot/87846445/2021-lexus-nx-300-base-fl-punta-gorda-south",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "87846445",
+            "vin": "JTJDARBZ0M5******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "RED",
+            "drive": "Front-wheel Drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/871f669eab23434596c8aebaaefda4e4_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/871f669eab23434596c8aebaaefda4e4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/cb2945cc85b5492183f00db7fd8a0f6c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/964735afe7344fbfb20195a9ecf800d9_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/560666affdce4fba836a82ebb6f37466_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/0b4219d6179f4ffe8ec5d43a83453b2c_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 LEXUS IS 350 F SPORT DESIGN",
+        "make": "LEXUS",
+        "year": "2023",
+        "model": "IS 350 F SPORT DESIGN",
+        "link": "https://www.copart.com/lot/87760385/2023-lexus-is-350-f-sport-design-ca-sun-valley",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "87760385",
+            "vin": "JTHGZ1B24P5******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.5L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/551d14576e034b4a8486d5bfbc68ed60_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/551d14576e034b4a8486d5bfbc68ed60_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/af144f777a5b4ae995562c12866619ac_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/923dd81884af49e9838f8e96eab8844c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/d7beb0c788b54d6ba899804965cc8003_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/022ffe72b213487fb5df059f91971272_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 LEXUS RX 350",
+        "make": "LEXUS",
+        "year": "2021",
+        "model": "RX 350",
+        "link": "https://www.copart.com/lot/87735125/salvage-2021-lexus-rx-350-dc-washington-dc",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 275
+        },
+        "details": {
+            "lotNumber": "87735125",
+            "vin": "2T2HZMDA2MC******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.5L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/7d130f8111fd45dbbf2fbc4082ecfd16_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/7d130f8111fd45dbbf2fbc4082ecfd16_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/811e04a72a45455a8dfa733e2f84fc63_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a9e9329211ae41678effb3cecc3277bd_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/bd7abf91547e4722b857bb3e35019729_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b80d26113ee84ae09c113a4b80a8a0a6_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 LEXUS LX 600 BASE",
+        "make": "LEXUS",
+        "year": "2024",
+        "model": "LX 600 BASE",
+        "link": "https://www.copart.com/lot/87724765/salvage-2024-lexus-lx-600-base-il-chicago-north",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 19200
+        },
+        "details": {
+            "lotNumber": "87724765",
+            "vin": "JTJGB7CX1R4******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "SILVER",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.5L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b498453ee5bb4a05bac949e4806aeeb2_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b498453ee5bb4a05bac949e4806aeeb2_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b2c36e22a99948df94dffaee87f388a4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/6b4e4e6096834af7bfb8ed50e262edbd_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ff034c6cdccc4449a99661c22b24f14b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/64c6693bf1ee4c7c9f9fb08369858da3_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 LEXUS RX 350H BASE",
+        "make": "LEXUS",
+        "year": "2023",
+        "model": "RX 350H BASE",
+        "link": "https://www.copart.com/lot/87706275/salvage-2023-lexus-rx-350h-base-ny-buffalo",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 18300
+        },
+        "details": {
+            "lotNumber": "87706275",
+            "vin": "2T2BBMCA5PC******",
+            "primaryDamage": "VANDALISM",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "HYBRID ENGINE",
+            "engineType": "2.5L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/99f6091dfdd445399e2e3e35f1dba91b_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/99f6091dfdd445399e2e3e35f1dba91b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/1cb444c95e4c49e29916ed20f5549457_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/4f5340b3cb4d47a79027cd21f86c8aa4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/7e17075242144f55b75b3006aee9c923_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/7f4760af2d864541aaeba0724cb3c137_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 LEXUS RX 350 BASE",
+        "make": "LEXUS",
+        "year": "2024",
+        "model": "RX 350 BASE",
+        "link": "https://www.copart.com/lot/87695555/salvage-2024-lexus-rx-350-base-tx-dallas",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 4550
+        },
+        "details": {
+            "lotNumber": "87695555",
+            "vin": "2T2BAMCA8RC******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLUE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.4L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/33ab2e73277b44789d89a432e87e232e_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/33ab2e73277b44789d89a432e87e232e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/27738123e5bd447c8deb6afa42dc38a8_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/96a0ef74ad94456fbc8c3be889674f31_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/4c736f01cd194c39b507c62a029ca1fd_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a992d11d5b52441f997512e7cb162ede_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 LEXUS UX 250H PREMIUM",
+        "make": "LEXUS",
+        "year": "2023",
+        "model": "UX 250H PREMIUM",
+        "link": "https://www.copart.com/lot/87671095/salvage-2023-lexus-ux-250h-premium-ny-long-island",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 1000
+        },
+        "details": {
+            "lotNumber": "87671095",
+            "vin": "JTHP9JBH8P2******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "HYBRID ENGINE",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/5f33cde8b92e41a3af4ac2f8d21d6ca5_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/5f33cde8b92e41a3af4ac2f8d21d6ca5_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/7cbf0d7ff1b048b094e379603fd52865_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/979f35c6763f41f3835d1f26a1cef56b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/cb452d1f1bf7484388e718d9b86f14eb_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c6ad2647464942f8bc6fbb65f0463ef0_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LEXUS NX 300H",
+        "make": "LEXUS",
+        "year": "2020",
+        "model": "NX 300H",
+        "link": "https://www.copart.com/lot/87661585/salvage-2020-lexus-nx-300h-ut-salt-lake-city",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 150
+        },
+        "details": {
+            "lotNumber": "87661585",
+            "vin": "JTJGJRDZ0L2******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "RED",
+            "drive": "All wheel drive",
+            "fuel": "HYBRID ENGINE",
+            "engineType": "2.5L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/99ce38e2877a44a082ae623dd8c23ddd_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/99ce38e2877a44a082ae623dd8c23ddd_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/abdc0a004d9c4f8c89e4f76fa624fec0_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/4897ef26f6644b069d38bfc02f09860e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/db879b4033fa45fd98315224e4f93438_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b0b1ac844dce49dea527bc7a4ac5ab87_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 LEXUS UX 250H PREMIUM",
+        "make": "LEXUS",
+        "year": "2023",
+        "model": "UX 250H PREMIUM",
+        "link": "https://www.copart.com/lot/87659885/2023-lexus-ux-250h-premium-ma-north-boston",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "87659885",
+            "vin": "JTHR9JBH5P2******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BROWN",
+            "drive": "All wheel drive",
+            "fuel": "HYBRID ENGINE",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/aa4c253ab2ae4434ae546e1201c0c1f8_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/aa4c253ab2ae4434ae546e1201c0c1f8_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/f221553e79dc42dba810f7e665f8e172_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/bd05e7e3b24142408ce741af4aedfa09_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/32c29b4a689141e1b9a012229c3e34c6_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/220c8968fa244e3aab1d320bfca1ecf4_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 LEXUS RX 350H BASE",
+        "make": "LEXUS",
+        "year": "2023",
+        "model": "RX 350H BASE",
+        "link": "https://www.copart.com/lot/87616145/salvage-2023-lexus-rx-350h-base-tx-dallas-south",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "87616145",
+            "vin": "2T2BBMCA4PC******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "RED",
+            "drive": "All wheel drive",
+            "fuel": "HYBRID ENGINE",
+            "engineType": "2.5L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/7825098f9e5a4e579f095f6e3df98761_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/7825098f9e5a4e579f095f6e3df98761_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/87884b9ea2d642c8a18ffe71648c6c4e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/116130cd4c334267ae294c7e7fb09584_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/04d25888def245a79b4d0898b18a59b4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/198665547031415e8053042f2a217255_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 LEXUS NX 300 BASE",
+        "make": "LEXUS",
+        "year": "2021",
+        "model": "NX 300 BASE",
+        "link": "https://www.copart.com/lot/87606305/salvage-2021-lexus-nx-300-base-nc-raleigh",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "87606305",
+            "vin": "JTJDARBZ2M5******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "Front-wheel Drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/32d11a3d1d0b4c6b8b460d3d1c6a002d_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/32d11a3d1d0b4c6b8b460d3d1c6a002d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/09b17175f5644b6fa6bbb020b4c46bbb_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/67fd5a705cb64d9d9f7714af464f179d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/12beb40dc4d1487bb8d252f2cc42aa26_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b9e7c3817f9c490ca8256b658c4baafb_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 LEXUS RX 450H",
+        "make": "LEXUS",
+        "year": "2022",
+        "model": "RX 450H",
+        "link": "https://www.copart.com/lot/87506685/salvage-2022-lexus-rx-450h-ga-atlanta-east",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 2000
+        },
+        "details": {
+            "lotNumber": "87506685",
+            "vin": "2T2HGMDAXNC******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "HYBRID ENGINE",
+            "engineType": "3.5L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/cfceabb65265493188f015299038ee43_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/cfceabb65265493188f015299038ee43_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/4940e894d5c543f7858eecfc6d021362_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/210d2275bb2f4948b6d702dbf0e34565_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ec9dc5af341246efae32ed824015a9cc_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/7bc4fe836ba74601b2e8bcacecf0a05c_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LEXUS UX 250H",
+        "make": "LEXUS",
+        "year": "2020",
+        "model": "UX 250H",
+        "link": "https://www.copart.com/lot/87505335/salvage-2020-lexus-ux-250h-tx-san-antonio",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "87505335",
+            "vin": "JTHX9JBH9L2******",
+            "primaryDamage": "ALL OVER",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "HYBRID ENGINE",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/f8085e3368e84cfc99f861f7f87d9915_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/f8085e3368e84cfc99f861f7f87d9915_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/7f50844b45ab4ce0818a3bc28ddd0a81_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a6f6ed70d4e040e381de163ae3f8d6eb_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/4a0bf25f829e4983bdb1d9cd3633f547_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/8f5f9c4e99cc41478df72e6a5e9a4a9b_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 LEXUS NX 300 BASE",
+        "make": "LEXUS",
+        "year": "2021",
+        "model": "NX 300 BASE",
+        "link": "https://www.copart.com/lot/87491694/2021-lexus-nx-300-base-il-chicago-north",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "87491694",
+            "vin": "JTJSARDZ4M2******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/9d08c40815a043c9bc00897aff0cabe0_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/9d08c40815a043c9bc00897aff0cabe0_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/debae540fa4d40ea898d88d906519ebd_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/70c2dfcb233d4a0e8447f99a07f619c9_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/963ccd112d15471ca84990d32725ed03_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/d71cfac509bc434e87e6937e72f29b40_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LEXUS RX 350 L",
+        "make": "LEXUS",
+        "year": "2020",
+        "model": "RX 350 L",
+        "link": "https://www.copart.com/lot/87478044/2020-lexus-rx-350-l-tx-houston-east",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "87478044",
+            "vin": "JTJHZKEA4L2******",
+            "primaryDamage": "FRONT END",
+            "transmission": "Yes",
+            "color": "WHITE",
+            "drive": "Front-wheel Drive",
+            "fuel": "GAS",
+            "engineType": "3.5L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/af9d4adc5fff4dc69ad6b9c86bbcdae8_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/af9d4adc5fff4dc69ad6b9c86bbcdae8_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/b8d46838d6b647719eeb2eae36ba7733_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/f0c1b1b1f84e4f25be19949f9471616d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/500bb1f3c5554d58b0e2aea79d01de3d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/d2ea848c54a341a4a96588270e6d0d46_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 LEXUS NX 450H",
+        "make": "LEXUS",
+        "year": "2022",
+        "model": "NX 450H",
+        "link": "https://www.copart.com/lot/87477134/2022-lexus-nx-450h-ca-hayward",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "87477134",
+            "vin": "JTJKKCFZ8N2******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "HYBRID ENGINE",
+            "engineType": "2.5L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c8f3ddb18aa74eaaba4ad212606e6de2_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c8f3ddb18aa74eaaba4ad212606e6de2_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/53cfa281d96c48fb9d495b5d5e7afd3c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/7a68d99010044b63ac368a3950ffdb1d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b3e387b252504daf9902dffd54c1758b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b9def95ef79d4cd09d07d02c2b6b434e_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LEXUS IS 350 F SPORT",
+        "make": "LEXUS",
+        "year": "2020",
+        "model": "IS 350 F SPORT",
+        "link": "https://www.copart.com/lot/87470354/salvage-2020-lexus-is-350-f-sport-dc-washington-dc",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "87470354",
+            "vin": "JTHGZ1E26L5******",
+            "primaryDamage": "VANDALISM",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.5L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/07125118c6b14a4f82289dccd4b883fd_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/07125118c6b14a4f82289dccd4b883fd_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/eb8c2c61d221476eaab60615d5754701_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/cd3e7bdbd612494382a5d1cec0bca2f8_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ebdf2b93912446d398e6de6805c0aaf6_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/4953bdc77cf3427fbb051318e172f97d_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 LEXUS RX 350",
+        "make": "LEXUS",
+        "year": "2022",
+        "model": "RX 350",
+        "link": "https://www.copart.com/lot/87417614/2022-lexus-rx-350-az-phoenix",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "87417614",
+            "vin": "2T2HZMAA8NC******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "Front-wheel Drive",
+            "fuel": "GAS",
+            "engineType": "3.5L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/7ff8dae6a0474f7c8c39783c87c71f47_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/7ff8dae6a0474f7c8c39783c87c71f47_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/d43e4cd29f754aac8b60b2c8aa0663a7_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/5e1d13ec17824b6e914611d3723ba84b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/9cc05d248d174620bc64b39d5b7ae972_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ca8810c833f2409e8c61f22f92da79e5_thb.jpg"
+        ]
+    }
+]

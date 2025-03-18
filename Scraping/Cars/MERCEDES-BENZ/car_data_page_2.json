@@ -1,0 +1,2788 @@
+[
+    {
+        "title": "2023 MERCEDES-BENZ EQE SEDAN 350 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2023",
+        "model": "EQE SEDAN 350 4MATIC",
+        "link": "https://www.copart.com/lot/88309545/2023-mercedes-benz-eqe-sedan-350-4matic-ca-sun-valley",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "88309545",
+            "vin": "W1KEG1CB8PF******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "ELECTRIC",
+            "engineType": "Yes"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/f0818f4ceaad4f1aa07147e3768e055e_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/f0818f4ceaad4f1aa07147e3768e055e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/efce3eabe4424b5aa3e17fe52c3627f8_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/1c93cbfc32e34224a1a8daaaf2b9df9e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b051256ad0294ad6a85757b2d079e41e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/cadf8055fde2432a943706d3f0cbea6b_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 MERCEDES-BENZ GLS 450 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2023",
+        "model": "GLS 450 4MATIC",
+        "link": "https://www.copart.com/lot/88307185/2023-mercedes-benz-gls-450-4matic-ny-newburgh",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "88307185",
+            "vin": "4JGFF5KE3PA******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/150c9d207c5443e0aec1215f0729d4c7_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/150c9d207c5443e0aec1215f0729d4c7_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a31989053aee44d1bf7425cf2fa0da57_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/9dbca9a15fde4bd983339b741a15bee6_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/70e9a283a4154d2ba4992bde696b8b3f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/34229d8dda8348fa97e04077e0860957_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 MERCEDES-BENZ S 580 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2023",
+        "model": "S 580 4MATIC",
+        "link": "https://www.copart.com/lot/88288945/2023-mercedes-benz-s-580-4matic-fl-orlando-south",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "88288945",
+            "vin": "W1K6G7GB8PA******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "4.0L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ee8dc818cf5e40a0a780e4e9ed727903_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ee8dc818cf5e40a0a780e4e9ed727903_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/e374f06f0a2d416187c5834be5c20de6_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/7af9b053a2a2414e90a5f21956bb16e9_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/53e999f6a3d44862a9075445c0efaddd_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/5a5e4fa2b4c84cc68a1408ab340f39d8_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 MERCEDES-BENZ GLE 350 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2020",
+        "model": "GLE 350 4MATIC",
+        "link": "https://www.copart.com/lot/88284175/2020-mercedes-benz-gle-350-4matic-ny-long-island",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "88284175",
+            "vin": "4JGFB4KB5LA******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c60d08697e534b3dbe0be39a353c185a_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c60d08697e534b3dbe0be39a353c185a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a0c8efe00f594baea9ecbf6c26a9a0cd_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/5609ecec7fee4cf48d6c1c703cfd501f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/0b4dc13e9c1a45b78f31fd1520a398fb_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/58306ef342f74ef0b36511a7bb779c23_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 MERCEDES-BENZ GLC 300 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2020",
+        "model": "GLC 300 4MATIC",
+        "link": "https://www.copart.com/lot/88277315/2020-mercedes-benz-glc-300-4matic-md-baltimore",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "88277315",
+            "vin": "W1N0G8EB4LF******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "SILVER",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/4dd1287fb3ab4849a69ed35e9f840e92_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/4dd1287fb3ab4849a69ed35e9f840e92_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/5a7f92968dfd4ce9bc96e5e1be4d47c7_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/fca06dc704f249dd80fab6e6f06b9471_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/d4f99a29453c4f86bdd884c72948ed5d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b7e725b15cff4cef8db24dee1002a100_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 MERCEDES-BENZ A 220",
+        "make": "MERCEDES-BENZ",
+        "year": "2022",
+        "model": "A 220",
+        "link": "https://www.copart.com/lot/88254705/clean-title-2022-mercedes-benz-a-220-tx-dallas",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "88254705",
+            "vin": "W1K3G4EB1NJ******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "SILVER",
+            "drive": "Front-wheel Drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/707b31672be04196950a97817fbd1502_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/707b31672be04196950a97817fbd1502_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/313d01fb5da54e53b53d9e818d913a5f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b28cebdd1a6f41338a1e2242f0beb562_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/30eff0c356ec4865bb055bbf642bf28c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/01424c651c73470b974e87ee9b6fe494_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 MERCEDES-BENZ SPRINTER 2500",
+        "make": "MERCEDES-BENZ",
+        "year": "2023",
+        "model": "SPRINTER 2500",
+        "link": "https://www.copart.com/lot/88245845/2023-mercedes-benz-sprinter-2500-il-chicago-north",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "88245845",
+            "vin": "W1Y40CHY9PT******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/1564b268621e4fef8847236ea6041561_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/1564b268621e4fef8847236ea6041561_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a255228072184272adef4c89dc35a876_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/260a9f215dc64aff8cc4059ca083c7db_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/7858ffc3f7734fe0a89c1171e1fff3bc_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/381cdbe4fb764bf6bd40cf2b7f0e1591_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 MERCEDES-BENZ C 300",
+        "make": "MERCEDES-BENZ",
+        "year": "2021",
+        "model": "C 300",
+        "link": "https://www.copart.com/lot/88228565/salvage-2021-mercedes-benz-c-300-il-chicago-south",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "88228565",
+            "vin": "W1KWF8DB2MR******",
+            "primaryDamage": "UNDERCARRIAGE",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/3d21702ac3114d03abb11d63cf0b8d43_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/3d21702ac3114d03abb11d63cf0b8d43_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/edb6a974e50a4b61b8379acfb88866a5_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/4924f64dc48c4e00b9ae226939a5ffbe_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/46887ad840854c18a8027c263aaaf330_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/0299fb7ce7624ba4b307b515d1a7942d_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 MERCEDES-BENZ C 300 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2020",
+        "model": "C 300 4MATIC",
+        "link": "https://www.copart.com/lot/88220005/2020-mercedes-benz-c-300-4matic-ny-albany",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "88220005",
+            "vin": "W1KWF8EB8LR******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/5dc5d37913b841c1b95a127249784a3c_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/5dc5d37913b841c1b95a127249784a3c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/f5f61acea7f8414da9854df823a46c13_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/4ecf1b3e545d4e9aa43a3aac34685ee3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/f6c0b9a561c8440a9d299be45fcfc671_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/23dcc2b575204edabe42148d89025e8f_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 MERCEDES-BENZ GLS 450 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2023",
+        "model": "GLS 450 4MATIC",
+        "link": "https://www.copart.com/lot/88219355/2023-mercedes-benz-gls-450-4matic-in-indianapolis",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "88219355",
+            "vin": "4JGFF5KE3PA******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "GREEN",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/719f7000263049e1a4cf769c7d3c337d_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/719f7000263049e1a4cf769c7d3c337d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/4a2ac2706ae14adc890947fc3b06eb1d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/3e640b92c72240bb8216b9128444229d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/96528389a6fc4c168d8ba07a81ae7a88_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/87363fdc20a04f558946b28c0dbfc3e9_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 MERCEDES-BENZ S 560",
+        "make": "MERCEDES-BENZ",
+        "year": "2020",
+        "model": "S 560",
+        "link": "https://www.copart.com/lot/88217025/salvage-2020-mercedes-benz-s-560-sc-columbia",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 200
+        },
+        "details": {
+            "lotNumber": "88217025",
+            "vin": "WDDUG8DB3LA******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "SILVER",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "4.0L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/edd0d435deb249368443d3fc9e6bfa4d_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/edd0d435deb249368443d3fc9e6bfa4d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/27a38ca30498434f94d9d2ec7e8fa111_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/85326353fbff45c49f48db8a82f96f37_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/7888fbc4816744bd961b2ee5e45a2232_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/623d06a9924247f2a8dd01e2cce4023c_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 MERCEDES-BENZ GLE 350 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2024",
+        "model": "GLE 350 4MATIC",
+        "link": "https://www.copart.com/lot/88202175/salvage-2024-mercedes-benz-gle-350-4matic-sc-north-charleston",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "88202175",
+            "vin": "4JGFB4FB9RB******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/d905d45d780c49b48768b79cba8ba85b_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/d905d45d780c49b48768b79cba8ba85b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/0ae92adad9ea4b1b98773cab455fb0e5_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/32d6e376c1984af68e163bee772f13fb_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/8c82af5982e84f72a1bb2c20831028b6_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c3541ce397654b0b8347559a51442afb_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 MERCEDES-BENZ C 300",
+        "make": "MERCEDES-BENZ",
+        "year": "2021",
+        "model": "C 300",
+        "link": "https://www.copart.com/lot/88154175/2021-mercedes-benz-c-300-tx-houston",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "88154175",
+            "vin": "W1KWF8DB0MR******",
+            "primaryDamage": "UNDERCARRIAGE",
+            "transmission": "AUTOMATIC",
+            "color": "SILVER",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/362f434f322a4c2c9cc0bc52bb5f7222_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/362f434f322a4c2c9cc0bc52bb5f7222_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b4f8eb3ad06549699350336a5570ddc9_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/5a289eec308d4e0fbac09cb3c18c7fa0_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/d2e4d62f21154111b7b1d3c08ba1072c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/d84bd650da864092a15dfa6a396e0061_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 MERCEDES-BENZ GLC 300",
+        "make": "MERCEDES-BENZ",
+        "year": "2022",
+        "model": "GLC 300",
+        "link": "https://www.copart.com/lot/88152845/salvage-2022-mercedes-benz-glc-300-tx-dallas-south",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "88152845",
+            "vin": "W1N0G8DBXNG******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/1718e38a81f748d8b63d120d4ede808a_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/1718e38a81f748d8b63d120d4ede808a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ef62abc1139448a9b751add555954dbb_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/8d4b5ecebe554a058b54a2d8116519d6_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/7e57e4d127624056b90f5a6a4625dc70_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/e48be440b0994e58bb6fbe4890b1adca_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 MERCEDES-BENZ C 300",
+        "make": "MERCEDES-BENZ",
+        "year": "2021",
+        "model": "C 300",
+        "link": "https://www.copart.com/lot/88151865/salvage-2021-mercedes-benz-c-300-la-new-orleans",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "88151865",
+            "vin": "W1KWF8DB0MR******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a7774f05732545f0ad004148e45637fc_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a7774f05732545f0ad004148e45637fc_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b6f59f9a7d674b9aa377bb7998e5fab7_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/6779850306a44f94bdf604882ea30322_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/7beba7b80e6f446c8b79c7acca505472_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/9d77eef89cf2453eb9a90fe7e3fc8f63_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 MERCEDES-BENZ GLS 450 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2020",
+        "model": "GLS 450 4MATIC",
+        "link": "https://www.copart.com/lot/88140705/salvage-2020-mercedes-benz-gls-450-4matic-mi-wayland",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "88140705",
+            "vin": "4JGFF5KEXLA******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/02a2c94497b24a65a89b5ded7a4cd62e_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/02a2c94497b24a65a89b5ded7a4cd62e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/eb68a2c1fc9a4bbabd45f02fc0f9e1a9_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/7f3e51b73e574e1e90f58f76bb9533ed_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/7e9edfbd7019431abc79b698ede0bb5e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/3d1cbc42a40e4c0ba095da01d6069d78_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 MERCEDES-BENZ SPRINTER 3500",
+        "make": "MERCEDES-BENZ",
+        "year": "2021",
+        "model": "SPRINTER 3500",
+        "link": "https://www.copart.com/lot/88126345/2021-mercedes-benz-sprinter-3500-ny-long-island",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "88126345",
+            "vin": "W1Y5DBHY0MT******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "TWO TONE",
+            "drive": "Rear-wheel drive",
+            "fuel": "DIESEL",
+            "engineType": "2.2L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/5042a1c2f9dd4af297055f42354b039f_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/5042a1c2f9dd4af297055f42354b039f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/5ddc81c92a5d4cb0abb5af1cbbc24758_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a11e517d4c2648ee8288882f5e602936_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/127c8b4435fc424ebc24fb2b352233a1_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b785111faa8e454092cf256b260ea289_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 MERCEDES-BENZ GLC 300 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2020",
+        "model": "GLC 300 4MATIC",
+        "link": "https://www.copart.com/lot/88124865/2020-mercedes-benz-glc-300-4matic-pa-harrisburg",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "88124865",
+            "vin": "WDC0G4KB1KV******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/52e4faaf30b54c4b98cc96429d24da2b_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/52e4faaf30b54c4b98cc96429d24da2b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/3c9901e5cfb349e8bf2081e238a6b800_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/3687c6d8782c4868bae480e7201f20d5_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/fd182bb92500455fa547d2cc3841b245_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/868d144469974fc3adbf900516cd88db_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 MERCEDES-BENZ CLA 45 AMG",
+        "make": "MERCEDES-BENZ",
+        "year": "2022",
+        "model": "CLA 45 AMG",
+        "link": "https://www.copart.com/lot/88123955/salvage-2022-mercedes-benz-cla-45-amg-tx-abilene",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 2500
+        },
+        "details": {
+            "lotNumber": "88123955",
+            "vin": "W1K5J5DB6NN******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/774eae458eeb42f1acf461a0fed658b6_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/774eae458eeb42f1acf461a0fed658b6_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/e41acac41549444a9d0d7beb8bd9d4a5_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/183a48eed2f7450795db55950617e8b2_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/96b113a59ea44ad7a19d4570382f0517_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a72dbdef0f83495eb2cf7e4a68bee4ea_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 MERCEDES-BENZ GLB 250 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2022",
+        "model": "GLB 250 4MATIC",
+        "link": "https://www.copart.com/lot/88122485/salvage-2022-mercedes-benz-glb-250-4matic-nj-trenton",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "88122485",
+            "vin": "W1N4M4HB3NW******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a985938e14df4ae7b876d6b0265de9e6_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a985938e14df4ae7b876d6b0265de9e6_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/7385e15d96e74391ad03f79891055931_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/28908ebfbfcd4bcbb232839cb3bbe8bb_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c56ff0ed8a914a309c9b86d498762db9_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/970eb470f76d4d60ac65ad839f1aa40e_thb.jpg"
+        ]
+    },
+    {
+        "title": "2025 MERCEDES-BENZ CLA 250",
+        "make": "MERCEDES-BENZ",
+        "year": "2025",
+        "model": "CLA 250",
+        "link": "https://www.copart.com/lot/88122165/salvage-2025-mercedes-benz-cla-250-ca-mentone",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 200
+        },
+        "details": {
+            "lotNumber": "88122165",
+            "vin": "W1K5J4GB1SN******",
+            "primaryDamage": "UNDERCARRIAGE",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "Front-wheel Drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/7f8a29e833e74b278de4dce636135bf2_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/7f8a29e833e74b278de4dce636135bf2_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/427d84e824174067b5d627eca274fa0c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/31808ce8d5be4d0a96f720ddeae92820_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/33a89e5600aa47efbf50fa2878dbf535_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/34b54891ef794600866329f7e82d8365_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 MERCEDES-BENZ E 350 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2021",
+        "model": "E 350 4MATIC",
+        "link": "https://www.copart.com/lot/88109945/salvage-2021-mercedes-benz-e-350-4matic-va-fredericksburg",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "88109945",
+            "vin": "W1KZF8EBXMA******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/92594b9f844f45c0b2e30a4dd0ac7ad8_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/92594b9f844f45c0b2e30a4dd0ac7ad8_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/8fc539b71e2a4020841fed84e210d01f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/06b4cd2617c44f62bba4fd254b74250b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/63b863b21d1a43df9444f150e3bf4772_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/188828a6431245d292b32bf3c0c688de_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 MERCEDES-BENZ S 580 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2022",
+        "model": "S 580 4MATIC",
+        "link": "https://www.copart.com/lot/88074035/salvage-2022-mercedes-benz-s-580-4matic-al-tanner",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 25250
+        },
+        "details": {
+            "lotNumber": "88074035",
+            "vin": "W1K6G7GB9NA******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "4.0L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/e8ed88457ee145f3aea512b91831b3c1_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/e8ed88457ee145f3aea512b91831b3c1_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/244c47fda1f1465f95cd38404f8b3aca_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c57a2a5124af49458b887cd7d5eb0b91_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/0c8c18a0cc15400b93a4dda56cb89bc2_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/1663ebb0d1814f3687c4948a4e3b2c87_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 MERCEDES-BENZ CLA 250 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2022",
+        "model": "CLA 250 4MATIC",
+        "link": "https://www.copart.com/lot/88052925/salvage-2022-mercedes-benz-cla-250-4matic-nj-somerville",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "88052925",
+            "vin": "W1K5J4HB6NN******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "RED",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/fcb35e11be96493cbe72cd69d18d1988_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/fcb35e11be96493cbe72cd69d18d1988_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/21c114d7d3714ee7b049f1466988ac40_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a99d0bf5bacf4e3e8a90763141014a0d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/23c8b65a8924489bae41ea14c05e6f3d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/e7c541c8f0d2404b9fcd3c4328570f92_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 MERCEDES-BENZ EQS SUV 580 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2023",
+        "model": "EQS SUV 580 4MATIC",
+        "link": "https://www.copart.com/lot/88046835/2023-mercedes-benz-eqs-suv-580-4matic-ca-san-diego",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "88046835",
+            "vin": "4JGDM4EB3PA******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "ELECTRIC",
+            "engineType": "Yes"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/39ea47dce7e8425abc5bb82292ca1e6c_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/39ea47dce7e8425abc5bb82292ca1e6c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/783dd38c1ad2493ab4b05a439c8cd681_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/e21bd8e1a396480e866204505c024c13_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/2da6cdc211d34c87993122635e7b2a67_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/9f3508f992004fa8b8bc494cbc7c66e8_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 MERCEDES-BENZ CLA 250 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2021",
+        "model": "CLA 250 4MATIC",
+        "link": "https://www.copart.com/lot/88046115/salvage-2021-mercedes-benz-cla-250-4matic-ri-exeter",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "88046115",
+            "vin": "W1K5J4HB9MN******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/46d9842695e84d5b8e0e4c0e5b1640ef_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/46d9842695e84d5b8e0e4c0e5b1640ef_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/4b299cbef8e8427d9506443d3ebbbc80_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/02bdbbfaa7354d4a8a28ebd9e0c6ee79_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/5cdd81c9eaa240e9aeb2595cfa257433_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/65efcf644b7c45e39036c6e6ee8333ec_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 MERCEDES-BENZ SPRINTER 2500",
+        "make": "MERCEDES-BENZ",
+        "year": "2024",
+        "model": "SPRINTER 2500",
+        "link": "https://www.copart.com/lot/88040725/salvage-2024-mercedes-benz-sprinter-2500-fl-orlando-south",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "88040725",
+            "vin": "W1Y4KBHY4RT******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "Rear-wheel drive",
+            "fuel": "DIESEL",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/84a8723d040c427aa955c19b53eeade1_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/84a8723d040c427aa955c19b53eeade1_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/1c205b31d4134210a05f7d3fa14211a4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/2fa64e0d032d4ba98d248524f76f3e26_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/3a17acfe604a4301aeaeb85ad249291f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/5e0abc01057a46c388b0bbebec6ba3d8_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 MERCEDES-BENZ GLE 450E 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2024",
+        "model": "GLE 450E 4MATIC",
+        "link": "https://www.copart.com/lot/88037025/salvage-2024-mercedes-benz-gle-450e-4matic-ok-tulsa",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 275
+        },
+        "details": {
+            "lotNumber": "88037025",
+            "vin": "4JGFB4GB8RB******",
+            "primaryDamage": "ALL OVER",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "HYBRID ENGINE",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/1ddf9a48535847c787b5d3d0190f4421_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/1ddf9a48535847c787b5d3d0190f4421_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/6760bcee5014466e9aea58c8f96d3411_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/7149c18205d940cfb05a43f2816d9fa7_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c804fcfe11424a388f890ef5aa533eff_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/50e96d2ed98e4cac966aaa501d9a4924_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 MERCEDES-BENZ GLB 250",
+        "make": "MERCEDES-BENZ",
+        "year": "2020",
+        "model": "GLB 250",
+        "link": "https://www.copart.com/lot/88035715/salvage-2020-mercedes-benz-glb-250-tx-dallas-south",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "88035715",
+            "vin": "W1N4M4GB9LW******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "CHARCOAL",
+            "drive": "Front-wheel Drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/6027006ecf824743a982ec023a174249_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/6027006ecf824743a982ec023a174249_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a0eac1354b264999a5c6893fb13c18ba_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/d86c938c9ca34b27bc51a854282d253c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a0284c3c1137434db4b1d51e0467a0b2_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ef1013b3213348d99ec6b502087d6eef_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 MERCEDES-BENZ C 300 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2023",
+        "model": "C 300 4MATIC",
+        "link": "https://www.copart.com/lot/88033095/2023-mercedes-benz-c-300-4matic-ok-tulsa",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "88033095",
+            "vin": "W1KAF4HB0PR******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/541215d866bd4e28b01502b4302c59fa_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/541215d866bd4e28b01502b4302c59fa_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b69622cb4d5641bdb6836c63980de0b1_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/8d9e8d7868e2418493bf38f1c602d835_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ee52b6122fb943c486451fcd60314209_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/0f72c6b6126c45b289733953c8fada7b_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 MERCEDES-BENZ C 300 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2021",
+        "model": "C 300 4MATIC",
+        "link": "https://www.copart.com/lot/88028765/2021-mercedes-benz-c-300-4matic-dc-washington-dc",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "88028765",
+            "vin": "W1KWF8EBXMR******",
+            "primaryDamage": "FRONT END",
+            "transmission": "Yes",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/LPP518/322aa91c2cb443b7a014e0753cb012f7_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/LPP518/322aa91c2cb443b7a014e0753cb012f7_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/LPP518/6516be7f0ada43a888ebf99b668539b3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/LPP518/d2e4d916f12d4da68c4c1454ec0a88e8_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/LPP518/841340d68f9d4ed7895cfa6e6e991e26_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/LPP518/d2925391f1704c96b57b5c65491d18d3_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 MERCEDES-BENZ GLB 250",
+        "make": "MERCEDES-BENZ",
+        "year": "2024",
+        "model": "GLB 250",
+        "link": "https://www.copart.com/lot/88018785/clean-title-2024-mercedes-benz-glb-250-tx-houston",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 250
+        },
+        "details": {
+            "lotNumber": "88018785",
+            "vin": "W1N4M4GB4RW******",
+            "primaryDamage": "ALL OVER",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "Front-wheel Drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/335d43f6b54b43a88d7817a6e7f41c25_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/335d43f6b54b43a88d7817a6e7f41c25_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b51071b2b8f546bf9b65096a13a09a27_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/fa7ac6ae3fee4840b6c082e4542320e3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/fe6fb414f4f042f8bc02961748219adb_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/09a783c1226349898ee93f6a2a71814f_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 MERCEDES-BENZ GLA 250 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2021",
+        "model": "GLA 250 4MATIC",
+        "link": "https://www.copart.com/lot/88005815/salvage-2021-mercedes-benz-gla-250-4matic-va-hampton",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "88005815",
+            "vin": "W1N4N4HB7MJ******",
+            "primaryDamage": "VANDALISM",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/780c5cb09e004688916a2fad26185fec_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/780c5cb09e004688916a2fad26185fec_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/820c532b8b664528aea948a51ea91705_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/858a26beab7e499c8875ec44dba54306_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/458cdadd6ad84270b5d13d02bae5aa6c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/da9b316b67164102b7ab1ff14544a2eb_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 MERCEDES-BENZ GLA 250 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2023",
+        "model": "GLA 250 4MATIC",
+        "link": "https://www.copart.com/lot/87965015/salvage-2023-mercedes-benz-gla-250-4matic-nv-las-vegas",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "87965015",
+            "vin": "W1N4N4HBXPJ******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/3b81cb17d0cc4f51a27e01a8091c2ae4_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/3b81cb17d0cc4f51a27e01a8091c2ae4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/3022dd65dcc148d59979a8bf7b716ff6_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/20f1cf99b5444f06995a605fb9540ea8_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/0072336ffb2541e8b21436661f5b0bd3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/0a6a1dd381f44cc2ba82edea046ea9d7_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 MERCEDES-BENZ GLE 63 AMG 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2021",
+        "model": "GLE 63 AMG 4MATIC",
+        "link": "https://www.copart.com/lot/87958035/salvage-2021-mercedes-benz-gle-63-amg-4matic-va-fredericksburg",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "87958035",
+            "vin": "4JGFB8KB4MA******",
+            "primaryDamage": "FRAME DAMAGE",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "4.0L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/33d288fa264f41f49e538a0e09303cb2_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/33d288fa264f41f49e538a0e09303cb2_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b3e61bf23e2f4d79bf0bd56bc06d81b3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/13e1b0cdb6a84e8c91252de63cb0a4d5_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/9a89102ffd304ad684b42f30e960a9ce_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c6e50ae722854386bd77974012249b13_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 MERCEDES-BENZ E 350",
+        "make": "MERCEDES-BENZ",
+        "year": "2020",
+        "model": "E 350",
+        "link": "https://www.copart.com/lot/87948265/salvage-2020-mercedes-benz-e-350-ca-bakersfield",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 175
+        },
+        "details": {
+            "lotNumber": "87948265",
+            "vin": "W1KZF8DB0LA******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/56fc8e42013240648aaaca5204903189_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/56fc8e42013240648aaaca5204903189_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/2be3c844189e4c15af363ba5e205bfa0_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/70226af8cb984579b76f0ca96ea82d14_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c64809a7d9af4e339d99ba56b7b6d60f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c5a4869894a64934bcc11070e6b7be77_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 MERCEDES-BENZ GLE 350 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2024",
+        "model": "GLE 350 4MATIC",
+        "link": "https://www.copart.com/lot/87938065/2024-mercedes-benz-gle-350-4matic-oh-cleveland-west",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "87938065",
+            "vin": "4JGFB4FB8RA******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/491af1ea7d3d4c3f951a89415f685078_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/491af1ea7d3d4c3f951a89415f685078_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/882fa9cadc984fdbbf66c40ab214134f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/e55a777198924a7c8bf47669954fa177_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/bddc98bf11e4440f971c77b103842e74_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/4908011cabb7456683aec0df37b5f5c2_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 MERCEDES-BENZ SPRINTER 2500",
+        "make": "MERCEDES-BENZ",
+        "year": "2020",
+        "model": "SPRINTER 2500",
+        "link": "https://www.copart.com/lot/87933115/2020-mercedes-benz-sprinter-2500-mt-billings",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "87933115",
+            "vin": "W1W4EDHYXLT******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "Rear-wheel drive",
+            "fuel": "DIESEL",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/d131125a4fe14ce69ef38aedbbf3b13c_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/d131125a4fe14ce69ef38aedbbf3b13c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/6e287b7b043047faafdc12143aa219eb_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/f71b19653aff4566985cd3187b359e4a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a6f57671173d42d6b73530947c081766_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/5c23f9ef4f144ac7b0e57eeb4181ced1_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 MERCEDES-BENZ EQS SUV 580 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2023",
+        "model": "EQS SUV 580 4MATIC",
+        "link": "https://www.copart.com/lot/87923255/2023-mercedes-benz-eqs-suv-580-4matic-tx-houston",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "87923255",
+            "vin": "4JGDM4EB8PA******",
+            "primaryDamage": "UNDERCARRIAGE",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "ELECTRIC",
+            "engineType": "Yes"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/78aa314d47b444548ca3a31b362b5a0b_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/78aa314d47b444548ca3a31b362b5a0b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/47a52ac9e75a4ef886f9803252c85a30_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/42971c29e0764e7e93903d8121716296_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/4f56a76af1384381bb200fd18d611750_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/973147ac24bc49f0864e689d7edcb11c_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 MERCEDES-BENZ EQE SEDAN 350 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2024",
+        "model": "EQE SEDAN 350 4MATIC",
+        "link": "https://www.copart.com/lot/87922455/2024-mercedes-benz-eqe-sedan-350-4matic-ny-newburgh",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "87922455",
+            "vin": "W1KEG1CB0RF******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "ELECTRIC",
+            "engineType": "0"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/6c276598246245219c69fa7d5d83b09d_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/6c276598246245219c69fa7d5d83b09d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/44fe132e119f4d47a85d82ed6cd43119_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/6868acf2f08e48ff88b573d85674d3d1_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/7664e38c9c2f4c04a6a7e28462271374_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/8a148dfb78b04857a966383cbd3a0173_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 MERCEDES-BENZ CLA 250 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2023",
+        "model": "CLA 250 4MATIC",
+        "link": "https://www.copart.com/lot/87912435/salvage-2023-mercedes-benz-cla-250-4matic-nj-trenton",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "87912435",
+            "vin": "W1K5J4HB6PN******",
+            "primaryDamage": "ALL OVER",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/0d2748aed99a4dc1969865f62a237618_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/0d2748aed99a4dc1969865f62a237618_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/4ff3778ce10f4257a9be9b10aa189bf4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/95e42684b5aa48bebc2c02324a635b40_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/9cab0a02201e426ca5b6d0de087822be_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b4ebfb5e92cd4f7ca0f423c00e79cda2_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 MERCEDES-BENZ GLA 250",
+        "make": "MERCEDES-BENZ",
+        "year": "2020",
+        "model": "GLA 250",
+        "link": "https://www.copart.com/lot/87903435/salvage-2020-mercedes-benz-gla-250-ca-los-angeles",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 9900
+        },
+        "details": {
+            "lotNumber": "87903435",
+            "vin": "WDCTG4EB0LJ******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "Front-wheel Drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/2d0e38ac1aeb4198ab6ed2906b305e4d_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/2d0e38ac1aeb4198ab6ed2906b305e4d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/0b28c05b566e48c0a8c83b92118af2c2_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/5df09a632aca4917a5011fcfb96683f1_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/7e56058cee95411c96f97819e3655bd3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/f661ad44ac194d8da75986a01813bf6f_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 MERCEDES-BENZ GLS 450 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2020",
+        "model": "GLS 450 4MATIC",
+        "link": "https://www.copart.com/lot/87888035/clean-title-2020-mercedes-benz-gls-450-4matic-mi-flint",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 8200
+        },
+        "details": {
+            "lotNumber": "87888035",
+            "vin": "4JGFF5KEXLA******",
+            "primaryDamage": "ROLLOVER",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/fc6ad5fb9fe34960a104fd352dff9f1b_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/fc6ad5fb9fe34960a104fd352dff9f1b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/842522b3ae0f484291ede0ab15d5812e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/35e35dfff842420392c7e2a6204f318d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b3c1f1920cdc45d081bba6d69cfd4439_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ae97d6d2bcd940e796d6351a35014bb3_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 MERCEDES-BENZ GLA 250 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2021",
+        "model": "GLA 250 4MATIC",
+        "link": "https://www.copart.com/lot/87874065/2021-mercedes-benz-gla-250-4matic-pa-philadelphia",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "87874065",
+            "vin": "W1N4N4HB8MJ******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/0d42737e97fd4c61ac4b7d167e92f39f_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/0d42737e97fd4c61ac4b7d167e92f39f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/0667aa8026914c8790e8353c1975cec2_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/bfa77aa8babb41a79fd3612a63e503fe_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/85c0baf9174b4f46b83e3f432700f29f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/d6539ea184cf4ef187e1446e36bad23b_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 MERCEDES-BENZ GLE COUPE AMG 53 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2021",
+        "model": "GLE COUPE AMG 53 4MATIC",
+        "link": "https://www.copart.com/lot/87872935/salvage-2021-mercedes-benz-gle-coupe-amg-53-4matic-ma-north-boston",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "87872935",
+            "vin": "4JGFD6BB4MA******",
+            "primaryDamage": "ALL OVER",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/9e536b1c8b3642738e3c142a16d65ad3_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/9e536b1c8b3642738e3c142a16d65ad3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/5c9370e3514548ce83cacd6d716bd620_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/36de87ce3b574c30acb3b9a2b074c598_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/97422149c5354fdf8a130796204f527e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/54baa0f698954f0aadbb8b661c4ba2c4_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 MERCEDES-BENZ GLS 450 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2022",
+        "model": "GLS 450 4MATIC",
+        "link": "https://www.copart.com/lot/87871105/salvage-2022-mercedes-benz-gls-450-4matic-ga-atlanta-west",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 275
+        },
+        "details": {
+            "lotNumber": "87871105",
+            "vin": "4JGFF5KE3NA******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "TAN",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/1b874485ddd7405abb23ee9d82da2a64_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/1b874485ddd7405abb23ee9d82da2a64_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/0bc294056e6f402aa9dd4bbc7134c1e2_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/4f11327020b54174b8ce82be0d7c6969_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/98d2cf9f7e1d41dfabc635c1ee44c8d9_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/23f182b672dc44948eff0ba0656c37eb_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 MERCEDES-BENZ C 300",
+        "make": "MERCEDES-BENZ",
+        "year": "2023",
+        "model": "C 300",
+        "link": "https://www.copart.com/lot/87865335/salvage-2023-mercedes-benz-c-300-in-indianapolis",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 150
+        },
+        "details": {
+            "lotNumber": "87865335",
+            "vin": "W1KAF4GB6PR******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/f7315bbcc79b4c558ac52f6702a425d7_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/f7315bbcc79b4c558ac52f6702a425d7_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/3f2f36ee82dd459fb9f5ab58ca125773_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/e1d260791049461aa664234102254e5b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/05e5ce581f3c4210984140c88eeb653b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/cd4d150e16504905b8aa69ccc33866a7_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 MERCEDES-BENZ SPRINTER 3500",
+        "make": "MERCEDES-BENZ",
+        "year": "2023",
+        "model": "SPRINTER 3500",
+        "link": "https://www.copart.com/lot/87864955/2023-mercedes-benz-sprinter-3500-ma-west-warren",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "87864955",
+            "vin": "W1Y5NCHY9PT******",
+            "primaryDamage": "UNDERCARRIAGE",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "Rear-wheel drive",
+            "fuel": "DIESEL",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/7c87c9587d8d447592a182f23b233786_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/7c87c9587d8d447592a182f23b233786_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/4a7b5f6ea8ed491fadddb7ab087235be_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/e83c879c1c044b4b98f1147c730bf85e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/306c6fa6e9d647c6bb1f701801dcc12e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a27ad48830fa4551befcb8947c4d3518_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 MERCEDES-BENZ GLC COUPE 300 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2023",
+        "model": "GLC COUPE 300 4MATIC",
+        "link": "https://www.copart.com/lot/87855215/2023-mercedes-benz-glc-coupe-300-4matic-ca-san-jose",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "87855215",
+            "vin": "W1N0J8EB0PG******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "RED",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/93d339ffa41b4d36ae475d165d193d66_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/93d339ffa41b4d36ae475d165d193d66_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/d1845953b4b845328119e55698c76e40_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/6bc600a4378e41b9ac9279110f14da06_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c920eea3458b43c08adfc11e7657b532_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/1625e90859ce47aba28276f82cffbf71_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 MERCEDES-BENZ C 300",
+        "make": "MERCEDES-BENZ",
+        "year": "2022",
+        "model": "C 300",
+        "link": "https://www.copart.com/lot/87829565/2022-mercedes-benz-c-300-hi-honolulu",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "87829565",
+            "vin": "W1KAF4GB2NR******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "SILVER",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/9b3e319ab288400e89f56b640b5309c4_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/9b3e319ab288400e89f56b640b5309c4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/e9851585ae39458aa5ff9622b802d52a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c884d918f7bf4ab49e89c330c730ba2d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/04b99a7fd73940d0a2a88fb56bf3806e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/870e884d5c984cbe8ff245629060ed5c_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 MERCEDES-BENZ S 500 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2023",
+        "model": "S 500 4MATIC",
+        "link": "https://www.copart.com/lot/87767875/2023-mercedes-benz-s-500-4matic-ca-long-beach",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "87767875",
+            "vin": "W1K6G6DBXPA******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/764b0735655f4597859eaa4b4867ca7e_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/764b0735655f4597859eaa4b4867ca7e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/adaa5f1f4102494a9edb13380a39a620_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/f106b9b481f34e8bbef074449d5affef_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/fab813e953874e71a215b87fa060e68f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/0ba8da26c6fc4dd3ba51d2c2b5b82bb9_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 MERCEDES-BENZ C 300",
+        "make": "MERCEDES-BENZ",
+        "year": "2020",
+        "model": "C 300",
+        "link": "https://www.copart.com/lot/87764985/2020-mercedes-benz-c-300-nv-las-vegas",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "87764985",
+            "vin": "WDDWF8DB2LR******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/058ab3ace50a44cebfe3abcec889f1bd_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/058ab3ace50a44cebfe3abcec889f1bd_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ffc42e5f13b84c2a905b3225fa45ed38_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a28a800ff88f4715a20b65c73947c740_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b7848df252e14aa081f932821b9557e4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/bf7c5ca133444a818dc11fa00c964c71_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 MERCEDES-BENZ GLB 250 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2021",
+        "model": "GLB 250 4MATIC",
+        "link": "https://www.copart.com/lot/87762835/salvage-2021-mercedes-benz-glb-250-4matic-or-portland-south",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 350
+        },
+        "details": {
+            "lotNumber": "87762835",
+            "vin": "W1N4M4HB4MW******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLUE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c05c075b7a594e629cb1d7eebde1e67b_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c05c075b7a594e629cb1d7eebde1e67b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ab74677050964cc8b07f6e004e008c9d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/2569e0f5d1d34c4e85fab5ba04db8188_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/3f33b0385a0e4e199489b585ab0125c9_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/86cda2ce77f54281bb598c38e7cb07ae_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 MERCEDES-BENZ GLC 300",
+        "make": "MERCEDES-BENZ",
+        "year": "2020",
+        "model": "GLC 300",
+        "link": "https://www.copart.com/lot/87760505/2020-mercedes-benz-glc-300-ca-san-jose",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "87760505",
+            "vin": "W1N0G8DB6LV******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "CHARCOAL",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/7bef9e96c2b24469a517a779ec56876b_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/7bef9e96c2b24469a517a779ec56876b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a2d21691986f48b7b054fcc672a5c0c9_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c5ed290996544e85b61abd708b728f06_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/d2f0bba897ac43e2b42accda4a94b281_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/0ead11115ea24270abba9a31c7fb04c0_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 MERCEDES-BENZ GLE 350 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2023",
+        "model": "GLE 350 4MATIC",
+        "link": "https://www.copart.com/lot/87742095/salvage-2023-mercedes-benz-gle-350-4matic-ma-north-boston",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 125
+        },
+        "details": {
+            "lotNumber": "87742095",
+            "vin": "4JGFB4KEXPA******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/3c697b77e61b4b8cb939de3291beb3a4_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/3c697b77e61b4b8cb939de3291beb3a4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/29376506163744febf5910612706cbaa_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/be412f99e8e849f189786a030be901bf_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/d47c2beddb624b8ba039d369291fb99e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/98de45bd03064709a238158abca043cb_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 MERCEDES-BENZ SPRINTER 2500",
+        "make": "MERCEDES-BENZ",
+        "year": "2020",
+        "model": "SPRINTER 2500",
+        "link": "https://www.copart.com/lot/87737455/2020-mercedes-benz-sprinter-2500-pa-philadelphia-east-sublot",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "87737455",
+            "vin": "W1Y4EDHYXLT******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "Rear-wheel drive",
+            "fuel": "DIESEL",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/03ab37d1ed5e4c768e1b1bf89a09f396_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/03ab37d1ed5e4c768e1b1bf89a09f396_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/40b400ac85c548379ea31baa352d53be_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/e1d31ea252dd4586a7b7bfbe9d66534f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/52d8388ee83f46a49493ef68a37f0f18_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/04fabb040d544f23be3454c5e4755260_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 MERCEDES-BENZ SPRINTER 2500",
+        "make": "MERCEDES-BENZ",
+        "year": "2023",
+        "model": "SPRINTER 2500",
+        "link": "https://www.copart.com/lot/87736745/2023-mercedes-benz-sprinter-2500-mo-columbia",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "87736745",
+            "vin": "W1Y4NDHY4PT******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "Rear-wheel drive",
+            "fuel": "DIESEL",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/d21d17fe0291443a9d7de5a1acd36d5e_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/d21d17fe0291443a9d7de5a1acd36d5e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/2b9b7aefebaf454dac390484a09c6048_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/390ace7e67434793a080b68ff818d460_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/5b0d638bbb104dfa9f3eaf755fcceee3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/fa85919a9f184b17a01d658890682de9_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 MERCEDES-BENZ GLE 350",
+        "make": "MERCEDES-BENZ",
+        "year": "2022",
+        "model": "GLE 350",
+        "link": "https://www.copart.com/lot/87728355/salvage-2022-mercedes-benz-gle-350-al-birmingham",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 2500
+        },
+        "details": {
+            "lotNumber": "87728355",
+            "vin": "4JGFB4JB8NA******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a90b88d6d78240da988ae05d8a18314a_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a90b88d6d78240da988ae05d8a18314a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/31ab00855a824887bcd7ba6596ecd919_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/652c39557cc347ff9ecebb1ae1284b00_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/8895cc703e8846918c8a8406a8564064_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/fc9024fae64d4d1fb3bb87634a3612bb_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 MERCEDES-BENZ SPRINTER 2500",
+        "make": "MERCEDES-BENZ",
+        "year": "2020",
+        "model": "SPRINTER 2500",
+        "link": "https://www.copart.com/lot/87720595/2020-mercedes-benz-sprinter-2500-oh-dayton",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "87720595",
+            "vin": "W1Y40CHY6LT******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/477358f00dc543268224f26b7b3873b9_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/477358f00dc543268224f26b7b3873b9_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/bf65c788200540c9a95436f78ddc418f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/aaced221d34b4a449f73341f0366f896_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/5516654c7c984f34ac0e692a96ed8c1a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/2bc21f24577a4dfea7057df6ba9d379b_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 MERCEDES-BENZ CLA 250 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2023",
+        "model": "CLA 250 4MATIC",
+        "link": "https://www.copart.com/lot/87715785/2023-mercedes-benz-cla-250-4matic-or-portland-north",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "87715785",
+            "vin": "W1K5J4HB5PN******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/8b1a3a0d31ed45f0878a76efc132c948_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/8b1a3a0d31ed45f0878a76efc132c948_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/af35f207b6b048879ab29f406caf0f4e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/99b892adea0840ad8d5b0ee5638ec635_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/af3e8d93e6c44161af22f4237f2f590c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/8953b51d2bab4c9d8cf52c31e01a5745_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 MERCEDES-BENZ C 43 AMG",
+        "make": "MERCEDES-BENZ",
+        "year": "2020",
+        "model": "C 43 AMG",
+        "link": "https://www.copart.com/lot/87711955/salvage-2020-mercedes-benz-c-43-amg-in-dyer",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "87711955",
+            "vin": "WDDWJ6EB4LF******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/e4c73ff55d9947d7818ba632a634344b_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/e4c73ff55d9947d7818ba632a634344b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/e7e16224019c4d19811d900ab2a4f607_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/80bccbc9280d43e395bb2e2d0c3e0034_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/e394ec7b693f42248db2620a51fe043e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/705b2f604f9649399993778b9e60109c_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 MERCEDES-BENZ GLE 350 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2020",
+        "model": "GLE 350 4MATIC",
+        "link": "https://www.copart.com/lot/87707245/salvage-2020-mercedes-benz-gle-350-4matic-tx-dallas",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "87707245",
+            "vin": "4JGFB4KBXLA******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/46f2b401c7124c038442c2ddf62698c1_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/46f2b401c7124c038442c2ddf62698c1_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/61d590a4aa8949d69f083d621ba4ebed_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/12b99cb3b1cc4915ab75edf77dae2c3e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/3bbd0945691b48d49518a36794cefefd_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/634bf904561f41dc96cf667d138ddd60_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 MERCEDES-BENZ SPRINTER 2500",
+        "make": "MERCEDES-BENZ",
+        "year": "2021",
+        "model": "SPRINTER 2500",
+        "link": "https://www.copart.com/lot/87686405/2021-mercedes-benz-sprinter-2500-on-london",
+        "currentBid": {
+            "currency": "CAD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "87686405",
+            "vin": "W1W40CHY1MT******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c1f6a99d554c4f22bc9892a7fa3e4f15_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c1f6a99d554c4f22bc9892a7fa3e4f15_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/db5af892ff074e8e9fe592f45623496d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ac6fa4fbc8af4d2b91c831b586956b75_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/8895cc4777d348628808f8d04f288d88_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/75912f412cd34ff28e7592ccd77f1a15_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 MERCEDES-BENZ CLA 250",
+        "make": "MERCEDES-BENZ",
+        "year": "2024",
+        "model": "CLA 250",
+        "link": "https://www.copart.com/lot/87668485/salvage-2024-mercedes-benz-cla-250-nc-raleigh-north",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "87668485",
+            "vin": "W1K5J4GBXRN******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "Front-wheel Drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/5a5c5606bdff4baea3bdc66de58eea82_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/5a5c5606bdff4baea3bdc66de58eea82_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c68b6f00b00341a6b4ba7c961bd1684c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a6934d6fb6a7478d8276578cfb565aa7_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/fed8e1bb1ccb42a8b3b3ef5b7f5b41ce_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b3151298277546b8ab4c12e3ba2d13e4_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 MERCEDES-BENZ GLE 350 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2024",
+        "model": "GLE 350 4MATIC",
+        "link": "https://www.copart.com/lot/87638365/salvage-2024-mercedes-benz-gle-350-4matic-tn-memphis",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "87638365",
+            "vin": "4JGFB4FB8RB******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/21988c19266145c99dfafcaf9231a90b_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/21988c19266145c99dfafcaf9231a90b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/7ba762f33c524a0cabe52c4a2a508776_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/cb2fbe2de549432e8954409850bcc582_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/3f13f11cc9c447739ed1cedf5c525842_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/6cfd08e5c3274142b4e84745934527f3_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 MERCEDES-BENZ GLC 300",
+        "make": "MERCEDES-BENZ",
+        "year": "2021",
+        "model": "GLC 300",
+        "link": "https://www.copart.com/lot/87618865/salvage-2021-mercedes-benz-glc-300-ga-cartersville",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "87618865",
+            "vin": "W1N0G8DB2MV******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/49cdeaeef9f94a9fb0207b817d90e214_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/49cdeaeef9f94a9fb0207b817d90e214_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/97f2025e055341c998c7db27df832d84_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/23d88d6266034b8fa604f960e47b4a51_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ef6822d668d7428f97aad21ee6499f46_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/6234b1377d8243ab9e52f12587092966_thb.jpg"
+        ]
+    },
+    {
+        "title": "2025 MERCEDES-BENZ CLA 250",
+        "make": "MERCEDES-BENZ",
+        "year": "2025",
+        "model": "CLA 250",
+        "link": "https://www.copart.com/lot/87610665/clean-title-2025-mercedes-benz-cla-250-ma-north-boston",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 1900
+        },
+        "details": {
+            "lotNumber": "87610665",
+            "vin": "W1K5J4GB1SN******",
+            "primaryDamage": "MINOR DENT/SCRATCHES",
+            "transmission": "N/A",
+            "color": "BLACK",
+            "drive": "Front-wheel Drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/e56b02de349e41d4a9097158eaa4bb98_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/e56b02de349e41d4a9097158eaa4bb98_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/9d052bf2b4d741e6acf10a0d91254355_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/cc2f9268104b450eb37f0c32ff350503_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b21f2d354f064c65b345386c1192737f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/8fceb97f287f4b04b315a2cdbc3e649d_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 MERCEDES-BENZ GLC 300",
+        "make": "MERCEDES-BENZ",
+        "year": "2022",
+        "model": "GLC 300",
+        "link": "https://www.copart.com/lot/87602685/salvage-2022-mercedes-benz-glc-300-sc-spartanburg",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "87602685",
+            "vin": "W1N0G8DB8NV******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "RED",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/d5921fc5760641c28d000e51ec3f2031_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/d5921fc5760641c28d000e51ec3f2031_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/266613501512448386d7d35e657d23ef_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/501b0317838b4150b60f18d13a4dd14b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/6518d48a693a4cca89683481476c46ce_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/12fda344bb204c17bf05925857bca55a_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 MERCEDES-BENZ GLE COUPE AMG 53 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2024",
+        "model": "GLE COUPE AMG 53 4MATIC",
+        "link": "https://www.copart.com/lot/87600565/clean-title-2024-mercedes-benz-gle-coupe-amg-53-4matic-pa-harrisburg",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "87600565",
+            "vin": "4JGFD6BB6RA******",
+            "primaryDamage": "ALL OVER",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ad63dc43cada4f5ebdd90e080fefcfdb_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ad63dc43cada4f5ebdd90e080fefcfdb_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/4f93fa0c96304ae1b7ba9effbd163fba_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/6e0cf7eb828b4727bc8e55e50e491a61_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/7bddeb07e6814bd09b877f87c63d12b2_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/835b38099f6641daab3634f8e7a9e257_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 MERCEDES-BENZ C 300 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2023",
+        "model": "C 300 4MATIC",
+        "link": "https://www.copart.com/lot/87599845/clean-title-2023-mercedes-benz-c-300-4matic-pa-harrisburg",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "87599845",
+            "vin": "W1KAF4HB0PR******",
+            "primaryDamage": "ALL OVER",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/bdea03ac45a44842bf4688a4c80babf4_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/bdea03ac45a44842bf4688a4c80babf4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/7dd88d81f85a4642850dca64de791451_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/5819d68b8a2f44d4aa8488591da36dde_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/5dc40c049b0f405ba5da0f836b67d2ac_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/675cd06d8cf4430ba386aec76098eed2_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 MERCEDES-BENZ GLC 300 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2020",
+        "model": "GLC 300 4MATIC",
+        "link": "https://www.copart.com/lot/87590135/salvage-2020-mercedes-benz-glc-300-4matic-ca-rancho-cucamonga",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "87590135",
+            "vin": "WDC0G8EB9LF******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/e11bc14b06ce4748aa395ec4b2fb4511_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/e11bc14b06ce4748aa395ec4b2fb4511_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/05ca11d48fe042f487f5ac4cd7f9ff04_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/0ae283ca046f4dfca7ba4222fa485ae5_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/0ff8365149cf4c81a06f780383e33d67_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/8db9a12017e344a9ace5bcbc451d2e46_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 MERCEDES-BENZ GLB 250 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2021",
+        "model": "GLB 250 4MATIC",
+        "link": "https://www.copart.com/lot/87551525/2021-mercedes-benz-glb-250-4matic-ny-syracuse",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "87551525",
+            "vin": "W1N4M4HB9MW******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLUE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a2fe3283418444c3ab8b622e84eeabe1_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a2fe3283418444c3ab8b622e84eeabe1_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/1659720d009945df9abaf603152ffa21_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/f69a4f7c7e8f45d88681bbbb8a205715_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/554a0ad604484ff4885dc3f6c7d15453_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/bcacd1156b6a45c6ba3a7485f1dc702e_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 MERCEDES-BENZ GLB 250",
+        "make": "MERCEDES-BENZ",
+        "year": "2023",
+        "model": "GLB 250",
+        "link": "https://www.copart.com/lot/87550145/2023-mercedes-benz-glb-250-ca-rancho-cucamonga",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "87550145",
+            "vin": "W1N4M4GB1PW******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLUE",
+            "drive": "Front-wheel Drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/7648d53c76b44eb0a7d25cc0d1f04459_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/7648d53c76b44eb0a7d25cc0d1f04459_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/d5c8f91ce75a4713a359158490153453_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/dd4fb4af77b446bf81130449798f5ac7_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/168324f2fee941148d20baec087a4789_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/f57481b32ad442a59fd71e6240dae25e_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 MERCEDES-BENZ C 300",
+        "make": "MERCEDES-BENZ",
+        "year": "2022",
+        "model": "C 300",
+        "link": "https://www.copart.com/lot/87513635/2022-mercedes-benz-c-300-ca-sun-valley",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "87513635",
+            "vin": "W1KWJ8DB9NG******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/9768d20ef5af45adad2a98cf697a6203_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/9768d20ef5af45adad2a98cf697a6203_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/6ed179e2342048c2af82908054b2db85_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/f1faef60349f49db9e6936bf9d5007cd_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/1a8bbf52c48b4c85aeb12358fed8b517_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/3c48b1eeb9174ca79209ca97aafef14b_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 MERCEDES-BENZ GLB 250 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2021",
+        "model": "GLB 250 4MATIC",
+        "link": "https://www.copart.com/lot/87506585/2021-mercedes-benz-glb-250-4matic-ca-rancho-cucamonga",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "87506585",
+            "vin": "W1N4M4HB0MW******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "BLUE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/d797b298852148a89ce4358f367c2523_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/d797b298852148a89ce4358f367c2523_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c0859cd2ee604d45b3c187ca1bd3f5a3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a5115de9c7d54e38a34fa72ef4188fc8_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/03794c81978e4e07bcc25923d9ce7c26_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/0ceacf8623c443f5aa72b712f8c68158_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 MERCEDES-BENZ GLE 350 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2020",
+        "model": "GLE 350 4MATIC",
+        "link": "https://www.copart.com/lot/87486044/salvage-2020-mercedes-benz-gle-350-4matic-or-portland-south",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 125
+        },
+        "details": {
+            "lotNumber": "87486044",
+            "vin": "4JGFB4KE6LA******",
+            "primaryDamage": "MECHANICAL",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/0e77f65016f0456bba48994eab239d23_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/0e77f65016f0456bba48994eab239d23_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/d3efef6db76b42cabf893030885339f1_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/5fe9d8795ab1446da5732c31ae594b4b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/5be1782d280e4e729d30b46abb85ed79_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/e5d76ce025dd4e1eab9f44429c7fa688_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 MERCEDES-BENZ G 63 AMG",
+        "make": "MERCEDES-BENZ",
+        "year": "2021",
+        "model": "G 63 AMG",
+        "link": "https://www.copart.com/lot/87440214/2021-mercedes-benz-g-63-amg-ca-van-nuys",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "87440214",
+            "vin": "W1NYC7HJ1MX******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "4.0L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/9612da69d2c54c33af8b1c2f0ee62c91_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/9612da69d2c54c33af8b1c2f0ee62c91_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/9d771e87e76e48a8bba4880111121ac3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ea006799f28e4f3fbd9dd7731ee66557_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/fc508c7a69974977b402fb6575635dde_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/e121a491b35e4ae9ae89aced44bc3898_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 MERCEDES-BENZ METRIS",
+        "make": "MERCEDES-BENZ",
+        "year": "2022",
+        "model": "METRIS",
+        "link": "https://www.copart.com/lot/87427614/2022-mercedes-benz-metris-nj-glassboro-east",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "87427614",
+            "vin": "W1YV0BEY4N4******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/6771d08097744661b4d4875aa2575611_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/6771d08097744661b4d4875aa2575611_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/1a5980124dfc40dfa6362e5b4e7a45dd_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/0372e2a31df849e59f4ccb9d4e007ba1_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/bf19d69ca18b477ab920edb6a5146933_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c811c2d962a24aee834600216ff0767e_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 MERCEDES-BENZ CLA 250 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2020",
+        "model": "CLA 250 4MATIC",
+        "link": "https://www.copart.com/lot/87421174/2020-mercedes-benz-cla-250-4matic-ny-long-island",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "87421174",
+            "vin": "W1K5J4HB0LN******",
+            "primaryDamage": "STRIPPED",
+            "transmission": "N/A",
+            "color": "SILVER",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/2f5fa071a8e246d590af943915a97f6a_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/2f5fa071a8e246d590af943915a97f6a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/36eeaeffb885440aae233b5b13a52288_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/f3048113237c4968b8ee000513cab841_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/0345d965534c4b21afdea757ef356a8f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/5f8fa57061384ebcb7799ef67e82b5df_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 MERCEDES-BENZ SPRINTER 2500",
+        "make": "MERCEDES-BENZ",
+        "year": "2020",
+        "model": "SPRINTER 2500",
+        "link": "https://www.copart.com/lot/87383804/salvage-2020-mercedes-benz-sprinter-2500-nh-candia",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "87383804",
+            "vin": "W1W4ECHY9LT******",
+            "primaryDamage": "ROLLOVER",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "Rear-wheel drive",
+            "fuel": "DIESEL",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/dc619861b1f2475e94996353b1a7424e_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/dc619861b1f2475e94996353b1a7424e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/f648def98ecb4b2eabf58799e3b823d4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/70f3d859cc8144ed9a9b2509f7cd389c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/6bb735867e604aa0989e9752be873d7f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/8699aa183caa47058b8a3ff1f4188339_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 MERCEDES-BENZ GLE 350 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2024",
+        "model": "GLE 350 4MATIC",
+        "link": "https://www.copart.com/lot/87381934/2024-mercedes-benz-gle-350-4matic-ny-long-island",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "87381934",
+            "vin": "4JGFB4FB1RB******",
+            "primaryDamage": "ROLLOVER",
+            "transmission": "AUTOMATIC",
+            "color": "BLUE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b2687bb01e964cc798830fb9672d2639_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b2687bb01e964cc798830fb9672d2639_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/7312db0adf454c669a5e9fa2274030fa_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ff21ae39bb2f4b58bc5ca0b62cbbda28_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/51a008daccf54cb7af3f8c0e4ba4c857_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/bfa5865748d141519350f0f053b9c497_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 MERCEDES-BENZ GLB 250 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2020",
+        "model": "GLB 250 4MATIC",
+        "link": "https://www.copart.com/lot/87356464/salvage-2020-mercedes-benz-glb-250-4matic-sc-north-charleston",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "87356464",
+            "vin": "WDC4M4HB3LW******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c16230cddd8447ebb037afff6af2ed61_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c16230cddd8447ebb037afff6af2ed61_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/472d2a9b9f4048a5ad527f5ede67d5a7_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/13b3f53af1374bc7b474578148b3fae5_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/bee4f73b9b4c4487a0684bfaab86ad97_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/e73480afbcb54bd089e470943cf3b918_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 MERCEDES-BENZ GLE 350 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2022",
+        "model": "GLE 350 4MATIC",
+        "link": "https://www.copart.com/lot/87335724/clean-title-2022-mercedes-benz-gle-350-4matic-md-laurel",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "87335724",
+            "vin": "4JGFB4KB2NA******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/384b8ebcd3a740edaea23c9dc561d953_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/384b8ebcd3a740edaea23c9dc561d953_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/e454113e37704519a72e40fa107b785a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/8bc5f583071648efa681eb775846eeda_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/be6df45403244aaa8ddc2820bc150e38_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/987d57889f3640d88097a3d4b57ce0f3_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 MERCEDES-BENZ GLC 300 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2020",
+        "model": "GLC 300 4MATIC",
+        "link": "https://www.copart.com/lot/87318354/2020-mercedes-benz-glc-300-4matic-fl-ft-pierce",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "87318354",
+            "vin": "WDC0G8EB3LF******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b2474a07975d4ec6b43c14818a71bccc_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b2474a07975d4ec6b43c14818a71bccc_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/90738f244cc64fbdb162269cd931cfd9_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c0289c6fa1804502a4ad27133d264114_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/9cdf7703e2cb423a9ba0707fc84bf056_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/83d1346ce0204baf82d5e7f6b9050796_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 MERCEDES-BENZ GLC 300",
+        "make": "MERCEDES-BENZ",
+        "year": "2020",
+        "model": "GLC 300",
+        "link": "https://www.copart.com/lot/87313554/salvage-2020-mercedes-benz-glc-300-la-new-orleans",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "87313554",
+            "vin": "W1N0G8DB9LF******",
+            "primaryDamage": "FRONT END",
+            "transmission": "Yes",
+            "color": "GRAY",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/2696b172e86f481d973a39605983e5ee_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/2696b172e86f481d973a39605983e5ee_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/74018859c2264018911aa4ac4fc7ccbd_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/74cf210647ba46d0a2a44cb7dfe9b07a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/621f56dfaced4ef988edcaf89c64e060_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/17d572c9c65b437393d91dfc6f344811_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 MERCEDES-BENZ GLE 350",
+        "make": "MERCEDES-BENZ",
+        "year": "2021",
+        "model": "GLE 350",
+        "link": "https://www.copart.com/lot/87305084/salvage-2021-mercedes-benz-gle-350-sc-north-charleston",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 225
+        },
+        "details": {
+            "lotNumber": "87305084",
+            "vin": "4JGFB4JB3MA******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/62262b5ebfc34c42bff2c79f7b1193c4_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/62262b5ebfc34c42bff2c79f7b1193c4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/04c30f89ef8240fb97b70a9b9394e8f1_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/9bd2bba220e54c2fbb01aad555cebaed_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/836a952c430f4334a3a3d74bba575547_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/4b4b4eeb47274192b7d03e8e94b63206_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 MERCEDES-BENZ GLE 450 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2024",
+        "model": "GLE 450 4MATIC",
+        "link": "https://www.copart.com/lot/87300604/2024-mercedes-benz-gle-450-4matic-tx-north-austin",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "87300604",
+            "vin": "4JGFB5KB9RB******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ac6f1c1ded474427a799c49d55678885_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ac6f1c1ded474427a799c49d55678885_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/00f2ce45c92942b6845cde38eb9c0889_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/4504d9c8a2454d488367290839a7278d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/f9df6dbbae764f08b5b8f63ef2024e67_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/bfcab34241024d1084c44a3e586042f9_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 MERCEDES-BENZ GLC 300 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2021",
+        "model": "GLC 300 4MATIC",
+        "link": "https://www.copart.com/lot/87294454/2021-mercedes-benz-glc-300-4matic-ma-freetown",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "87294454",
+            "vin": "W1N0G8EB8MF******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/44f0ee7d541347088b74d9301f56d703_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/44f0ee7d541347088b74d9301f56d703_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/dc688ab23ebc4aa6b9a7bc4a97626bef_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/e4b51e2579ec4d5ca5a720eeca0577de_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c27d96195ed64c0ea80761e33203424f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/20da058580094bacae6533d4f33f1c26_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 MERCEDES-BENZ C 300",
+        "make": "MERCEDES-BENZ",
+        "year": "2021",
+        "model": "C 300",
+        "link": "https://www.copart.com/lot/87288864/2021-mercedes-benz-c-300-tn-memphis",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "87288864",
+            "vin": "W1KWF8DBXMR******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/3ceebdc1995f424eac7fbb6f5ab115d3_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/3ceebdc1995f424eac7fbb6f5ab115d3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/1cb6b11a1f474955afb39700e1e75f28_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/4f8579213a554cacb6c66d44c3cb1364_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/3d059c2791fb47e8ba3aaf24a92ffe0b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/98a6dd3e8e2546dcad87de27ee734ddf_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 MERCEDES-BENZ S 450 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2020",
+        "model": "S 450 4MATIC",
+        "link": "https://www.copart.com/lot/87282954/2020-mercedes-benz-s-450-4matic-md-baltimore",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "87282954",
+            "vin": "W1KUG6EB8LA******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/1586f7e42ede4eb8b99a589ff7e14697_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/1586f7e42ede4eb8b99a589ff7e14697_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/4755755f0bbb4dc4808067e91b697a75_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/5674c36a91ff4d849b76d0e18733afbd_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/6cdc96ae3c49417f9b06fc0a46a55811_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b5438d4bd09d44edb1fe3764bee2ef92_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 MERCEDES-BENZ CLA 250",
+        "make": "MERCEDES-BENZ",
+        "year": "2020",
+        "model": "CLA 250",
+        "link": "https://www.copart.com/lot/87263884/2020-mercedes-benz-cla-250-nv-las-vegas",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "87263884",
+            "vin": "WDD5J4GB5LN******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "Front-wheel Drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/0bf1a8b736ee4c149784614c66e9647b_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/0bf1a8b736ee4c149784614c66e9647b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/67e5473af5004e92925902eadbd2f2dd_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/5fdb72b239f54d5fbffbd1e4dab0232c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/5b77297333614edda423da1f7f6dc171_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ab14b12044e74dde8aa4fd8f7a892998_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 MERCEDES-BENZ SPRINTER 2500",
+        "make": "MERCEDES-BENZ",
+        "year": "2024",
+        "model": "SPRINTER 2500",
+        "link": "https://www.copart.com/lot/87263844/salvage-2024-mercedes-benz-sprinter-2500-ca-hayward",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "87263844",
+            "vin": "W1Y4KBHY4RT******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "Rear-wheel drive",
+            "fuel": "DIESEL",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/4ae2437498e14f0ebf74f2b4d9998118_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/4ae2437498e14f0ebf74f2b4d9998118_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/03629b1f49f046239f41e47257ffbc0e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/82257056e1c748b9b48af3642f0b7fd7_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ce7c070d1fcf4ae9826be5cb946aa5e6_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/9b9149a9a15043f088dd2d96aad5ebd1_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 MERCEDES-BENZ C 300 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2023",
+        "model": "C 300 4MATIC",
+        "link": "https://www.copart.com/lot/87249864/salvage-2023-mercedes-benz-c-300-4matic-dc-washington-dc",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 325
+        },
+        "details": {
+            "lotNumber": "87249864",
+            "vin": "W1KWK8EB5PG******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/6659246001fd42458e3e5e81df39d7f6_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/6659246001fd42458e3e5e81df39d7f6_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/f95c3aa385494cabab28ab2ed87e2110_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/07a7e60bb9834e3e902858e4ad8cca06_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/2ea601ef04ec43c19ae23c1cbb2d8d02_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/d28d4436815743a0bd1e348a75369b2c_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 MERCEDES-BENZ GLC 300 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2021",
+        "model": "GLC 300 4MATIC",
+        "link": "https://www.copart.com/lot/87196984/2021-mercedes-benz-glc-300-4matic-pa-philadelphia",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "87196984",
+            "vin": "W1N0G8EB7MV******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "RED",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/2d2aa073fbe94e8189d69794f4635426_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/2d2aa073fbe94e8189d69794f4635426_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/cb2168dcee9e43cd9e197a066288a4a4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/55dd0ee8c11d49bd8e58073ca0001ef6_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/56e08d1f51184758a9b5ffd389c3b3ee_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/296046e8ff0a4d40acbd547a4d94fd08_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 MERCEDES-BENZ S 580 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2022",
+        "model": "S 580 4MATIC",
+        "link": "https://www.copart.com/lot/87169814/salvage-2022-mercedes-benz-s-580-4matic-pa-philadelphia-east-sublot",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 20700
+        },
+        "details": {
+            "lotNumber": "87169814",
+            "vin": "W1K6G7GBXNA******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "4.0L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/2a9b892e3dcd46958e7495b9741fe59e_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/2a9b892e3dcd46958e7495b9741fe59e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ff44a48e2a2843caab3e8a65966cf237_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/df706e30ef8d4a4aae205d98989105e4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/1fb593ded32d4a30912241ba82e97f2d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/f8f316335d0d445fb509ab9f364bad6c_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 MERCEDES-BENZ GLB 250 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2020",
+        "model": "GLB 250 4MATIC",
+        "link": "https://www.copart.com/lot/87159604/salvage-2020-mercedes-benz-glb-250-4matic-ga-atlanta-south",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "87159604",
+            "vin": "W1N4M4HB6LW******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/13e3584eb69c4ea4b29b81dbb26cd12b_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/13e3584eb69c4ea4b29b81dbb26cd12b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/6c61bbf24e68498c91578f1355d49d51_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/4dbac00ca35547d6a8fd717adabf4dd7_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/6bfca2698a09476c8f0d555cecd076d1_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/fc83401f6b01473988938710642b02d2_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 MERCEDES-BENZ GLE 350",
+        "make": "MERCEDES-BENZ",
+        "year": "2020",
+        "model": "GLE 350",
+        "link": "https://www.copart.com/lot/87127504/salvage-2020-mercedes-benz-gle-350-tx-houston-east",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "87127504",
+            "vin": "4JGFB4JB1LA******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/5fa69b574ef54139b5a66e520951b7af_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/5fa69b574ef54139b5a66e520951b7af_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a5b0ee35b2ca457a84510886173595b3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/7cd9901fa19344a099e03563f8a3bdaa_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/129171a7433f4fe1b4fa0be2dc727c4a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/2684f08b58d84f8ea82338eb7a2d44e0_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 MERCEDES-BENZ GLA 250 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2021",
+        "model": "GLA 250 4MATIC",
+        "link": "https://www.copart.com/lot/87120564/2021-mercedes-benz-gla-250-4matic-ny-newburgh",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "87120564",
+            "vin": "W1N4N4HB1MJ******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/8ceb7a0d8bcc478bbbc7a3b03d313974_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/8ceb7a0d8bcc478bbbc7a3b03d313974_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/bb487b2224f1447c911e6705c6e768e3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c01834e760f94497a6cec4d8f38b8c97_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/f476ac0fc94c42ddb38ac4c16566f427_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/f5771cfd4c5a481cb4ed58b8b8a19b6f_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 MERCEDES-BENZ GLB 250 4MATIC",
+        "make": "MERCEDES-BENZ",
+        "year": "2023",
+        "model": "GLB 250 4MATIC",
+        "link": "https://www.copart.com/lot/87096434/salvage-2023-mercedes-benz-glb-250-4matic-in-dyer",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "87096434",
+            "vin": "W1N4M4HB0PW******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/196d23301c314f3b8da50a59314db3c9_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/196d23301c314f3b8da50a59314db3c9_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c0180256a21c44a18b34985c8849276c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/578ad9303250411fa554c11c643ff432_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ba1df088e9a7415db7c9a6743a326f96_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/dc78fb8b52e34fd18044fe5eeaf87fec_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 MERCEDES-BENZ GLC 300",
+        "make": "MERCEDES-BENZ",
+        "year": "2024",
+        "model": "GLC 300",
+        "link": "https://www.copart.com/lot/87091834/2024-mercedes-benz-glc-300-ca-adelanto",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "87091834",
+            "vin": "W1NKM4GB8RF******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "SILVER",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/808b10b7ebec4eb9ae8df16a2e19665f_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/808b10b7ebec4eb9ae8df16a2e19665f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/d66ce30bf86841bdb59404b3a0f3d829_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/770bcd450be244d48f043ff3b6045822_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/8e34a9e878ec4b7f81631774eb3b0174_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/9b4788a209894a2aa9adc19348575049_thb.jpg"
+        ]
+    }
+]
