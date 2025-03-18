@@ -1,0 +1,2713 @@
+[
+    {
+        "title": "2020 LAND ROVER RANGE ROVER EVOQUE SE",
+        "make": "LAND ROVER",
+        "year": "2020",
+        "model": "RANGE ROVER EVOQUE SE",
+        "link": "https://www.copart.com/lot/83994784/2020-land-rover-range-rover-evoque-se-on-london",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "83994784",
+            "vin": "SALZP2FX6LH******",
+            "primaryDamage": "VANDALISM",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "No"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/97082c99c597456f88166884983fe801_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/97082c99c597456f88166884983fe801_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/aac4e94c889b49e7a9bd77f2094a8a2f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/6ef9b834e68f4585abd9974276069b4f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/febe6c5dc95e49f1a2235010c56266df_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/a9618d5d9de3486d9e1e277ba048daa4_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 LAND ROVER DISCOVERY SPORT SE R-DYNAMIC",
+        "make": "LAND ROVER",
+        "year": "2022",
+        "model": "DISCOVERY SPORT SE R-DYNAMIC",
+        "link": "https://www.copart.com/lot/83677604/2022-land-rover-discovery-sport-se-r-dynamic-ma-freetown",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "83677604",
+            "vin": "SALCL2FX1NH******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/6067b74cda9f4405923594e45b613e6a_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/6067b74cda9f4405923594e45b613e6a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/b374508a239d419796a6805d84c92fdb_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/0e7b2f3999794a209da1a19f28c2f4a4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/fc82936c082f4ff5a4f1a1ff6a6ae200_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/3d17caea8b634774bf56d46fdb3a0516_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LAND ROVER DISCOVERY SPORT SE",
+        "make": "LAND ROVER",
+        "year": "2020",
+        "model": "DISCOVERY SPORT SE",
+        "link": "https://www.copart.com/lot/83537434/salvage-2020-land-rover-discovery-sport-se-mo-columbia",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 2150
+        },
+        "details": {
+            "lotNumber": "83537434",
+            "vin": "SALCP2FX4LH******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/c4f4286070e846cd9e3e4a2e44764f61_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/c4f4286070e846cd9e3e4a2e44764f61_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/93e1f811907e49d994baf779c314bd1c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/e2cda0e128e049c4bbd61f45a5f169e0_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/82158e031f3c4460aa12446c4fe419a3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/33fdf14b23ab44d5b7f079505022fa63_thb.jpg"
+        ]
+    },
+    {
+        "title": "2025 LAND ROVER RANGE ROVER SPORT DYNAMIC SE",
+        "make": "LAND ROVER",
+        "year": "2025",
+        "model": "RANGE ROVER SPORT DYNAMIC SE",
+        "link": "https://www.copart.com/lot/83525804/salvage-2025-land-rover-range-rover-sport-dynamic-se-nj-trenton",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 275
+        },
+        "details": {
+            "lotNumber": "83525804",
+            "vin": "SAL1L9E43SA******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "HYBRID ENGINE",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/c83b9e9c52514286ad07c0c47e686b84_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/c83b9e9c52514286ad07c0c47e686b84_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/f605e43055924113b0703577ff4007d4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/e88e85f8107443579b88908d7850d3b5_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/9baeb5669970434b818d64b819b0c391_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/ef45ba3efe8d42d3a7b18118aa6d2672_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 LAND ROVER DISCOVERY SPORT S",
+        "make": "LAND ROVER",
+        "year": "2021",
+        "model": "DISCOVERY SPORT S",
+        "link": "https://www.copart.com/lot/83437044/2021-land-rover-discovery-sport-s-al-montgomery",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "83437044",
+            "vin": "SALCJ2FX0MH******",
+            "primaryDamage": "BURN",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/af7cea8b8ebe43f29d23c5e8edee895e_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/af7cea8b8ebe43f29d23c5e8edee895e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/08976540cd3a489eb8ab439525c9abea_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/c5672f233b8946cb900903cd28ec5bd2_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/2acd49f895b7413b98ba643add2875cf_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/3f99bf771f7649f592ad1d9b5441a9d1_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LAND ROVER RANGE ROVER SPORT SE",
+        "make": "LAND ROVER",
+        "year": "2020",
+        "model": "RANGE ROVER SPORT SE",
+        "link": "https://www.copart.com/lot/83369594/2020-land-rover-range-rover-sport-se-tn-memphis",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "83369594",
+            "vin": "SALWG2SU1LA******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "SILVER",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/f63a1592c92f4d53ac630eff16dba7f3_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/f63a1592c92f4d53ac630eff16dba7f3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/0e3291719f7a41808349e52abdff8261_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/f1eab297e50c493f9dc42ec23e0e6842_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/7c464291c7eb4a22ae14c765371f1dce_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/726521d8fc7340b79ea69a8c2826e6f8_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 LAND ROVER RANGE ROVER EVOQUE R-DYNAMIC SE",
+        "make": "LAND ROVER",
+        "year": "2021",
+        "model": "RANGE ROVER EVOQUE R-DYNAMIC SE",
+        "link": "https://www.copart.com/lot/83224424/2021-land-rover-range-rover-evoque-r-dynamic-se-md-laurel",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "83224424",
+            "vin": "SALZL2FX4MH******",
+            "primaryDamage": "UNDERCARRIAGE",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/9d6f763881cb4eb28da0951ac31f6e33_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/9d6f763881cb4eb28da0951ac31f6e33_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/d80b674d41f641cfbdceabfeaf949909_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/a38c892cf1584705960edf0ac05e2d12_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/a673ce8c56d54723a937703c4fd8d078_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/a97503bd48ee4ba29a871d525f0d92f3_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 LAND ROVER RANGE ROVER VELAR S",
+        "make": "LAND ROVER",
+        "year": "2024",
+        "model": "RANGE ROVER VELAR S",
+        "link": "https://www.copart.com/lot/83099174/2024-land-rover-range-rover-velar-s-il-chicago-north",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "83099174",
+            "vin": "SALYJ2EXXRA******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/c5e1e1323c434b29aacb003dc2a91fa0_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/c5e1e1323c434b29aacb003dc2a91fa0_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/2f4800fa420645cdb3e5ced0acdfa5fa_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/a93a6b656be9470eb3c9a76f33bee4a0_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/af3c75f7d42840a79d2ed1e9e63ac98c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/56677d00a1cc4a65bf91125294e01824_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LAND ROVER RANGE ROVER SPORT HST",
+        "make": "LAND ROVER",
+        "year": "2020",
+        "model": "RANGE ROVER SPORT HST",
+        "link": "https://www.copart.com/lot/83008404/2020-land-rover-range-rover-sport-hst-on-cookstown",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "83008404",
+            "vin": "SALWS2RU0LA******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/147083f90f304d809c3d7be184f1f86b_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/147083f90f304d809c3d7be184f1f86b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/540b6eb6b8d24cfebeb7067b5734ceba_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/59061c42d64441cc8d86e925e62c4fd9_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/9bda3b8157a24d8dab108a75f0f2442b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/fcd74471b7fb4d58abd94038516c3f77_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 LAND ROVER RANGE ROVER SPORT HSE DYNAMIC",
+        "make": "LAND ROVER",
+        "year": "2021",
+        "model": "RANGE ROVER SPORT HSE DYNAMIC",
+        "link": "https://www.copart.com/lot/82882224/2021-land-rover-range-rover-sport-hse-dynamic-ks-kansas-city",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "82882224",
+            "vin": "SALWR2SE9MA******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "5.0L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/8f6996b56eed4c6281af908ff926cce4_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/8f6996b56eed4c6281af908ff926cce4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/5573b469f4a14263a9971586bfefaf71_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/d7966d7be9a14cb59d09deb25ae3c1e2_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/442aedbd9e544846a179163b474450db_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/fd8ed31414554c75b277e9a0197bbbd6_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 LAND ROVER RANGE ROVER EVOQUE S",
+        "make": "LAND ROVER",
+        "year": "2024",
+        "model": "RANGE ROVER EVOQUE S",
+        "link": "https://www.copart.com/lot/82811304/2024-land-rover-range-rover-evoque-s-on-cookstown",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "82811304",
+            "vin": "SALZJ2FX4RH******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/6f190a03dbb64cc99a3c0fd82edf37c5_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/6f190a03dbb64cc99a3c0fd82edf37c5_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/a66e13599adf4046af45d55df3ac8027_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/936e5be7c64d4e09aee8f032643511d5_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/5e68a0bae0ee4069a2a69e55d53b6a8b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/884164225ccd4584b5778d0aca316d02_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 LAND ROVER RANGE ROVER SE",
+        "make": "LAND ROVER",
+        "year": "2023",
+        "model": "RANGE ROVER SE",
+        "link": "https://www.copart.com/lot/82801024/salvage-2023-land-rover-range-rover-se-il-chicago-north",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 8200
+        },
+        "details": {
+            "lotNumber": "82801024",
+            "vin": "SALKP9FU6PA******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/a5d95b3651374e60b35de7280f2d3415_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/a5d95b3651374e60b35de7280f2d3415_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/c369eab7b3864fde87f8b2d976f7592f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/7887cb9cff614affab6d9279f930c072_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/bedb94dcb96a4cb8a445d154886ba54d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/dd9972444607425cbd11b41eb373ce9b_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LAND ROVER RANGE ROVER SPORT HSE",
+        "make": "LAND ROVER",
+        "year": "2020",
+        "model": "RANGE ROVER SPORT HSE",
+        "link": "https://www.copart.com/lot/82608284/salvage-2020-land-rover-range-rover-sport-hse-or-portland-north",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "82608284",
+            "vin": "SALWR2SU7LA******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/d37546e096ae4792afd123791d91baee_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/d37546e096ae4792afd123791d91baee_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/498e0b3803504c4e97084ffd53fbbd35_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/bac67f68f347478b8608ad793fea7e43_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/87954b88d1f84c2aa394996fc5456fc9_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/21c251da9ee749bca4e378529dc43668_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 LAND ROVER DISCOVERY SPORT SE",
+        "make": "LAND ROVER",
+        "year": "2022",
+        "model": "DISCOVERY SPORT SE",
+        "link": "https://www.copart.com/lot/81999434/2022-land-rover-discovery-sport-se-ma-north-boston",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "81999434",
+            "vin": "SALCP2FX1NH******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "SILVER",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/3c3e16e279e541d79bc425034b6afeab_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/3c3e16e279e541d79bc425034b6afeab_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/dd0157fecffc4469a49708cc114bc6e4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/d9a4c3a33f6c4484b8bbd02bda326266_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/e080978c44544147a175ec6d4f959113_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/baf623b283024d409d29d31072d9c8b6_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LAND ROVER RANGE ROVER EVOQUE SE",
+        "make": "LAND ROVER",
+        "year": "2020",
+        "model": "RANGE ROVER EVOQUE SE",
+        "link": "https://www.copart.com/lot/81927294/salvage-2020-land-rover-range-rover-evoque-se-ma-north-boston",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "81927294",
+            "vin": "SALZP2FX7LH******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/06cf11af831c46d88189f2306dedc4af_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/06cf11af831c46d88189f2306dedc4af_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/b036f1f082e44e9aa25226027e482a09_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/b0b75773035c43b68fd8d1de1c0b07f4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/3f7a2a7c54044bc9874a74c5b54d7a20_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/3e887a71ef174f09859dcf8270afc23d_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 LAND ROVER RANGE ROVER VELAR R-DYNAMIC S",
+        "make": "LAND ROVER",
+        "year": "2023",
+        "model": "RANGE ROVER VELAR R-DYNAMIC S",
+        "link": "https://www.copart.com/lot/81887244/2023-land-rover-range-rover-velar-r-dynamic-s-ny-newburgh",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 500
+        },
+        "details": {
+            "lotNumber": "81887244",
+            "vin": "SALYT2EX7PA******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/0ebad5d4e4334110929561668976b632_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/0ebad5d4e4334110929561668976b632_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/719cff50fa504d6b851ede4a46187bd1_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/aa25d47b54aa4fa7b53dee25306adf3d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/ae179a8433aa4629a220c33d62e147e9_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/b75a8a2f83a0475e841ebdcd0140e4c5_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LAND ROVER DISCOVERY SE",
+        "make": "LAND ROVER",
+        "year": "2020",
+        "model": "DISCOVERY SE",
+        "link": "https://www.copart.com/lot/81886944/salvage-2020-land-rover-discovery-se-tx-houston",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "81886944",
+            "vin": "SALRG2RV0L2******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/8c5bfa99128c49d8ae56c589fc685551_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/8c5bfa99128c49d8ae56c589fc685551_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/fc48af02e1e84f23913fa1764502e234_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/b05d68b98f1d4cc4ac8507497bb03ed0_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/d7a449dee8344944bd30ceb17a00568d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/eeb379c6ea414fb4b577c61eedf6aa76_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 LAND ROVER RANGE ROVER VELAR R-DYNAMIC S",
+        "make": "LAND ROVER",
+        "year": "2022",
+        "model": "RANGE ROVER VELAR R-DYNAMIC S",
+        "link": "https://www.copart.com/lot/81678614/salvage-2022-land-rover-range-rover-velar-r-dynamic-s-md-baltimore-east",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "81678614",
+            "vin": "SALYT2EX8NA******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/fce4a4e0d22a4fec806d56fc8c582c80_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/fce4a4e0d22a4fec806d56fc8c582c80_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/919438c82ddf4815a6906c3cd70439af_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/1c744a7fc33646ccafadc7e079b42890_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/5b2cc24bdf104bbb870c65fb656225d5_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/6175309f05d84c5cbe2c689bb01a22d6_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LAND ROVER RANGE ROVER VELAR S",
+        "make": "LAND ROVER",
+        "year": "2020",
+        "model": "RANGE ROVER VELAR S",
+        "link": "https://www.copart.com/lot/81646034/2020-land-rover-range-rover-velar-s-nj-trenton",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "81646034",
+            "vin": "SALYB2EX0LA******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/8682cec5597c4373b243132cc884ad7d_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/8682cec5597c4373b243132cc884ad7d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/062ebfdd0f0f4c238f719d36cf408af3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/e1dda79ef4a6461b9302aba9ae962188_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/fefa4bba9dd3451d9251797977322582_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/8a4960e549cc47729ff68759bcaf32e1_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 LAND ROVER DISCOVERY SPORT S",
+        "make": "LAND ROVER",
+        "year": "2021",
+        "model": "DISCOVERY SPORT S",
+        "link": "https://www.copart.com/lot/81616434/salvage-2021-land-rover-discovery-sport-s-tn-nashville",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "81616434",
+            "vin": "SALCJ2FX7MH******",
+            "primaryDamage": "ALL OVER",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/d819633f75ef4dd7b0591aca45ae6e89_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/d819633f75ef4dd7b0591aca45ae6e89_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/5d725600dbd743b68d531eec0535991d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/cabb7ff703454c2e9cdc9a045c58d628_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/f37a5727ace84d519600bfd60665af3a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/e79ee5f7d6c04fcf925d6b2f7fd84662_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 LAND ROVER DEFENDER 110 S",
+        "make": "LAND ROVER",
+        "year": "2024",
+        "model": "DEFENDER 110 S",
+        "link": "https://www.copart.com/lot/81568094/2024-land-rover-defender-110-s-mi-detroit",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "81568094",
+            "vin": "SALEJEEU5R2******",
+            "primaryDamage": "BURN - ENGINE",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/ee0b674aea744560910fc07884f87f91_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/ee0b674aea744560910fc07884f87f91_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/590b4af351f14ec99aee64e966a08b31_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/2a8ff224168b46dd888bbbcdb7c2e0aa_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/aa4c3265531f430e89f02e4d5b2ceb13_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/1c2281d54a224981bcdf24e04ad2cc6c_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 LAND ROVER RANGE ROVER EVOQUE S",
+        "make": "LAND ROVER",
+        "year": "2023",
+        "model": "RANGE ROVER EVOQUE S",
+        "link": "https://www.copart.com/lot/81384124/salvage-2023-land-rover-range-rover-evoque-s-ca-sun-valley",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "81384124",
+            "vin": "SALZJ2FXXPH******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/f0b201f24c3e4429994514e57dee42cf_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/f0b201f24c3e4429994514e57dee42cf_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/9b677a8b7b8a403cb6f08dc5b1c56f74_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/6fb02746720b42a0b2a5817f2b4e54e8_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/2516109d7d4c4ca784a79c52590a8850_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/3e42fcf66d3244c6886b12d8f8f77c82_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 LAND ROVER DISCOVERY SPORT SE",
+        "make": "LAND ROVER",
+        "year": "2022",
+        "model": "DISCOVERY SPORT SE",
+        "link": "https://www.copart.com/lot/81255004/2022-land-rover-discovery-sport-se-nc-gastonia",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "81255004",
+            "vin": "SALCP2FX7NH******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/3674058d8869482a84c8bcc315d9c21c_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/3674058d8869482a84c8bcc315d9c21c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/b825212da0a34803988f911f1ae6c2ce_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/b84cf6f7261b402d98d20c7835cc8ab9_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/ff7a840a2eb841f0a959d777601d5680_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/acad989aad114878b535720846c62dc0_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LAND ROVER RANGE ROVER SPORT P525 HSE",
+        "make": "LAND ROVER",
+        "year": "2020",
+        "model": "RANGE ROVER SPORT P525 HSE",
+        "link": "https://www.copart.com/lot/81042104/salvage-2020-land-rover-range-rover-sport-p525-hse-nc-gastonia",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "81042104",
+            "vin": "SALWR2SE9LA******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "SILVER",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "5.0L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/2795bb420b3c4afe98b9dc9fcac7f1ed_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/2795bb420b3c4afe98b9dc9fcac7f1ed_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/aea06cb9918a427ebbb53e21e5e50996_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/5d8a12f7540647a281c29b20ff50ca86_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/b2e7641fb7f14a5ab0c2ab009b3640d5_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/0c3ca4fd2e404d6294ce19a3c979d8ae_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LAND ROVER RANGE ROVER P525 HSE",
+        "make": "LAND ROVER",
+        "year": "2020",
+        "model": "RANGE ROVER P525 HSE",
+        "link": "https://www.copart.com/lot/80984324/2020-land-rover-range-rover-p525-hse-ca-long-beach",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "80984324",
+            "vin": "SALGS5SE5LA******",
+            "primaryDamage": "VANDALISM",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "5.0L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/48a2e55816cf4282aa774f3534b98aba_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/48a2e55816cf4282aa774f3534b98aba_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/e96d81719add4b0c9e7420940d90b959_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/adc2b3d338b34b7cafefab557c897067_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/5a1afcbc5d57464b830852063e40b5e8_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/e72a82d79d10432f995af2d15339c56b_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 LAND ROVER RANGE ROVER SPORT HSE DYNAMIC",
+        "make": "LAND ROVER",
+        "year": "2021",
+        "model": "RANGE ROVER SPORT HSE DYNAMIC",
+        "link": "https://www.copart.com/lot/80856934/2021-land-rover-range-rover-sport-hse-dynamic-ca-sun-valley",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "80856934",
+            "vin": "SALWR2SE7MA******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "5.0L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/26be3cf7a5204eedba0eaf5f139f66de_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/26be3cf7a5204eedba0eaf5f139f66de_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/d2254a5884984f45b49ebce53e090171_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/7510f1c6fa0d4de2a12ce897000ffe0c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/21b0e90e33814969b01e4d2ce15d115d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/6a3a7f13aaf947ceb6d7031d71f1e744_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LAND ROVER DISCOVERY SE",
+        "make": "LAND ROVER",
+        "year": "2020",
+        "model": "DISCOVERY SE",
+        "link": "https://www.copart.com/lot/80617784/salvage-2020-land-rover-discovery-se-ma-north-boston",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 125
+        },
+        "details": {
+            "lotNumber": "80617784",
+            "vin": "SALRG2RV6L2******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/dd598b28ad804d8abbac1be35cd87f2d_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/dd598b28ad804d8abbac1be35cd87f2d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/9f5f677b98ab449780a33eaf4c755b3a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/6eef60d18f544355acf2a6b0560a75ef_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/9c038e45a19540fc888b214f90ed08e4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/fc5d26c03fab46ea8a94c5d348e9872b_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 LAND ROVER RANGE ROVER VELAR S",
+        "make": "LAND ROVER",
+        "year": "2024",
+        "model": "RANGE ROVER VELAR S",
+        "link": "https://www.copart.com/lot/79962544/2024-land-rover-range-rover-velar-s-ca-sun-valley",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "79962544",
+            "vin": "SALYJ2EX7RA******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/a045ffb515c94dbd8e7deb30ee1d573e_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/a045ffb515c94dbd8e7deb30ee1d573e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/c399938e18374408af7db4c9df256a42_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/f10573d8211942759cec6273f4400d17_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/67ae36818baa4f97a0f90f80afa4d484_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/a783433a769a4248905afce49a60674c_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 LAND ROVER RANGE ROVER VELAR R-DYNAMIC S",
+        "make": "LAND ROVER",
+        "year": "2021",
+        "model": "RANGE ROVER VELAR R-DYNAMIC S",
+        "link": "https://www.copart.com/lot/79947324/2021-land-rover-range-rover-velar-r-dynamic-s-fl-miami-north",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 15
+        },
+        "details": {
+            "lotNumber": "79947324",
+            "vin": "SALYT2EX8MA******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/d3be3721437044929468f4e84e575555_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/d3be3721437044929468f4e84e575555_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/4832795d76b14c0886b05adb127d86c9_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/18999be88f63490abc21f97fd8bc9a8e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/d821c7cdbf6d4e9387bf61b394483902_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/8ec6a3ff3407451598078f3b84583e74_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LAND ROVER RANGE ROVER SPORT SVR",
+        "make": "LAND ROVER",
+        "year": "2020",
+        "model": "RANGE ROVER SPORT SVR",
+        "link": "https://www.copart.com/lot/79922404/2020-land-rover-range-rover-sport-svr-nj-somerville",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "79922404",
+            "vin": "SALWZ2RE2MA******",
+            "primaryDamage": "MISSING/ALTERED VIN",
+            "transmission": "AUTOMATIC",
+            "color": "GREEN",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "5.0L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/10bdc458f4d048448df0e26d8eaffc65_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/10bdc458f4d048448df0e26d8eaffc65_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/902d01f6835349fdbcebedc118e9ae43_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/e8e9c9acae1643dcad7a111c6db1b9d6_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/848fed1d4ccb45d8a6c42beab80badb0_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/b3a6cf3735214b4daa0651b0c83b4ac0_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 LAND ROVER RANGE ROVER EVOQUE DYNAMIC SE",
+        "make": "LAND ROVER",
+        "year": "2024",
+        "model": "RANGE ROVER EVOQUE DYNAMIC SE",
+        "link": "https://www.copart.com/lot/79873864/salvage-2024-land-rover-range-rover-evoque-dynamic-se-ma-south-boston",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "79873864",
+            "vin": "SALZL2FX7RH******",
+            "primaryDamage": "ROLLOVER",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/2cd0818e75234280b2a85d0ea314ec7f_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/2cd0818e75234280b2a85d0ea314ec7f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/5d160b3a814c4f9da7b03490bfa40273_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/3c669df530124e5ba4c88e0a2b5fd215_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/50aa01a98bbd428ba9b71504137b45a7_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/b226cc15b42e44b2a093ed83f2db06e9_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 LAND ROVER RANGE ROVER EVOQUE R-DYNAMIC S",
+        "make": "LAND ROVER",
+        "year": "2023",
+        "model": "RANGE ROVER EVOQUE R-DYNAMIC S",
+        "link": "https://www.copart.com/lot/79843684/salvage-2023-land-rover-range-rover-evoque-r-dynamic-s-co-denver-central",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "79843684",
+            "vin": "SALZT2FX6PH******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "RED",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/2dae64f154474f73bd4b03732f77cc48_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/2dae64f154474f73bd4b03732f77cc48_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/c7579c9056464c22b54fbdf69ee1f1d3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/624bbbb8a5f2411097584c4691460103_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/907a5b1fcab44ea28d7f95cae4fb7831_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/7e18ca90feb24b379d3d1c774e6ebeb0_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 LAND ROVER RANGE ROVER SPORT HST",
+        "make": "LAND ROVER",
+        "year": "2021",
+        "model": "RANGE ROVER SPORT HST",
+        "link": "https://www.copart.com/lot/79734914/2021-land-rover-range-rover-sport-hst-nj-trenton",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "79734914",
+            "vin": "SALWS2RU6MA******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "RED",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/7814fb469801417daaec0d4bd365a63a_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/7814fb469801417daaec0d4bd365a63a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/28a45e3dbcf14c12b7182dee81e27b6d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/4b600d31f31749d7a26850aeb7dbd423_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/d7153edb3f074312b71ae36699142412_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/fb04371b786e4289a5763738c2fec2d1_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 LAND ROVER RANGE ROVER VELAR S",
+        "make": "LAND ROVER",
+        "year": "2021",
+        "model": "RANGE ROVER VELAR S",
+        "link": "https://www.copart.com/lot/79668194/clean-title-2021-land-rover-range-rover-velar-s-tn-nashville",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 200
+        },
+        "details": {
+            "lotNumber": "79668194",
+            "vin": "SALYJ2EXXMA******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/b9fcd2ed9510405ab766e55688c9ce69_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/b9fcd2ed9510405ab766e55688c9ce69_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/34cf0529ac504be8a2d30bfc5b401560_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/35cd824f31a648a6adf360acb28c0ae1_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/0b8eb67e47104f759fd29268eb76c845_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/473448bee2b24e5da186c24dd0dfa4a0_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 LAND ROVER RANGE ROVER SPORT P525 AUTOBIOGRAPHY",
+        "make": "LAND ROVER",
+        "year": "2022",
+        "model": "RANGE ROVER SPORT P525 AUTOBIOGRAPHY",
+        "link": "https://www.copart.com/lot/79214194/salvage-2022-land-rover-range-rover-sport-p525-autobiography-nj-somerville",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "79214194",
+            "vin": "SALWV2SE6NA******",
+            "primaryDamage": "REAR END",
+            "transmission": "N/A",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "5.0L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/af3c7f0c31cb4a32b9a385514c1c006b_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/af3c7f0c31cb4a32b9a385514c1c006b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/9c33c57612284920bf16eeb701a71df7_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/f21b7510b1a74b7fbdb37507f4e09e64_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/5344384ffd524b1d827bbf9ff7878570_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/acfb901e69b54c048b6cd9ca271b2235_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LAND ROVER RANGE ROVER HSE",
+        "make": "LAND ROVER",
+        "year": "2020",
+        "model": "RANGE ROVER HSE",
+        "link": "https://www.copart.com/lot/78825354/salvage-2020-land-rover-range-rover-hse-nv-las-vegas",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 550
+        },
+        "details": {
+            "lotNumber": "78825354",
+            "vin": "SALGS2RU0LA******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/d139ab99dabe40f9b77ae8a7809e4a56_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/d139ab99dabe40f9b77ae8a7809e4a56_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/01cf2ded5b664e978349a6d30ebbe031_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/b3113509bcc743b6bfce0f07e265c0f9_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/88d504aeaba24d64b7e6d05abb039c20_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/63bc9478bb7645f2b16258bf1bd7db70_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LAND ROVER RANGE ROVER EVOQUE SE",
+        "make": "LAND ROVER",
+        "year": "2020",
+        "model": "RANGE ROVER EVOQUE SE",
+        "link": "https://www.copart.com/lot/78719904/2020-land-rover-range-rover-evoque-se-qc-montreal",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "78719904",
+            "vin": "SALZP2FX7LH******",
+            "primaryDamage": "STRIPPED",
+            "transmission": "Yes",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/15ecd4a9a0a8427191c34f8b7686e469_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/15ecd4a9a0a8427191c34f8b7686e469_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/0be6749c4ab1485c8a89b58b4dfdbaec_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/d99ef9ec97074de4abe93847f34e9298_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/0dae707c78864589840153d3e4421d0c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/d7ad6d610aac41e4ae2e361c7073f22b_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 LAND ROVER RANGE ROVER VELAR DYNAMIC SE",
+        "make": "LAND ROVER",
+        "year": "2024",
+        "model": "RANGE ROVER VELAR DYNAMIC SE",
+        "link": "https://www.copart.com/lot/78586634/2024-land-rover-range-rover-velar-dynamic-se-qc-montreal",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "78586634",
+            "vin": "SALYL2EX5RA******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/6c71e1d5234f49ba98b86415de27fb8a_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/6c71e1d5234f49ba98b86415de27fb8a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/c48eca7949a04c2b967dc08234c87ec8_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/a7b431ee297b4ea8bdfeba476e915b3f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/37005c7c85014178acc4e79479e3c7f3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/e735f09e1d5c4d4885232d945274378f_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 LAND ROVER RANGE ROVER SPORT SE",
+        "make": "LAND ROVER",
+        "year": "2024",
+        "model": "RANGE ROVER SPORT SE",
+        "link": "https://www.copart.com/lot/77978354/clean-title-2024-land-rover-range-rover-sport-se-tx-houston-east",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 275
+        },
+        "details": {
+            "lotNumber": "77978354",
+            "vin": "SAL1P9EU1RA******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/ff8ab8957b9e4015afef4613e741531e_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/ff8ab8957b9e4015afef4613e741531e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/8a864eb2fa5445edb2063d43994df15b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/f5d94db6b69641e8a000d2789984fecf_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/1042f6a8555947de82b0133535abfa37_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/dcc9368fbb4b4670879f7b338b5f20d7_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LAND ROVER RANGE ROVER EVOQUE S",
+        "make": "LAND ROVER",
+        "year": "2020",
+        "model": "RANGE ROVER EVOQUE S",
+        "link": "https://www.copart.com/lot/77396994/clean-title-2020-land-rover-range-rover-evoque-s-tn-nashville",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 175
+        },
+        "details": {
+            "lotNumber": "77396994",
+            "vin": "SALZJ2FX8LH******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/0c191034d0384824bdb4a4cb67de462d_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/0c191034d0384824bdb4a4cb67de462d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/5c2519974678480eb730d8dbe3977ade_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/6a00f965ab0441c293139aa442cdc41d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/7675bea9e9ce4d9e8e6bdf3d94e2b08a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/cb27f988306040a69e8cdc86c2ce1a7b_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LAND ROVER RANGE ROVER SPORT HSE",
+        "make": "LAND ROVER",
+        "year": "2020",
+        "model": "RANGE ROVER SPORT HSE",
+        "link": "https://www.copart.com/lot/77335364/2020-land-rover-range-rover-sport-hse-fl-orlando-north",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "77335364",
+            "vin": "SALWR2RY8LA******",
+            "primaryDamage": "TOP/ROOF",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "HYBRID ENGINE",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/06c606836e914692aa92ec2b1f4e72fd_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/06c606836e914692aa92ec2b1f4e72fd_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/92dfbb1f8837425eb0f38a9e61cd260b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/d8632ff449aa4f23a3183053ba3ab2ad_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/901eb1e560e842f6b42dcb66d55fa2ed_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/6b4e8584de4e4215bd191498cd9d27fe_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LAND ROVER DISCOVERY LANDMARK",
+        "make": "LAND ROVER",
+        "year": "2020",
+        "model": "DISCOVERY LANDMARK",
+        "link": "https://www.copart.com/lot/77071254/clean-title-2020-land-rover-discovery-landmark-ga-atlanta-east",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "77071254",
+            "vin": "SALRU2RV1L2******",
+            "primaryDamage": "MINOR DENT/SCRATCHES",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/5ba70136424046c791a3e7beee8ade52_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/5ba70136424046c791a3e7beee8ade52_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/c152859179124a6ea65c1304989be367_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/4828f2609ac74e4ca5d6d408aee03763_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/16ba1c6413a345d1918dc3c6c2874c45_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/faea549f2a4943319f28eb75422e8ef4_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 LAND ROVER RANGE ROVER HSE WESTMINSTER EDITION",
+        "make": "LAND ROVER",
+        "year": "2022",
+        "model": "RANGE ROVER HSE WESTMINSTER EDITION",
+        "link": "https://www.copart.com/lot/76800083/clean-title-2022-land-rover-range-rover-hse-westminster-edition-fl-west-palm-beach",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 15700
+        },
+        "details": {
+            "lotNumber": "76800083",
+            "vin": "SALGS2RU5NA******",
+            "primaryDamage": "REPLACED VIN",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/304c173f210a4b7aa73dec6d36260fab_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/304c173f210a4b7aa73dec6d36260fab_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/453e4941b63d4aa581ad4f6c920d21a1_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/31c7ad092cb745e7af422befa08335dc_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/0b937f25fac54e18afea6ef23690ea4c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/208707094a554e96a80be83ecc149750_thb.jpg"
+        ]
+    },
+    {
+        "title": "2025 LAND ROVER RANGE ROVER VELAR S",
+        "make": "LAND ROVER",
+        "year": "2025",
+        "model": "RANGE ROVER VELAR S",
+        "link": "https://www.copart.com/lot/76738464/salvage-2025-land-rover-range-rover-velar-s-ga-atlanta-east",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "76738464",
+            "vin": "SALYJ2EX7SA******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/3cd0ded84d6b45e2b04c5c70fbdd4d3b_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/3cd0ded84d6b45e2b04c5c70fbdd4d3b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/eea39497eac643ddbb9fbc8ed4aabea2_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/b645c7c73d5a40e6bf486d9a95bcde2b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/963455ffe2f24156b73c74960b7d364b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/2cb84db3ff914bd0bc2b2eeaa869cc9a_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LAND ROVER RANGE ROVER EVOQUE SE",
+        "make": "LAND ROVER",
+        "year": "2020",
+        "model": "RANGE ROVER EVOQUE SE",
+        "link": "https://www.copart.com/lot/76553284/2020-land-rover-range-rover-evoque-se-fl-tampa-south",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "76553284",
+            "vin": "SALZP2FX6LH******",
+            "primaryDamage": "WATER/FLOOD",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/7a303ce0fb10435fab267a02eede288e_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/7a303ce0fb10435fab267a02eede288e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/4e44fffc2ef248bd9854ef1d1f77231a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/bd1cee363c98445aac2d6cfcc8ad9ce4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/e72c752df67249deac5329c7890c617b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/effbf28739604d729aabf58bb6c2b01e_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 LAND ROVER RANGE ROVER SE",
+        "make": "LAND ROVER",
+        "year": "2023",
+        "model": "RANGE ROVER SE",
+        "link": "https://www.copart.com/lot/76488664/2023-land-rover-range-rover-se-ny-newburgh",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "76488664",
+            "vin": "SALKP9FU6PA******",
+            "primaryDamage": "DAMAGE HISTORY",
+            "transmission": "AUTOMATIC",
+            "color": "BEIGE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/b6bb2bd8b1cc4c8c80154225cfdc5851_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/b6bb2bd8b1cc4c8c80154225cfdc5851_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/90941ad0d0c145809bf37cdeea1a2fed_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/d865d248acfb4e44b2425db7ff91d05a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/ce824a8cf8714c9389fa50b0fdf497d1_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/125fa2880d184f788c3c250fa6bd9573_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LAND ROVER RANGE ROVER SPORT P525 HSE",
+        "make": "LAND ROVER",
+        "year": "2020",
+        "model": "RANGE ROVER SPORT P525 HSE",
+        "link": "https://www.copart.com/lot/76059614/salvage-2020-land-rover-range-rover-sport-p525-hse-nj-trenton",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 9600
+        },
+        "details": {
+            "lotNumber": "76059614",
+            "vin": "SALWR2SE1LA******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "5.0L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/5d8c78a54b3442098bd60ebaf121df61_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/5d8c78a54b3442098bd60ebaf121df61_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/4b0c87f25d6a41929aa3ae941565c3d8_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/b03d604a9a1b4b6192d24b1c4f08d09a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/f51f9f88ae484fa98fcd906d9c366584_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/b45546f07ac84d7386b8505664868b99_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LAND ROVER DISCOVERY HSE",
+        "make": "LAND ROVER",
+        "year": "2020",
+        "model": "DISCOVERY HSE",
+        "link": "https://www.copart.com/lot/75987104/salvage-2020-land-rover-discovery-hse-pa-philadelphia",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "75987104",
+            "vin": "SALRR2RV5L2******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/31c3410ca12c4f4eb7ec093e4e87cc73_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/31c3410ca12c4f4eb7ec093e4e87cc73_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/94e1d04bfb7c46e4acbf229f38992635_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/b0b5b391c7114fd0b26884a50adc5289_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/90ac1445a11a41cf8e9b0fa7169bc6b5_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/12973b19bee2460981b7b22bcb902634_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 LAND ROVER RANGE ROVER HSE WESTMINSTER EDITION",
+        "make": "LAND ROVER",
+        "year": "2021",
+        "model": "RANGE ROVER HSE WESTMINSTER EDITION",
+        "link": "https://www.copart.com/lot/75949384/2021-land-rover-range-rover-hse-westminster-edition-fl-miami-north",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "75949384",
+            "vin": "SALGS2RU7MA******",
+            "primaryDamage": "WATER/FLOOD",
+            "transmission": "AUTOMATIC",
+            "color": "BLUE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/549c30eadcbe44e0b386c211e0cac88a_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/549c30eadcbe44e0b386c211e0cac88a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/b3cc2e8462714fe0bb6b68010210b2e4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/6865161082334c4582dd98ded8301cba_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/b2f73207147a479aa2b8985f701eb403_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/b6ca53543b8649c982e21749d6abd391_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 LAND ROVER DISCOVERY SPORT S",
+        "make": "LAND ROVER",
+        "year": "2024",
+        "model": "DISCOVERY SPORT S",
+        "link": "https://www.copart.com/lot/75739624/salvage-2024-land-rover-discovery-sport-s-mo-st-louis",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "75739624",
+            "vin": "SALCJ2FX1RH******",
+            "primaryDamage": "FRONT END",
+            "transmission": "N/A",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/7de8ad89eb5343369910f610c0141b17_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/7de8ad89eb5343369910f610c0141b17_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/24c006a72ab84bdf8661b3536ccd8c0c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/614e39052bd9435ba7e4fd5b7f7d4eed_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/a95271840ca54ccfb8eeec58a2335ff5_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/67bf44c82c454446b4addd72e228f356_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 LAND ROVER RANGE ROVER SPORT DYNAMIC SE",
+        "make": "LAND ROVER",
+        "year": "2024",
+        "model": "RANGE ROVER SPORT DYNAMIC SE",
+        "link": "https://www.copart.com/lot/75676784/2024-land-rover-range-rover-sport-dynamic-se-ny-newburgh",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "75676784",
+            "vin": "SAL1L9FU9RA******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "GREEN",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/9ad4894b6e164279a86045766744189b_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/9ad4894b6e164279a86045766744189b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/9574350dce824bf0a07cbab9f9d80d05_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/389e4f83f2a745348361ee0afa65fc99_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/ee3d79bce0924930a98f679674588fed_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/505e4ccd47c54960a564da3dc65ddc88_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 LAND ROVER DEFENDER 110 S",
+        "make": "LAND ROVER",
+        "year": "2024",
+        "model": "DEFENDER 110 S",
+        "link": "https://www.copart.com/lot/75647954/salvage-2024-land-rover-defender-110-s-mi-detroit",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 350
+        },
+        "details": {
+            "lotNumber": "75647954",
+            "vin": "SALEJ7EX4R2******",
+            "primaryDamage": "BURN - ENGINE",
+            "transmission": "AUTOMATIC",
+            "color": "CHARCOAL",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/ddbd786103bf4ebd9182b3bc39b91637_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/ddbd786103bf4ebd9182b3bc39b91637_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/e04e9c9aa9cc4ae4b48d206fa97c2d91_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/ea761921ed104d6eb65e059ecd921f8e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/6fce6c5f6b2d40e4b9f697f881c95549_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/da014e48a1744cc695adce5436053a18_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 LAND ROVER DEFENDER 130 OUTBOUND",
+        "make": "LAND ROVER",
+        "year": "2024",
+        "model": "DEFENDER 130 OUTBOUND",
+        "link": "https://www.copart.com/lot/75290774/2024-land-rover-defender-130-outbound-ga-atlanta-east",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "75290774",
+            "vin": "SALEWFEU8R2******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/bc8ba8a651754cb4ae378710c990f0ec_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/bc8ba8a651754cb4ae378710c990f0ec_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/74b0a30d9dc94dacb7858b02d426619e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/5d851c8b1025401c88c569f52a6ec241_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/848b590e52fa4d08894285a186ca4da9_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/eddc6e0fe9764434b202e4eb5eaeac23_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LAND ROVER DISCOVERY SPORT S R-DYNAMIC",
+        "make": "LAND ROVER",
+        "year": "2020",
+        "model": "DISCOVERY SPORT S R-DYNAMIC",
+        "link": "https://www.copart.com/lot/75255504/2020-land-rover-discovery-sport-s-r-dynamic-fl-tampa-south",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "75255504",
+            "vin": "SALCT2FX1LH******",
+            "primaryDamage": "WATER/FLOOD",
+            "transmission": "AUTOMATIC",
+            "color": "RED",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/7c0c4985e7f04bc78824120aa3f0d916_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/7c0c4985e7f04bc78824120aa3f0d916_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/4096a77368ad4a67a6462a329f59b5fa_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/48d241a24d2f4a1cb2871bf4914d6f24_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/c5102ca5c64e457d92c2ddae0619ce02_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/5a5cdc0c0811421298611936555934a3_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 LAND ROVER DISCOVERY S R-DYNAMIC",
+        "make": "LAND ROVER",
+        "year": "2022",
+        "model": "DISCOVERY S R-DYNAMIC",
+        "link": "https://www.copart.com/lot/75225604/2022-land-rover-discovery-s-r-dynamic-ab-calgary",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "75225604",
+            "vin": "SALRT4EU8N2******",
+            "primaryDamage": "MECHANICAL",
+            "transmission": "AUTOMATIC",
+            "color": "SILVER",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/909dd0b888c040c3bdd8a9b05dcf1b92_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/909dd0b888c040c3bdd8a9b05dcf1b92_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/e9355ba0893148a286ce3870df0cdc60_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/054c573244fb49f1bc87cb8d45d9ddfb_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/dc2fcfd8cf8f45b78fea28b47d3e4316_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/3aa60cc4e56e4e82933cd74f5b9b992f_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 LAND ROVER RANGE ROVER SE",
+        "make": "LAND ROVER",
+        "year": "2024",
+        "model": "RANGE ROVER SE",
+        "link": "https://www.copart.com/lot/75115184/2024-land-rover-range-rover-se-ct-hartford",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "75115184",
+            "vin": "SALKPBFU6RA******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "GREEN",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/41ac15bd8caa47c39ff97562988ff946_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/41ac15bd8caa47c39ff97562988ff946_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/0d0c084a097c4341b7b79aa44178842b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/b8d6c776109c454594118095fa4edaeb_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/76bb36a98d5248978dd65b0204c5593b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/76898db856314859ac74affebdd1ab91_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 LAND ROVER RANGE ROVER SPORT P525 AUTOBIOGRAPHY",
+        "make": "LAND ROVER",
+        "year": "2022",
+        "model": "RANGE ROVER SPORT P525 AUTOBIOGRAPHY",
+        "link": "https://www.copart.com/lot/74959764/2022-land-rover-range-rover-sport-p525-autobiography-fl-punta-gorda-south",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "74959764",
+            "vin": "SALWV2SEXNA******",
+            "primaryDamage": "WATER/FLOOD",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "5.0L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/2919449de9af40dcbd280cf865b0fc13_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/2919449de9af40dcbd280cf865b0fc13_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/cf1d18bf070d4e2898d0ef64db6eb8d8_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/96dc54ae9f2545f5b18b3c2560c302ff_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/38b984beef6044d48114c31945df04c7_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/44cffb950a424d6e9813c9b45538081d_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 LAND ROVER DISCOVERY SPORT SE R-DYNAMIC",
+        "make": "LAND ROVER",
+        "year": "2022",
+        "model": "DISCOVERY SPORT SE R-DYNAMIC",
+        "link": "https://www.copart.com/lot/74589964/2022-land-rover-discovery-sport-se-r-dynamic-md-baltimore-east",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "74589964",
+            "vin": "SALCL2FX8NH******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "BLUE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/9d256b1c86a24a0aa15df89767dcbe60_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/9d256b1c86a24a0aa15df89767dcbe60_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/ef562c02ce134616aa8fb3cd0c814a0d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/70b46feac3784df59edf6f1bf803c0e9_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/5c2af9c826b4481b810abaec47c577d0_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/478a72a951ba4c3386b4d4a3a5f11be9_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 LAND ROVER RANGE ROVER WESTMINSTER EDITION",
+        "make": "LAND ROVER",
+        "year": "2021",
+        "model": "RANGE ROVER WESTMINSTER EDITION",
+        "link": "https://www.copart.com/lot/74273934/2021-land-rover-range-rover-westminster-edition-nv-las-vegas-west",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "74273934",
+            "vin": "SALGS2SE9MA******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "5.0L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/68c4bef5556c4bba85199d7c74a341c6_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/68c4bef5556c4bba85199d7c74a341c6_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/f5cb3518f7c646f6a5b8ea70323c1f0e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/c1dc8cd9f681499396db9539521d8bcf_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/20d8c067ef3a40249357ca6a51191e0c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/26e6480ea35a4bdc960127fe5d97123a_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LAND ROVER DISCOVERY SE",
+        "make": "LAND ROVER",
+        "year": "2020",
+        "model": "DISCOVERY SE",
+        "link": "https://www.copart.com/lot/74244534/salvage-2020-land-rover-discovery-se-ga-cartersville",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "74244534",
+            "vin": "SALRG2RVXL2******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/6b08cfc95c194e448d9f4b107af93a8f_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/6b08cfc95c194e448d9f4b107af93a8f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/1b8b9b9b9c224d9f9336664921d4e44e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/f417b393684b4c8aa6f206ac5169ceaf_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/ba436f687b0f46a5b33ff6426206a661_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/2f0d0614fcac4f7cad5b08d085ccba80_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 LAND ROVER RANGE ROVER HSE WESTMINSTER EDITION",
+        "make": "LAND ROVER",
+        "year": "2021",
+        "model": "RANGE ROVER HSE WESTMINSTER EDITION",
+        "link": "https://www.copart.com/lot/74151834/2021-land-rover-range-rover-hse-westminster-edition-fl-ft-pierce",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "74151834",
+            "vin": "SALGS2RU3MA******",
+            "primaryDamage": "WATER/FLOOD",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/f0d68297bd574fb089a5edff8ab750e8_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/f0d68297bd574fb089a5edff8ab750e8_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/9fe64be31a7b430892ad601dbabce46b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/79aa47996706420bb9d49be05a1bde8b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/9bf6ef595f6a4443a807a572bbdd7c9f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/81a390d3c6574a2ba768b5d766b84164_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LAND ROVER RANGE ROVER VELAR S",
+        "make": "LAND ROVER",
+        "year": "2020",
+        "model": "RANGE ROVER VELAR S",
+        "link": "https://www.copart.com/lot/74135664/2020-land-rover-range-rover-velar-s-fl-ft-pierce",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "74135664",
+            "vin": "SALYB2EX6LA******",
+            "primaryDamage": "WATER/FLOOD",
+            "transmission": "AUTOMATIC",
+            "color": "TAN",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/be4b6cbd17ec4e96bc31304325c1510a_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/be4b6cbd17ec4e96bc31304325c1510a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/7f282f2ed9d045bdab2b75d04181249a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/a6101bda4d6047538adb3234d04246e7_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/d89234e0146b4cd78f50d9deea1e7c3e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/bdb0cbaf13814d028f692f0425097e7b_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 LAND ROVER DISCOVERY SPORT S R-DYNAMIC",
+        "make": "LAND ROVER",
+        "year": "2021",
+        "model": "DISCOVERY SPORT S R-DYNAMIC",
+        "link": "https://www.copart.com/lot/74103124/2021-land-rover-discovery-sport-s-r-dynamic-fl-ft-pierce",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "74103124",
+            "vin": "SALCT2FX7MH******",
+            "primaryDamage": "WATER/FLOOD",
+            "transmission": "AUTOMATIC",
+            "color": "RED",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/a976088b85c842b982788ecc63e78de3_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/a976088b85c842b982788ecc63e78de3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/af4f6650943341f3b146147b534087df_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/728ace2804b548ee8b5f1b762a55a628_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/29b6b9eace9140a2b1956614147678a2_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/6f1a78c9173f42189e8ea8c2bf51148a_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LAND ROVER RANGE ROVER HSE",
+        "make": "LAND ROVER",
+        "year": "2020",
+        "model": "RANGE ROVER HSE",
+        "link": "https://www.copart.com/lot/73409474/2020-land-rover-range-rover-hse-oh-columbus",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "73409474",
+            "vin": "SALGS2RU5LA******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLUE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/f699de9ea36948c69a9732c89f677220_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/f699de9ea36948c69a9732c89f677220_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/fea4ad74f41d423f8d96005ecffa548f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/3e260f7a4f464b5b8f4a4fc8341d9e88_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/6fd110f15ad44a6b895bbf8ac2dbca24_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/b0916e73c6a347bb9f8c9e601d988321_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 LAND ROVER RANGE ROVER VELAR R-DYNAMIC S",
+        "make": "LAND ROVER",
+        "year": "2021",
+        "model": "RANGE ROVER VELAR R-DYNAMIC S",
+        "link": "https://www.copart.com/lot/73290274/2021-land-rover-range-rover-velar-r-dynamic-s-on-cookstown",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "73290274",
+            "vin": "SALYT2EU5MA******",
+            "primaryDamage": "VANDALISM",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/ec9422fd04bb4478b9374605b1802f0c_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/ec9422fd04bb4478b9374605b1802f0c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/4df6f282384f45c089b7f82239a62bab_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/af79a83f2cde43ac97c66b2107fd1077_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/2c8947262fc54a649e1533ad5ca27d53_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/3b146847c7ed4ee29ff6e028e113df58_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LAND ROVER RANGE ROVER VELAR R-DYNAMIC S",
+        "make": "LAND ROVER",
+        "year": "2020",
+        "model": "RANGE ROVER VELAR R-DYNAMIC S",
+        "link": "https://www.copart.com/lot/73174804/2020-land-rover-range-rover-velar-r-dynamic-s-pa-philadelphia-east-sublot",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "73174804",
+            "vin": "SALYK2EX6LA******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/057dde99743249ad8860af7b389b4d17_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/057dde99743249ad8860af7b389b4d17_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/74fb8271b3894e6691241a6139aeaddd_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/5c38e08f4ddc4e7e95fb041eaf6db02b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/6954dce93a2f4c4eb8afb9be4043711a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/735bb68fdc3e491c96cc265617481499_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 LAND ROVER DISCOVERY SPORT SE",
+        "make": "LAND ROVER",
+        "year": "2021",
+        "model": "DISCOVERY SPORT SE",
+        "link": "https://www.copart.com/lot/73026164/2021-land-rover-discovery-sport-se-ne-lincoln",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "73026164",
+            "vin": "SALCP2FX3MH******",
+            "primaryDamage": "VANDALISM",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/e2aa57a931dc4f64bca41ad2068b9744_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/e2aa57a931dc4f64bca41ad2068b9744_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/7f5fab0dc315463a8f665f493274e0ed_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/4d760d05a13d45ba8e38e9c7491bf978_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/a7f02874cfcd4839be9fe4ee72a9b870_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/c790a20911eb443da6079fe8fddc090e_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 LAND ROVER RANGE ROVER WESTMINSTER EDITION",
+        "make": "LAND ROVER",
+        "year": "2023",
+        "model": "RANGE ROVER WESTMINSTER EDITION",
+        "link": "https://www.copart.com/lot/72985074/2023-land-rover-range-rover-westminster-edition-va-hampton",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "72985074",
+            "vin": "SALGS2SE4MA******",
+            "primaryDamage": "MISSING/ALTERED VIN",
+            "transmission": "AUTOMATIC",
+            "color": "BLUE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "5.0L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/0dc94e3531464d259ead7833cac76e8f_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/0dc94e3531464d259ead7833cac76e8f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/f6598442edb649e7bce56673e8efa203_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/d361b03ce07440c897ad80c751eea230_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/5ba4ae3725424d10b00b3d156af1b068_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/11cbcaa12a7e4592856876aa71016a8d_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LAND ROVER RANGE ROVER EVOQUE S",
+        "make": "LAND ROVER",
+        "year": "2020",
+        "model": "RANGE ROVER EVOQUE S",
+        "link": "https://www.copart.com/lot/72860564/salvage-2020-land-rover-range-rover-evoque-s-nc-mebane",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 175
+        },
+        "details": {
+            "lotNumber": "72860564",
+            "vin": "SALZJ2FX4LH******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/dd2cc40db57a486989ac6e6e71be6038_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/dd2cc40db57a486989ac6e6e71be6038_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/4c400a75ea114cc190b112f7815c54f0_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/637b90725cfc4f3f889a8850e73dee46_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/fec18eaf58d145269c0b322ae24953ec_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/f7b02f097ecc405fad45518f3ed202f0_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LAND ROVER DEFENDER 110 SE",
+        "make": "LAND ROVER",
+        "year": "2020",
+        "model": "DEFENDER 110 SE",
+        "link": "https://www.copart.com/lot/72425594/2020-land-rover-defender-110-se-tx-north-austin",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "72425594",
+            "vin": "SALEP7EU2L2******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/906b9e29712a40618047d13b14a2017a_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/906b9e29712a40618047d13b14a2017a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/aefc7c951b984adeafd8d842dac3bcaf_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/1a1db1ce0bac4fe8af67063fe7de1dbc_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/f228935291424dfc96b9ebc707ca141d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/4f65591cae154434a297e0d1d96b254d_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 LAND ROVER RANGE ROVER AUTOBIOGRAPHY",
+        "make": "LAND ROVER",
+        "year": "2024",
+        "model": "RANGE ROVER AUTOBIOGRAPHY",
+        "link": "https://www.copart.com/lot/71971284/2024-land-rover-range-rover-autobiography-nj-somerville",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "71971284",
+            "vin": "SALK1BE95RA******",
+            "primaryDamage": "MISSING/ALTERED VIN",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "4.4L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/8919478ea0e9404c94e34b6c356d58f1_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/8919478ea0e9404c94e34b6c356d58f1_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/df1961804a934b33bcbcbd60ad36636f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/d5f98b6e35f14afab2cdcadf9e101bb7_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/61f008a0b7c24adfadf027bb1092ad4b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/a2f60870be234586b677bd4cefc43cb6_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LAND ROVER RANGE ROVER HSE",
+        "make": "LAND ROVER",
+        "year": "2020",
+        "model": "RANGE ROVER HSE",
+        "link": "https://www.copart.com/lot/71074124/2020-land-rover-range-rover-hse-co-denver",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "71074124",
+            "vin": "SALGS2RU1LA******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BEIGE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/bcad9404e77f4676941027e7a678aa24_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/bcad9404e77f4676941027e7a678aa24_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/78da28b55db34771ad0bf6c27eeb4602_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/9d68b1625541401cb87ccc30db4448dd_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/b8d1138c76ca4518a3d1789363b6d088_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/a8ef746976e74c3a947360b5055775a9_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 LAND ROVER DISCOVERY SPORT S",
+        "make": "LAND ROVER",
+        "year": "2023",
+        "model": "DISCOVERY SPORT S",
+        "link": "https://www.copart.com/lot/71026594/clean-title-2023-land-rover-discovery-sport-s-pa-york-haven",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "71026594",
+            "vin": "SALCJ2FX7PH******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/1bf5d47b1b924c9a8eee29287f6c3fbd_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/1bf5d47b1b924c9a8eee29287f6c3fbd_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/7ee96f31a30d4f748fecb1603a8d7100_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/ba667da048244b4caad96accb2216b76_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/4704a5ea6bc84b4587248420792f786a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/4971d185460d4eada5bc6ceb70772946_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 LAND ROVER DEFENDER 110 X-DYNAMIC SE",
+        "make": "LAND ROVER",
+        "year": "2024",
+        "model": "DEFENDER 110 X-DYNAMIC SE",
+        "link": "https://www.copart.com/lot/70930774/2024-land-rover-defender-110-x-dynamic-se-wv-charleston",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "70930774",
+            "vin": "SALE27EUXR2******",
+            "primaryDamage": "ROLLOVER",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/686924431bc24324b1a67aa179bf0a9f_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/686924431bc24324b1a67aa179bf0a9f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/8982793839f64de78684180540274b84_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/436af966f2824f7dbc6f26af7b209cde_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/1c6232754a6e47f188155531b30e3759_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/ed587a86fef44adb86721bc1fed65f48_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LAND ROVER DEFENDER 110 HSE",
+        "make": "LAND ROVER",
+        "year": "2020",
+        "model": "DEFENDER 110 HSE",
+        "link": "https://www.copart.com/lot/68012144/2020-land-rover-defender-110-hse-fl-orlando-north",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "68012144",
+            "vin": "SALE9EEU8L2******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/cd8d23e4ed3c4379a0bf05c1c1eeca87_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/cd8d23e4ed3c4379a0bf05c1c1eeca87_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/e9997bbe8ca2426eb64bd8830b0ee242_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/4f5c38c1a5434c998d5bfe2b5c7f1abb_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/f2d11df478714e998c7885feee5baa40_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/ee2c7f72cf7a49b7a1c341a818be34ba_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LAND ROVER DISCOVERY SPORT SE R-DYNAMIC",
+        "make": "LAND ROVER",
+        "year": "2020",
+        "model": "DISCOVERY SPORT SE R-DYNAMIC",
+        "link": "https://www.copart.com/lot/66073924/2020-land-rover-discovery-sport-se-r-dynamic-on-london",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "66073924",
+            "vin": "SALCL2FX2LH******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/59f024a8553b4577be2babdb3d0940dc_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/59f024a8553b4577be2babdb3d0940dc_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/bad7004a6f484fceb3c5304681fcbc8b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/5a08214a7f5f4e08a6024eafa707d28e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/a675017c11ff48c6b375967bd47de532_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/bf9dc3ad615f4c74bf7f43e9c233e69f_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 LAND ROVER DISCOVERY S R-DYNAMIC",
+        "make": "LAND ROVER",
+        "year": "2021",
+        "model": "DISCOVERY S R-DYNAMIC",
+        "link": "https://www.copart.com/lot/65611784/2021-land-rover-discovery-s-r-dynamic-ga-atlanta-west",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "65611784",
+            "vin": "SALRT4RU5M2******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "ORANGE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/0a16d95b7c004e9a9a7029cd062aa92b_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/0a16d95b7c004e9a9a7029cd062aa92b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/51362fb562f94562b1f652b66a14f119_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/5e69e741d457439da4f8b7a8bc4e6a5e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/6163f33cc3ca4ee593be1e3363aaab58_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/faebe541fe0a4f76ba63b14bb62dae8e_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 LAND ROVER RANGE ROVER EVOQUE SE",
+        "make": "LAND ROVER",
+        "year": "2022",
+        "model": "RANGE ROVER EVOQUE SE",
+        "link": "https://www.copart.com/lot/62733184/salvage-2022-land-rover-range-rover-evoque-se-pa-philadelphia",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 225
+        },
+        "details": {
+            "lotNumber": "62733184",
+            "vin": "SALZP2FX0NH******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/cb0def14eb354cd4878fff9a5fec2fb2_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/cb0def14eb354cd4878fff9a5fec2fb2_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/5ae41d2dcf2c42ca8c95fb0346ff1dfc_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/712fd6c9a4f947f7ab3bfb0309e48244_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/4f0c58991eb944e49f44a219470d6435_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/5bc77e93a6634b1d9db16be7876bf3dd_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LAND ROVER RANGE ROVER EVOQUE S",
+        "make": "LAND ROVER",
+        "year": "2020",
+        "model": "RANGE ROVER EVOQUE S",
+        "link": "https://www.copart.com/lot/62650754/2020-land-rover-range-rover-evoque-s-pa-pittsburgh-south",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "62650754",
+            "vin": "SALZT2GX0LH******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/d88976032f4644a99a8390467e3b4def_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/d88976032f4644a99a8390467e3b4def_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/830ebe43a9df40a387e8d1e291014639_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/35c5e705a96f4a7e9537cfff42049847_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/555c03cae1424ef893037d2936ac663d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/26c8d91256c94ddb801c9195ccbbfa67_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LAND ROVER RANGE ROVER VELAR R-DYNAMIC S",
+        "make": "LAND ROVER",
+        "year": "2020",
+        "model": "RANGE ROVER VELAR R-DYNAMIC S",
+        "link": "https://www.copart.com/lot/62330094/2020-land-rover-range-rover-velar-r-dynamic-s-pa-philadelphia",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "62330094",
+            "vin": "SALYK2FV4LA******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/1e7af34508e249aaa402cc7673e7d564_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/1e7af34508e249aaa402cc7673e7d564_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/3ef2bd86d4014d5bb68d3581c465fa53_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/3aa6af3d812c495a974e834ff0a384ad_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/d879d567ccef43fe8cafd6b35f42c186_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/f5ed73f67a1c4f66b57565f0cba3990b_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LAND ROVER DISCOVERY SPORT S",
+        "make": "LAND ROVER",
+        "year": "2020",
+        "model": "DISCOVERY SPORT S",
+        "link": "https://www.copart.com/lot/62312014/salvage-2020-land-rover-discovery-sport-s-ct-hartford",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "62312014",
+            "vin": "SALCJ2FX7LH******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "BLUE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/facd340c7962469cab5223595c996265_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/facd340c7962469cab5223595c996265_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/ca9d3a9f37a54dd6b674ebec34d83a15_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/0afac67a36b34ea2b137a8824f196c7c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/91a42903265446cea2ee9b70cf7ee84a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/cc8cb1c942064728af5be90976add25a_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LAND ROVER RANGE ROVER EVOQUE S",
+        "make": "LAND ROVER",
+        "year": "2020",
+        "model": "RANGE ROVER EVOQUE S",
+        "link": "https://www.copart.com/lot/59575744/2020-land-rover-range-rover-evoque-s-tx-houston",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "59575744",
+            "vin": "SALZJ2FX0LH******",
+            "primaryDamage": "WATER/FLOOD",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/d4d60253078b4497abce7e33e0b1a09f_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/d4d60253078b4497abce7e33e0b1a09f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/d0ae00abe9124b66921efc65f9b80a08_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/b77a045ee94a44b3b7cde338ad9a8129_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/616b7bfbc8e54aa6800e92a00a4102dd_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/44f6249e5c664ca9a1d7d32dffdc6f0f_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LAND ROVER RANGE ROVER SPORT HSE DYNAMIC",
+        "make": "LAND ROVER",
+        "year": "2020",
+        "model": "RANGE ROVER SPORT HSE DYNAMIC",
+        "link": "https://www.copart.com/lot/58134643/2020-land-rover-range-rover-sport-hse-dynamic-on-london",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "58134643",
+            "vin": "SALWR2SE2MA******",
+            "primaryDamage": "VANDALISM",
+            "transmission": "AUTOMATIC",
+            "color": "MAROON",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "5.0L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0723/76e772060ec647c59b689b31a339500b_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0723/76e772060ec647c59b689b31a339500b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0723/ad11f7bdc62c4514bfbfcdbd619c0043_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0723/3ad05e70d86844b4a6a010a613825723_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0723/963ef7d1be0e4e17ad5d80caad72c616_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0723/a9fed00919ba4369aab386b4c4c4798b_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 LAND ROVER RANGE ROVE",
+        "make": "LAND ROVER",
+        "year": "2023",
+        "model": "RANGE ROVE",
+        "link": "https://www.copart.com/lot/56299664/salvage-2023-land-rover-range-rove-nj-trenton",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "56299664",
+            "vin": "N******",
+            "primaryDamage": "VANDALISM",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "N/A",
+            "fuel": "N/A",
+            "engineType": "Yes"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/e42478d5a32948089324876f4ebaace3_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/e42478d5a32948089324876f4ebaace3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/d42c54d4d6a4422e8c5104436aaf61a3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/b5ad2276c40e4d4298973c4b9aaa44ee_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/8558dc8c9faa48798881d55866208b76_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/eb23565802a9479cadffe4799e0900dd_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 LAND ROVER RANGE ROVER VELAR R-DYNAMIC S",
+        "make": "LAND ROVER",
+        "year": "2021",
+        "model": "RANGE ROVER VELAR R-DYNAMIC S",
+        "link": "https://www.copart.com/lot/54062323/2021-land-rover-range-rover-velar-r-dynamic-s-ca-van-nuys",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "54062323",
+            "vin": "SALYT2EX4MA******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "RED",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0623/daee6c488c88450092a73387a17d0179_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0623/daee6c488c88450092a73387a17d0179_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0623/f91ef52def904959a31e5e6a7aff1d56_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0623/91f4ab28010a405e81f62d59f007d1c5_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0623/34433f9922644914b905a0794f5e3225_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0623/c30fc82401f54056959d46c4412cef5e_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LAND ROVER DISCOVERY SPORT S",
+        "make": "LAND ROVER",
+        "year": "2020",
+        "model": "DISCOVERY SPORT S",
+        "link": "https://www.copart.com/lot/53226254/salvage-2020-land-rover-discovery-sport-s-ca-rancho-cucamonga",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "53226254",
+            "vin": "SALCJ2FX2LH******",
+            "primaryDamage": "UNDERCARRIAGE",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/b0631e2d96e6434293cf3f4aa434b73c_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/b0631e2d96e6434293cf3f4aa434b73c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/801d252c4716421c9085f20a47514f3a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/bd463fdadabf4b6ca90dd6998ae54e85_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/ed4657769d6b45a2b37397ca692bf9c6_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/f9b6a229666d4d12a6a48d356d59397a_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 LAND ROVER RANGE ROVER SPORT HSE SILVER EDITION",
+        "make": "LAND ROVER",
+        "year": "2022",
+        "model": "RANGE ROVER SPORT HSE SILVER EDITION",
+        "link": "https://www.copart.com/lot/51227094/clean-title-2022-land-rover-range-rover-sport-hse-silver-edition-qc-montreal",
+        "currentBid": {
+            "currency": "CAD",
+            "amount": 21000
+        },
+        "details": {
+            "lotNumber": "51227094",
+            "vin": "SALWR2SU4NA******",
+            "primaryDamage": "VANDALISM",
+            "transmission": "Yes",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/3db56676df854ce7a13a440b9764df31_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/3db56676df854ce7a13a440b9764df31_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/2b083ffda6f3477dac5f9c22e7a6e0a2_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/8a35c00e63a7463292c4bb9a8cc6a947_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/788e324e20c2455e80f03cdfbfa781c3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/c55018b6f56c4c2ebda4e1e5b80626ed_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 LAND ROVER RANGE ROVER VELAR R-DYNAMIC S",
+        "make": "LAND ROVER",
+        "year": "2023",
+        "model": "RANGE ROVER VELAR R-DYNAMIC S",
+        "link": "https://www.copart.com/lot/49471155/2023-land-rover-range-rover-velar-r-dynamic-s-fl-orlando-north",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "49471155",
+            "vin": "SALYT2EU5PA******",
+            "primaryDamage": "PARTIAL REPAIR",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/dce70318a9a943bdbf975cccd4874198_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/dce70318a9a943bdbf975cccd4874198_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/3c90dbf841d84c159ba795c168a0c9f3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/723b7db22217422bab40020d3b0b34fc_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/c83d28771cee4240b00fa05eedb427b9_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/b555cfaac5794b70b2751e3bbe79928b_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LAND ROVER RANGE ROVER P525 HSE",
+        "make": "LAND ROVER",
+        "year": "2020",
+        "model": "RANGE ROVER P525 HSE",
+        "link": "https://www.copart.com/lot/49468595/clean-title-2020-land-rover-range-rover-p525-hse-ma-north-boston",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 4750
+        },
+        "details": {
+            "lotNumber": "49468595",
+            "vin": "SALGS5SE1LA******",
+            "primaryDamage": "NORMAL WEAR",
+            "transmission": "AUTOMATIC",
+            "color": "CHARCOAL",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "5.0L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/875e49146751408bbb605d735b434282_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/875e49146751408bbb605d735b434282_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/2e83a04823254e1582df603d00251978_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/45bf7d98d5a94e78af8a995cb398e315_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/6ca07b91df564001bd41bfd74f2ef477_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/3dea6ad44f9b4a62b4562b697d1ae8b2_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 LAND ROVER RANGE ROVER HSE",
+        "make": "LAND ROVER",
+        "year": "2021",
+        "model": "RANGE ROVER HSE",
+        "link": "https://www.copart.com/lot/49430385/2021-land-rover-range-rover-hse-on-london",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "49430385",
+            "vin": "SALGS2RK8MA******",
+            "primaryDamage": "VANDALISM",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "DIESEL",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/9e87a5510fac4ed894898f65898a8415_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/9e87a5510fac4ed894898f65898a8415_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/47c71607c59c47b7b0ba1459de58bc3f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/ed62730e1e974a2fab72efb589be4594_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/92418d890ea44423a333c2095e7567ee_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/f1aa7b7d6561422782ba2ecf0b592ba9_thb.jpg"
+        ]
+    },
+    {
+        "title": "2025 LAND ROVER RANGE ROVER SPORT DYNAMIC SE",
+        "make": "LAND ROVER",
+        "year": "2025",
+        "model": "RANGE ROVER SPORT DYNAMIC SE",
+        "link": "https://www.copart.com/lot/49414945/2025-land-rover-range-rover-sport-dynamic-se-ca-sun-valley",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "49414945",
+            "vin": "SAL1L9E93SA******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "4.4L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/5fcc38cc24754e58b648c8f393bcead5_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/5fcc38cc24754e58b648c8f393bcead5_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/c772914efca048f7915d845d3c5c0100_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/a55bf7fe96ea470eadc8e31dee4e74e3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/234fa2659708411da6635c90f35d68d1_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/275ab23caa9d4100b497d0029d31cbac_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LAND ROVER RANGE ROVER VELAR S",
+        "make": "LAND ROVER",
+        "year": "2020",
+        "model": "RANGE ROVER VELAR S",
+        "link": "https://www.copart.com/lot/49377904/salvage-2020-land-rover-range-rover-velar-s-ks-kansas-city",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 100
+        },
+        "details": {
+            "lotNumber": "49377904",
+            "vin": "SALYB2EX4LA******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0424/f0817bf714d64e2c8b8143478534bb22_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0424/f0817bf714d64e2c8b8143478534bb22_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0424/8a81e56c3a7a45d1b2f31486c17cf0e1_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0424/b583819337b94252ad0224da445c843b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0424/12a9fe2a286b42d9af28726d0dd3c112_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0424/49864ae1ae4549a1b783a74e54c863c1_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 LAND ROVER RANGE ROVER SPORT HSE SILVER EDITION",
+        "make": "LAND ROVER",
+        "year": "2021",
+        "model": "RANGE ROVER SPORT HSE SILVER EDITION",
+        "link": "https://www.copart.com/lot/49348185/2021-land-rover-range-rover-sport-hse-silver-edition-ca-rancho-cucamonga",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "49348185",
+            "vin": "SALWR2SU6MA******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/bcc055f1a0b44736b98343b864cb0efa_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/bcc055f1a0b44736b98343b864cb0efa_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/fa7b63fc09b54a159abb18d81473e09e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/f048919457f54a6ba9f459d4b63b8178_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/5ca499196c5a43cdb2f98fa0ada1634d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/ccec82eedba541a4bcadfa11e3348b36_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 LAND ROVER RANGE ROVER SV",
+        "make": "LAND ROVER",
+        "year": "2024",
+        "model": "RANGE ROVER SV",
+        "link": "https://www.copart.com/lot/49305585/salvage-2024-land-rover-range-rover-sv-ct-hartford",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 70000
+        },
+        "details": {
+            "lotNumber": "49305585",
+            "vin": "SALKZBF95RA******",
+            "primaryDamage": "MINOR DENT/SCRATCHES",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "4.4L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ce0d1646e2034872b967310633208198_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ce0d1646e2034872b967310633208198_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/f8431b176dad4ffa8281a3aaae8cc47e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/bc42cab9898142099125c7af8f65781d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/64610c09b51b4e72b5bdc64b3beb3db4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/f0a135811b1f4bdca695984966137cc1_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 LAND ROVER DISCOVERY SPORT SE",
+        "make": "LAND ROVER",
+        "year": "2020",
+        "model": "DISCOVERY SPORT SE",
+        "link": "https://www.copart.com/lot/49281375/2020-land-rover-discovery-sport-se-pa-philadelphia",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "49281375",
+            "vin": "SALCP2FX5LH******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLUE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/0df6dd61d7684248acd7f2eb0ec21d74_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/0df6dd61d7684248acd7f2eb0ec21d74_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/3a90affedfda4ac39538c559a8dd2f71_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/b819fa80354d42b5ac972d4d06eb373a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/fbbb9f048621418eabd882e5f78484d5_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/ac23bd262ba645e987ecfd8f9ea63be1_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 LAND ROVER RANGE ROVER HSE WESTMINSTER EDITION",
+        "make": "LAND ROVER",
+        "year": "2021",
+        "model": "RANGE ROVER HSE WESTMINSTER EDITION",
+        "link": "https://www.copart.com/lot/49279965/2021-land-rover-range-rover-hse-westminster-edition-fl-west-palm-beach",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "49279965",
+            "vin": "SALGS2RU6MA******",
+            "primaryDamage": "MINOR DENT/SCRATCHES",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/1d6dfda01f2e417190dc7b1411d6132a_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/1d6dfda01f2e417190dc7b1411d6132a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/ea6fb550e5b842e3a6f40f9d32f8d13b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/e6e0de4fd12e42d4bdeaa3790b3dd85d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/c258a5f57f62460bbc530934c133ac77_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/3d3efd225cbd4f70b49ebb9c1b9f7162_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 LAND ROVER RANGE ROVER VELAR R-DYNAMIC HSE",
+        "make": "LAND ROVER",
+        "year": "2021",
+        "model": "RANGE ROVER VELAR R-DYNAMIC HSE",
+        "link": "https://www.copart.com/lot/49274475/2021-land-rover-range-rover-velar-r-dynamic-hse-fl-west-palm-beach",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "49274475",
+            "vin": "SALYM2FU2MA******",
+            "primaryDamage": "MINOR DENT/SCRATCHES",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/dea2f04e4753417bb10295a1be57f735_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/dea2f04e4753417bb10295a1be57f735_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/9e88ad4dff4343b7a2f708274258e740_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/0423b993f22f40f5a7ee772b23db1dec_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/e53fca652c55446c8036c2b7f9aab2bc_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/15fcd0b3829548c69e080d4cabbd248c_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 LAND ROVER RANGE ROVER SPORT DYNAMIC SE",
+        "make": "LAND ROVER",
+        "year": "2023",
+        "model": "RANGE ROVER SPORT DYNAMIC SE",
+        "link": "https://www.copart.com/lot/49245755/clean-title-2023-land-rover-range-rover-sport-dynamic-se-ct-hartford-springfield",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 74500
+        },
+        "details": {
+            "lotNumber": "49245755",
+            "vin": "SAL1L9FU9PA******",
+            "primaryDamage": "MINOR DENT/SCRATCHES",
+            "transmission": "N/A",
+            "color": "RED",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/6ab5f52c97b14d1f86172e1da250e935_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/6ab5f52c97b14d1f86172e1da250e935_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/b07d969b93804747b41bfc79f3ff8214_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/b0488b82dea54167800522bfbff6de0c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/ecc6baca9d3f455e9ff337cfb5cf64ef_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/4005c04d1691494d8e9440a13b1e84c3_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 LAND ROVER RANGE ROVER SE",
+        "make": "LAND ROVER",
+        "year": "2023",
+        "model": "RANGE ROVER SE",
+        "link": "https://www.copart.com/lot/49245545/2023-land-rover-range-rover-se-fl-west-palm-beach",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "49245545",
+            "vin": "SALKP9FU0PA******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "TAN",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/c472ee368cdb45b5bdfe0adc476bfca6_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/c472ee368cdb45b5bdfe0adc476bfca6_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/ce35e0d588ad4479b297d1464f1ee089_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/b9f9bb49d04d4b84afe96703e97824f7_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/5f66d41ee1284e32a226f1f212b21fdc_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/df0256f875f145969df5a0d8597c5ef3_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 LAND ROVER DISCOVERY SPORT SE R-DYNAMIC",
+        "make": "LAND ROVER",
+        "year": "2023",
+        "model": "DISCOVERY SPORT SE R-DYNAMIC",
+        "link": "https://www.copart.com/lot/49233755/2023-land-rover-discovery-sport-se-r-dynamic-fl-miami-south",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "49233755",
+            "vin": "SALCL2FXXPH******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/75c093777b7a4eef8702f7564a94ecd4_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/75c093777b7a4eef8702f7564a94ecd4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/1354e28feee443f4860b9a0eb1338726_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/fd8e20d995734c78abcad8789589f524_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/c3c4ed423c694113bd53c3e5722a06ba_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/52a3366cc0a34dfdb76a980988097a0c_thb.jpg"
+        ]
+    }
+]

@@ -1,0 +1,2668 @@
+[
+    {
+        "title": "2020 BMW M340XI",
+        "make": "BMW",
+        "year": "2020",
+        "model": "M340XI",
+        "link": "https://www.copart.com/lot/68617303/salvage-2020-bmw-m340xi-pa-philadelphia",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 225
+        },
+        "details": {
+            "lotNumber": "68617303",
+            "vin": "WBA5U9C06LA******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1023/28887519529b4c0095669ae17c9161fd_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1023/28887519529b4c0095669ae17c9161fd_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1023/768cd15d84bb4fcdbe11e8c5cdf0e91f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1023/725f9f6ad79e4371bdba4ed7b84e8dd7_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1023/5b543b37d50c4720a3d5e5cfd20189b7_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1023/1a74bb3b5a6545f3a3da01b21c4c2942_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 BMW F 900 XR",
+        "make": "BMW",
+        "year": "2020",
+        "model": "F 900 XR",
+        "link": "https://www.copart.com/lot/68511924/salvage-2020-bmw-f-900-xr-qc-montreal",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "68511924",
+            "vin": "WB10K2309LZ******",
+            "primaryDamage": "SIDE",
+            "transmission": "MANUAL",
+            "color": "RED",
+            "drive": "N/A",
+            "fuel": "GAS",
+            "engineType": "2"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/c3069f182b5f4deeaf97af0421dc6197_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/c3069f182b5f4deeaf97af0421dc6197_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/a0d69dbb58884e848fe6f37d0697c879_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/554eb01e108c4d3297a3ad4b4ef36d8f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/6d232cde418e45a4a062090e567eeb3f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/c973eea0fdbc4dbf91cce942d706db62_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 BMW M5 CS",
+        "make": "BMW",
+        "year": "2022",
+        "model": "M5 CS",
+        "link": "https://www.copart.com/lot/68452104/2022-bmw-m5-cs-tx-ft-worth",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "68452104",
+            "vin": "WBS73CH07NC******",
+            "primaryDamage": "FRONT END",
+            "transmission": "Yes",
+            "color": "CHARCOAL",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "4.4L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/9db4f0cf5ba6449dac29d1fbcca6ad85_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/9db4f0cf5ba6449dac29d1fbcca6ad85_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0224/0752d8fe20454ab3ba81a4a6cdd97ace_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0224/296bb3b05ce84cbea3c64943d58badb7_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/0316d3d25c074bb29e1d0e6a7a9802ce_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/8c1b8efd2c854082b7446dcdf7b88799_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 BMW M550XI",
+        "make": "BMW",
+        "year": "2023",
+        "model": "M550XI",
+        "link": "https://www.copart.com/lot/68434874/2023-bmw-m550xi-ca-sun-valley",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "68434874",
+            "vin": "WBA13BK03PC******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "4.4L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/384796847def456aada386d21aedd493_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/384796847def456aada386d21aedd493_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/9cd9c4ecb53446e389658f8055054680_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/f49be80bbc854e3693d0d54f23345beb_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/7f005c9ceffc480ebbac2f5776eb1bb9_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/6cd79ce8376848a49f9d8971f9d83b54_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 BMW 330XI",
+        "make": "BMW",
+        "year": "2023",
+        "model": "330XI",
+        "link": "https://www.copart.com/lot/68418614/2023-bmw-330xi-qc-montreal",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "68418614",
+            "vin": "3MW89FF03P8******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/6401f21882a44b7aaea99d6f8b2f8eaa_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/6401f21882a44b7aaea99d6f8b2f8eaa_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/15a918fabcc043df8072e58679ef11b8_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/923e38c64f7e46a0bf9eaa120ba2a8af_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/51a0970ce5294cbeb5d13e75539fbc1c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/bf82d67988544666b28c09816582c64c_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 BMW I7 EDRIVE50",
+        "make": "BMW",
+        "year": "2024",
+        "model": "I7 EDRIVE50",
+        "link": "https://www.copart.com/lot/68248234/salvage-2024-bmw-i7-edrive50-tx-houston-east",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 700
+        },
+        "details": {
+            "lotNumber": "68248234",
+            "vin": "WBY43EJ08RC******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "ELECTRIC",
+            "engineType": "0"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/773cfc288bc24e748ef9f20ccdcf31fa_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/773cfc288bc24e748ef9f20ccdcf31fa_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/5c1e6f4b451443c2ac6f1500723fc203_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/639ab6a5f0484dac81424e2b4158fbaa_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/9bd4ace93b354136984d87b647737a8c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/0d83ddc8f11e4501ae4db150bb2eb300_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 BMW X1 XDRIVE28I",
+        "make": "BMW",
+        "year": "2020",
+        "model": "X1 XDRIVE28I",
+        "link": "https://www.copart.com/lot/68185654/2020-bmw-x1-xdrive28i-pa-scranton",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "68185654",
+            "vin": "WBXJG9C06L5******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/ce4e455e9e604da588c2b661ebf4af27_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/ce4e455e9e604da588c2b661ebf4af27_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/ae2132edad3240ec863aae5d639ca228_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/003a9cb86b3941f596ad3145465022cb_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/a02cd18884c34e11bd476f754b2911a6_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/78706a724ad14d019f18fcbc3918bab1_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 BMW X7 XDRIVE40I",
+        "make": "BMW",
+        "year": "2021",
+        "model": "X7 XDRIVE40I",
+        "link": "https://www.copart.com/lot/68006494/2021-bmw-x7-xdrive40i-ny-long-island",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "68006494",
+            "vin": "5UXCW2C00M9******",
+            "primaryDamage": "MISSING/ALTERED VIN",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/b92c385efee246209810383ff489a3e3_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/b92c385efee246209810383ff489a3e3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/827938bbed4349d99bcfb3a82798f7de_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/8c41d70669b54f7da57b74c14218e6e2_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/4d007ecb81ed472f9ada9a51fa13e9cb_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/e74e4bd083244d59a5e0a5d99bfd5955_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 BMW X7 XDRIVE40I",
+        "make": "BMW",
+        "year": "2023",
+        "model": "X7 XDRIVE40I",
+        "link": "https://www.copart.com/lot/67731134/2023-bmw-x7-xdrive40i-nj-somerville",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "67731134",
+            "vin": "5UX23EM09P9******",
+            "primaryDamage": "MISSING/ALTERED VIN",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/5dd8ac9c03ab467a9a31d18f079b396a_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/5dd8ac9c03ab467a9a31d18f079b396a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/48f37798ebc64754a4d64ae19da4a73b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/661af061184a4f938574991dfbecfb1c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/e668c572ac1d4980be5ea5e7e16dc4e4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/29082e310e7a41e09be3cac25550ec58_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 BMW S 1000 RR",
+        "make": "BMW",
+        "year": "2024",
+        "model": "S 1000 RR",
+        "link": "https://www.copart.com/lot/67715264/salvage-2024-bmw-s-1000-rr-nj-trenton",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 600
+        },
+        "details": {
+            "lotNumber": "67715264",
+            "vin": "WB10E6305R6******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "N/A",
+            "fuel": "GAS",
+            "engineType": "4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/be707deeb412475a982fe4d275b61048_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/be707deeb412475a982fe4d275b61048_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/5ab2e07d591347bb99f013f81a77ebdf_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/454df6dbe3c8496f96b34addc961accb_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/bf281bdd9a764289a2412dcbb54270e6_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/d090a3a69c094b5c906c22ff22edf65c_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 BMW X5 XDRIVE45E",
+        "make": "BMW",
+        "year": "2022",
+        "model": "X5 XDRIVE45E",
+        "link": "https://www.copart.com/lot/67450473/2022-bmw-x5-xdrive45e-va-danville",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "67450473",
+            "vin": "5UXTA6C04N9******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "BLUE",
+            "drive": "All wheel drive",
+            "fuel": "HYBRID ENGINE",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0923/1057b8b7312d4724a06fc7e5c66631d3_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0923/1057b8b7312d4724a06fc7e5c66631d3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0923/7946df44299144c2b6a29af5afc4f1b1_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0923/982e6a14c18b45cd9f45318d561f31b5_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0923/3366715f8f2a4894ba59b3191cd228c7_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0923/aa572161e20c4ea2b24dd02d0ce1c05f_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 BMW X7 M50I",
+        "make": "BMW",
+        "year": "2022",
+        "model": "X7 M50I",
+        "link": "https://www.copart.com/lot/67270444/2022-bmw-x7-m50i-pa-philadelphia",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "67270444",
+            "vin": "5UXCX6C06N9******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "4.4L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/cfd9e5494e4440f0a126ae1d5a65ebdf_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/cfd9e5494e4440f0a126ae1d5a65ebdf_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/ae99355abf4e4f3b90bb8f8f89331ad8_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/bdde641d04c347acad063f81bd58e763_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/265c83cb88fa40f188cbbb834779b9f8_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/e0be0ca8b7544144bc9f5c6ed8737735_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 BMW F 850 GS",
+        "make": "BMW",
+        "year": "2023",
+        "model": "F 850 GS",
+        "link": "https://www.copart.com/lot/67260454/2023-bmw-f-850-gs-wi-milwaukee-south",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "67260454",
+            "vin": "WB10B1900P6******",
+            "primaryDamage": "ROLLOVER",
+            "transmission": "MANUAL",
+            "color": "RED",
+            "drive": "N/A",
+            "fuel": "GAS",
+            "engineType": "2"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/06945ffc58c24fde8bba3d1bf2e1637f_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/06945ffc58c24fde8bba3d1bf2e1637f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/b4a6c58e0a3244e2ba3a9522745ebd9e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/8297633a16664a4e9e0097718e359954_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/c4771c3c20a54dd18bf1e59994ad8291_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/a9dc7155de134903a5fa8d80151bc1b2_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 BMW X1 XDRIVE28I",
+        "make": "BMW",
+        "year": "2023",
+        "model": "X1 XDRIVE28I",
+        "link": "https://www.copart.com/lot/67122324/2023-bmw-x1-xdrive28i-on-cookstown",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "67122324",
+            "vin": "WBX73EF01P5******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/dd967a0dc8714f83bbab36e0ca6e305e_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/dd967a0dc8714f83bbab36e0ca6e305e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/844a68ce67904561968add0c3af8cf40_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/0dc1acac0e474e13ac624b69dfaf98e6_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/d6321e8a30864157ad3b360486be5017_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/ede42c7a17634f399f0996c8f8634d77_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 BMW X5 XDRIVE40I",
+        "make": "BMW",
+        "year": "2022",
+        "model": "X5 XDRIVE40I",
+        "link": "https://www.copart.com/lot/66980254/salvage-2022-bmw-x5-xdrive40i-nj-somerville",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 6100
+        },
+        "details": {
+            "lotNumber": "66980254",
+            "vin": "5UXCR6C0XN9******",
+            "primaryDamage": "WATER/FLOOD",
+            "transmission": "AUTOMATIC",
+            "color": "CHARCOAL",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/115cc4264bf64da8bbb34cd2db34bfa6_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/115cc4264bf64da8bbb34cd2db34bfa6_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/dcf712d586734058b1362d3494f2cf53_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/343be2119e814b85a736ff6508a75913_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/dc1cd30371c44e9d935bfa61fe4124e7_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/deee33588513492e97e1a40fe5b2d5f3_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 BMW X5 XDRIVE40I",
+        "make": "BMW",
+        "year": "2020",
+        "model": "X5 XDRIVE40I",
+        "link": "https://www.copart.com/lot/66773444/salvage-2020-bmw-x5-xdrive40i-mo-st-louis",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "66773444",
+            "vin": "5UXCR6C09LL******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/93790f0eeec04c8b9f403151620a969c_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/93790f0eeec04c8b9f403151620a969c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/4baf3ddf86474b0981791bbf2ba5e4a0_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/1078566def4a418cb830b808c1b33443_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/fa161290adc44c308f4eee00dfedf2eb_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/59d6f71380514115a89bc5219bb11ea0_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 BMW X5 XDRIVE40I",
+        "make": "BMW",
+        "year": "2024",
+        "model": "X5 XDRIVE40I",
+        "link": "https://www.copart.com/lot/66154914/2024-bmw-x5-xdrive40i-ny-long-island",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "66154914",
+            "vin": "5UX23EU02R9******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLUE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/b33e7da35b8b48d1b6807586afee7e25_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/b33e7da35b8b48d1b6807586afee7e25_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/75e3f6f9173748829eae991702525fc9_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/0884a257af62414fbbf223cc78c092a0_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/a8892ccf432f41d188b32bbdcbad7723_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/9bb980f61ed04a768979d826897ef977_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 BMW X6 M",
+        "make": "BMW",
+        "year": "2021",
+        "model": "X6 M",
+        "link": "https://www.copart.com/lot/66150593/salvage-2021-bmw-x6-m-ny-long-island",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "66150593",
+            "vin": "5YMCY0C07M9******",
+            "primaryDamage": "MISSING/ALTERED VIN",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "4.4L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1023/e08407e3f23d449987ff738b7c89f368_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1023/e08407e3f23d449987ff738b7c89f368_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1023/a354bdb178fc4911a51879adf97ffc27_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1023/92d73e5468504722b9934a773fa6225c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1023/da9e5b0f8bbb4d5a8372035f67de33ec_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1023/c48f603743884633b028a77a7dc580e2_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 BMW X5 M50I",
+        "make": "BMW",
+        "year": "2021",
+        "model": "X5 M50I",
+        "link": "https://www.copart.com/lot/65796624/salvage-2021-bmw-x5-m50i-ga-fairburn",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "65796624",
+            "vin": "5UXJU4C07M9******",
+            "primaryDamage": "MINOR DENT/SCRATCHES",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "4.4L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/9397b9af492f45ba83fa1b46de88478b_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/9397b9af492f45ba83fa1b46de88478b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/2f73b1d915fb425a96979be38387f596_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/8d70a6ff0eb14f4c8a0f9f101a3c8be4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/096c531887ea4591be3aefbafe1b0ee5_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/1e4f05d5d8c7478ba8af849f0f6f6f6d_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 BMW X5 SDRIVE 40I",
+        "make": "BMW",
+        "year": "2021",
+        "model": "X5 SDRIVE 40I",
+        "link": "https://www.copart.com/lot/65462224/2021-bmw-x5-sdrive-40i-ca-sun-valley",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "65462224",
+            "vin": "5UXCR4C01M9******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/0a3a3032d6f741acbf766c33702ad378_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/0a3a3032d6f741acbf766c33702ad378_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/7ebff02f62124ba3b0e158e2a8b418b4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/94120006d183497ea79d91312fd01832_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/339b056f41d8403a97085db7f6e85a5d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/c3c1a7655dbd4180b67d3f841eb7f001_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 BMW M850XI",
+        "make": "BMW",
+        "year": "2020",
+        "model": "M850XI",
+        "link": "https://www.copart.com/lot/65445504/2020-bmw-m850xi-ny-long-island",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "65445504",
+            "vin": "WBAGV8C07LB******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "4.4L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/b6ca1e0e310d4c848b2b42e9bdcbd8b9_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/b6ca1e0e310d4c848b2b42e9bdcbd8b9_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/5e4003af38a14379a3ff1da5b157991e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/1bbf9a320a664f2d87113cb6fc23a04a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/46d7214c190c47a3b292d453d0a23f36_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/bd6e62f4b48a4dfb9c800bc5c66584eb_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 BMW 745XE",
+        "make": "BMW",
+        "year": "2020",
+        "model": "745XE",
+        "link": "https://www.copart.com/lot/65166744/2020-bmw-745xe-nj-somerville",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "65166744",
+            "vin": "WBA7W4C03LB******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "HYBRID ENGINE",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/acae63cccb134f5d8a9b79b2f55742db_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/acae63cccb134f5d8a9b79b2f55742db_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/18cb799953b84d1cbe1333d38f5e9145_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/0d816c0b59c44d81805471c17d4d278f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/72e335d8db1f4a2d9c332c66acec488d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/81b7036898bb4ac8bb1c62d9de2f9b32_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 BMW M4",
+        "make": "BMW",
+        "year": "2020",
+        "model": "M4",
+        "link": "https://www.copart.com/lot/65152112/2020-bmw-m4-nj-somerville",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "65152112",
+            "vin": "WBS4Z9C02L5******",
+            "primaryDamage": "FRAME DAMAGE",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/LPP446/3241f1fa40d040728607d5a03377367d_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/LPP446/3241f1fa40d040728607d5a03377367d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/LPP446/802a2a33ca1441d49bb274b0672be209_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/LPP446/3985b1305a4e43a4bcd3c8ed7d066171_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/LPP446/dbf8ce781ecd495984df67a00b45ff5f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/LPP446/e7a23db7c0ca4cb2bbc440bcbeccc682_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 BMW 760 XI",
+        "make": "BMW",
+        "year": "2023",
+        "model": "760 XI",
+        "link": "https://www.copart.com/lot/64984174/2023-bmw-760-xi-ny-long-island",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "64984174",
+            "vin": "WBA33EJ0XPC******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "4.4L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/1d5d3f0de82c4aed9e5cfbfa29f041b8_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/1d5d3f0de82c4aed9e5cfbfa29f041b8_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/05b4e446be6f4d4cb558a301d6ae084c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/1eb1cb95250a4935ab1861635dd9e80e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/e656c3429a8e40a8892d4ffdce40c315_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/3da6d681ccaa4fcb934c9eb21fa5cef3_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 BMW X2 SDRIVE28I",
+        "make": "BMW",
+        "year": "2023",
+        "model": "X2 SDRIVE28I",
+        "link": "https://www.copart.com/lot/64951994/salvage-2023-bmw-x2-sdrive28i-tn-nashville",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 275
+        },
+        "details": {
+            "lotNumber": "64951994",
+            "vin": "WBXYH9C08P5******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLUE",
+            "drive": "Front-wheel Drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/70c51951ef9d4d84b780cb1561e15940_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/70c51951ef9d4d84b780cb1561e15940_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/2ae7b1e2b78a4282b3c05358e63775f4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/3724883567af456bb3580d9213416096_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/7156a71a1a894c0295ea20090f9c8f5c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/66591a90240f46449f187075700f7603_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 BMW X5 XDRIVE40I",
+        "make": "BMW",
+        "year": "2021",
+        "model": "X5 XDRIVE40I",
+        "link": "https://www.copart.com/lot/64779302/2021-bmw-x5-xdrive40i-la-new-orleans",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "64779302",
+            "vin": "5UXCR6C07M9******",
+            "primaryDamage": "NORMAL WEAR",
+            "transmission": "N/A",
+            "color": "BROWN",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/LPP441/80ac3fd35f8b4d958dafdcce5c2de8a1_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/LPP441/80ac3fd35f8b4d958dafdcce5c2de8a1_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/LPP441/c9750728565e4bc7803890571b17fe80_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/LPP441/fd5439b2ffaf468babc5f42306b1d7ce_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/LPP441/52e5e2def7844e13ab9738e4c71aa63f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/LPP441/75dfa60dacd244059e89315d009c8393_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 BMW X6 M50I",
+        "make": "BMW",
+        "year": "2021",
+        "model": "X6 M50I",
+        "link": "https://www.copart.com/lot/64614714/salvage-2021-bmw-x6-m50i-il-chicago-north",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "64614714",
+            "vin": "5UXCY8C05M9******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "4.4L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/4ce2270f24e4420dba0a25a8955d376a_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/4ce2270f24e4420dba0a25a8955d376a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/a4afc7f291054666bf218e72845b1155_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/112e3f6124df45d1a560e6b5aed3b932_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/1b133a85ed31483388ea40b53315cc82_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/ee66d4262caa4278ac8ebc9b75329a8f_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 BMW 330XI",
+        "make": "BMW",
+        "year": "2020",
+        "model": "330XI",
+        "link": "https://www.copart.com/lot/64473694/2020-bmw-330xi-va-richmond",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "64473694",
+            "vin": "3MW5R7J08L8******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/4f35229278f74acbad324b3e8de968ee_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/4f35229278f74acbad324b3e8de968ee_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/85caa6d488db4be489ec24865f16b6b1_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/133f9cd8aae34267a25d4c28de2c64ad_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/cdc0a4c492ec482c959f47128bd24394_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/45dca4f009fb4177857c5bdb762dc59e_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 BMW X6 SDRIVE 40I",
+        "make": "BMW",
+        "year": "2020",
+        "model": "X6 SDRIVE 40I",
+        "link": "https://www.copart.com/lot/64455093/salvage-2020-bmw-x6-sdrive-40i-ca-rancho-cucamonga",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 1350
+        },
+        "details": {
+            "lotNumber": "64455093",
+            "vin": "5UXCY4C09L9******",
+            "primaryDamage": "ALL OVER",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0823/387e7bfcf647420398417effd302f8ee_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0823/387e7bfcf647420398417effd302f8ee_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0823/3f388613a6004dc2b15c74842ff1bbcf_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0823/68f5bee5a3d74eaf8a8699e16640d867_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0823/3e6fe5c5db0c4f669f9da152a4e13d4e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0823/e2e00dfdf62e4da995ac4b7799c6a391_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 BMW X5 XDRIVE50E",
+        "make": "BMW",
+        "year": "2024",
+        "model": "X5 XDRIVE50E",
+        "link": "https://www.copart.com/lot/64155574/salvage-2024-bmw-x5-xdrive50e-pa-philadelphia",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 36000
+        },
+        "details": {
+            "lotNumber": "64155574",
+            "vin": "5UX43EU02R9******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "HYBRID ENGINE",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/b48545e7effd46e195aa7dc90ef8767c_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/b48545e7effd46e195aa7dc90ef8767c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/550f6f24887c4e038bd3c9d66a40081b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/09e96337d0c04f94b5a13d0bc59bfac6_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/a5033127f6d940feaaea0647729b3d52_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/1a5e97dff9154ba186859aba3561306a_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 BMW X7 XDRIVE40I",
+        "make": "BMW",
+        "year": "2022",
+        "model": "X7 XDRIVE40I",
+        "link": "https://www.copart.com/lot/64152044/2022-bmw-x7-xdrive40i-tx-longview",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "64152044",
+            "vin": "5UXCW2C01N9******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/7b0881988b1e45b7a1d6b49045670788_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/7b0881988b1e45b7a1d6b49045670788_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/015a7d7baf0247fda3d1d7a01c966d7d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/3a1d688385fd45e29d898e53e0c6a950_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/018d1ee20a204150a188537e9d910d58_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/6209caf3e4fb4de4a0f59cd697baed23_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 BMW 330I",
+        "make": "BMW",
+        "year": "2020",
+        "model": "330I",
+        "link": "https://www.copart.com/lot/64111014/2020-bmw-330i-ca-rancho-cucamonga",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "64111014",
+            "vin": "WBA5R1C02LF******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/4050b56f28974de2936fe63faaa47d01_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/4050b56f28974de2936fe63faaa47d01_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/3c4ed0793d3e4a88855f7dbc99c1b456_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/57221f5aa3494e4c9f16fef37a6c11bf_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/de5467b1138945f3aae2beb7b679e296_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/69fae77789b84aa88793017d64371db1_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 BMW X5 XDRIVE45E",
+        "make": "BMW",
+        "year": "2023",
+        "model": "X5 XDRIVE45E",
+        "link": "https://www.copart.com/lot/63972883/2023-bmw-x5-xdrive45e-fl-miami-south",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "63972883",
+            "vin": "5UXTA6C07P9******",
+            "primaryDamage": "VANDALISM",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "HYBRID ENGINE",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0923/b15ebf20b4d24207bedc276ee77d442b_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0923/b15ebf20b4d24207bedc276ee77d442b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0923/1913dfc8969340318a09185c81c0394e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0923/a7407e81871440d2ac8cf91b7cbcede9_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0923/97f53940cb12444596cb8551bc0b68e2_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0923/dac16a6fcc97403798e868b4de5bda6d_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 BMW I3 S REX",
+        "make": "BMW",
+        "year": "2021",
+        "model": "I3 S REX",
+        "link": "https://www.copart.com/lot/63765834/2021-bmw-i3-s-rex-ky-lexington-west",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "63765834",
+            "vin": "WBY8P8C02M7******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "Rear-wheel drive",
+            "fuel": "HYBRID ENGINE",
+            "engineType": "0.7L 2"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/67bca441198945b58c3d95d2a87f6a4d_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/67bca441198945b58c3d95d2a87f6a4d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/c6cc52cc5c25443ba589da200f6929dd_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/d2f7980e48cc4b33af04012f11e9b328_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/b33ecca9bb69461b80d06121eaf3aad2_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/c5a91e2029a646f8af50adaec234fced_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 BMW X7 M50I",
+        "make": "BMW",
+        "year": "2021",
+        "model": "X7 M50I",
+        "link": "https://www.copart.com/lot/63764414/2021-bmw-x7-m50i-ny-long-island",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "63764414",
+            "vin": "N******",
+            "primaryDamage": "REPLACED VIN",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "N/A",
+            "fuel": "N/A",
+            "engineType": "Yes"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/04b3abe968ef4082bdacca12d55b1ce7_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/04b3abe968ef4082bdacca12d55b1ce7_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/2435c14fa7eb4d698b1448d2afaba5f3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/c11004900ee34e75951ef55e1bd01ebf_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/639e7fcffd1d4bcf8eaa581e9177a368_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/e5e38753ae2f41e8b915a5bfc8bd52a3_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 BMW X4 XDRIVEM40I",
+        "make": "BMW",
+        "year": "2021",
+        "model": "X4 XDRIVEM40I",
+        "link": "https://www.copart.com/lot/63564433/2021-bmw-x4-xdrivem40i-il-chicago-north",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "63564433",
+            "vin": "5UX2V5C00M9******",
+            "primaryDamage": "WATER/FLOOD",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0823/6bdd7077b34f49cba38aa3e53329a3d0_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0823/6bdd7077b34f49cba38aa3e53329a3d0_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0823/dcc5dc6c8e8a4a3688e8425f127baaa7_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0823/3f2dc669666d448ebd980b8a88f7df72_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0823/1e642004bf5c47369f6ec16bbe6c242a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0823/4ce8687e8cd34988a853a8dd991d5b58_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 BMW 330I",
+        "make": "BMW",
+        "year": "2020",
+        "model": "330I",
+        "link": "https://www.copart.com/lot/63381524/clean-title-2020-bmw-330i-va-hampton",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "63381524",
+            "vin": "WBA5R1C09LF******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "RED",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/0cc76695b56441cf8adcd0d819b1bef1_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/0cc76695b56441cf8adcd0d819b1bef1_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/c46b422dc0c742b48e19860ba1d02f2a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/cd69cbd409344b99a16acb417055c7ee_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/b0f2155bad144aa49f4581c5a866c7df_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/139d13ea8a4345378da10f9a77ca2a2f_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 BMW M440XI",
+        "make": "BMW",
+        "year": "2022",
+        "model": "M440XI",
+        "link": "https://www.copart.com/lot/63184784/clean-title-2022-bmw-m440xi-mi-detroit",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "63184784",
+            "vin": "WBA63AT01NC******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "GREEN",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/0ae7b262d7d7496284916b931f167c7e_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/0ae7b262d7d7496284916b931f167c7e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/b7541732586d40b2906c7ee14bb364e9_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/a4de4f75114a4865a964b3d52a8568f4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/8d06f101495f4a40abf3fd13ee8ea42f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/5f768ecf5e84452abd189950c60b3b4a_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 BMW R 1250 GS",
+        "make": "BMW",
+        "year": "2023",
+        "model": "R 1250 GS",
+        "link": "https://www.copart.com/lot/62956914/2023-bmw-r-1250-gs-mo-st-louis",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "62956914",
+            "vin": "WB10M0305P6******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "TWO TONE",
+            "drive": "N/A",
+            "fuel": "GAS",
+            "engineType": "2"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/505f4854293947f7994234c2c9de03bb_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/505f4854293947f7994234c2c9de03bb_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/ca547675362146a5bc637a615d016d3a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/9287cabb915f4b70972925be3c94f042_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/c4a81b96eaf943acb883eab992228bbc_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/27784f815fbb437283231d482a2b57b9_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 BMW 430I",
+        "make": "BMW",
+        "year": "2022",
+        "model": "430I",
+        "link": "https://www.copart.com/lot/62634904/2022-bmw-430i-ca-sun-valley",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "62634904",
+            "vin": "WBA23AT08NC******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/361bbe26d4d248d19411286af2b77fdc_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/361bbe26d4d248d19411286af2b77fdc_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/49fe5f82975d4afa8770a33eb2c081bd_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/51da000c5bbc4fd18399f8094a7a3f96_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/8a239a99dbf24c1badd0bd9189179199_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/05609cecb7c144d889fc75397abc87f8_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 BMW 330XI",
+        "make": "BMW",
+        "year": "2020",
+        "model": "330XI",
+        "link": "https://www.copart.com/lot/62532912/salvage-2020-bmw-330xi-il-chicago-south",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "62532912",
+            "vin": "WBA5R7C08LF******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/LPP438/183c5d60057c4600a31c79cff07e8b92_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/LPP438/183c5d60057c4600a31c79cff07e8b92_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/LPP438/5e482c61f2cf466199a136bc0e5d7494_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/LPP438/f9b6def4ca164039be81c3372f7beef1_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/LPP438/f0da1a8bd06e4e718cceca5c39fd20a0_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/LPP438/c6bef853ee664c20b3204bf7bfe581d8_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 BMW 530 XI",
+        "make": "BMW",
+        "year": "2021",
+        "model": "530 XI",
+        "link": "https://www.copart.com/lot/62530724/2021-bmw-530-xi-ny-newburgh",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "62530724",
+            "vin": "WBA13BJ00MW******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/0a89f0c9ffdb4f26864219b33a68c60b_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/0a89f0c9ffdb4f26864219b33a68c60b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/dab2d7c96aa440ffade6eeece0fadde0_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/ef13eee241944d3d862b6934900b4b14_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/85935b6cdd76406cbfb9c17893b753b4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/3c4038a5c21740dbbe3d83e1b7c68f5f_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 BMW X5 M50I",
+        "make": "BMW",
+        "year": "2021",
+        "model": "X5 M50I",
+        "link": "https://www.copart.com/lot/62285054/2021-bmw-x5-m50i-ma-south-boston",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "62285054",
+            "vin": "5UXJU4C02M9******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "4.4L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/ccb11fe70ae64b398678115278a495f1_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/ccb11fe70ae64b398678115278a495f1_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/18fcd2a2464845688f87db4b32aeaa85_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/2d6de0ce148345b9951c208b90dcd4e7_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/c2c4d7cc27b54841861bcad09389ba51_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/ea2463757d5840048ca5492bb900e7d9_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 BMW M340XI",
+        "make": "BMW",
+        "year": "2020",
+        "model": "M340XI",
+        "link": "https://www.copart.com/lot/62268984/clean-title-2020-bmw-m340xi-tx-ft-worth",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 4250
+        },
+        "details": {
+            "lotNumber": "62268984",
+            "vin": "WBA5U9C04LF******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "ORANGE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/8e3cff79774e48d98aaeed20b7044d5f_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/8e3cff79774e48d98aaeed20b7044d5f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/211b79db13dc4f8295853d7d110d64b3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/c438873c4b0e4ef3bc79cb80531f67b4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/bcfddbedafe34555a1e9db34b792b894_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/4c80635c920b496dbbd53c03bb272c3d_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 BMW M550XI",
+        "make": "BMW",
+        "year": "2021",
+        "model": "M550XI",
+        "link": "https://www.copart.com/lot/62037714/2021-bmw-m550xi-il-chicago-north",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "62037714",
+            "vin": "WBA13BK00MC******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "4.4L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/330e1bbcc7e94717b4f759815a0430b4_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/330e1bbcc7e94717b4f759815a0430b4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/85b99fbd4f2544399c49dac4e062d5b4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/a6a42521efe54341bde97dec7efacdcc_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/009c8b84cf4e48ed9ac0a4962a8f3b47_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/d280d19ba3b84792ab8d9444b89a0c79_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 BMW I4 M50",
+        "make": "BMW",
+        "year": "2024",
+        "model": "I4 M50",
+        "link": "https://www.copart.com/lot/62013754/2024-bmw-i4-m50-ma-south-boston",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "62013754",
+            "vin": "WBY33AW00RF******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "GREEN",
+            "drive": "All wheel drive",
+            "fuel": "ELECTRIC",
+            "engineType": "0"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/d03a1a8b848b48668086f124b1a24201_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/d03a1a8b848b48668086f124b1a24201_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/57d2172926794e26bca3300e6637fb39_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/f571a2a931ad46c699f9bc260d118a22_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/c53abe8dd8634a639fc0a86c0f760610_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/7029afbe7c614c69870d0bc5204dbe54_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 BMW 530 XI",
+        "make": "BMW",
+        "year": "2021",
+        "model": "530 XI",
+        "link": "https://www.copart.com/lot/61654894/2021-bmw-530-xi-ny-newburgh",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "61654894",
+            "vin": "WBA13BJ08MW******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/9b2d157418fc464fb959f0d262558fdd_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/9b2d157418fc464fb959f0d262558fdd_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/37c8996272314a3e8214d4ce6b143889_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/a361d774f6ad4134b9e5cbfd465682c3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/1c58624dea0643a78d7e4e6e5b6b362e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/eda2417c7c1b49358ac75808e49b968f_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 BMW M850XI",
+        "make": "BMW",
+        "year": "2021",
+        "model": "M850XI",
+        "link": "https://www.copart.com/lot/61448624/2021-bmw-m850xi-nj-somerville",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "61448624",
+            "vin": "WBAFY4C05MC******",
+            "primaryDamage": "BIOHAZARD/CHEMICAL",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "4.4L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/457cf618479b45ae91ac91658347738b_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/457cf618479b45ae91ac91658347738b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/755342799f494290b478474485ca4f43_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/09b343d77b2943d8b1dc78fe86fad417_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/d93632e062df459fbca2bd6117be2271_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/8ff6e28f3e7644c880ee07a658c9e1f8_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 BMW 530 XI",
+        "make": "BMW",
+        "year": "2024",
+        "model": "530 XI",
+        "link": "https://www.copart.com/lot/61221644/salvage-2024-bmw-530-xi-il-chicago-north",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 10100
+        },
+        "details": {
+            "lotNumber": "61221644",
+            "vin": "WBA53FJ07RC******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "SILVER",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/700cee08a7994a95be017398afb9b6a9_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/700cee08a7994a95be017398afb9b6a9_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/00f9044be7d8453f8a96643ad4cf3b2a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/9824b551da5c4d1b832a49421cf4d97e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/cba6f202654b4c8d853b373ae0b4c92e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/387be4ae6bdc49dbb5dd5009ac57a676_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 BMW 750 XI",
+        "make": "BMW",
+        "year": "2022",
+        "model": "750 XI",
+        "link": "https://www.copart.com/lot/60972764/2022-bmw-750-xi-va-hampton",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "60972764",
+            "vin": "WBA7U2C00NC******",
+            "primaryDamage": "WATER/FLOOD",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "4.4L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/6652f5ffbc044502be099ab627a11b9d_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/6652f5ffbc044502be099ab627a11b9d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/cfba31c77b6b483c8d1e8a858d6ff3cb_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/ce4e858aba5d412aa3d22529bf0c5bfa_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/7bf2d4d533e34644978de18deaa51810_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/c1b3514aaf3740a0ad817231c3401749_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 BMW X5 XDRIVE40I",
+        "make": "BMW",
+        "year": "2022",
+        "model": "X5 XDRIVE40I",
+        "link": "https://www.copart.com/lot/60951694/2022-bmw-x5-xdrive40i-fl-miami-north",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "60951694",
+            "vin": "5UXCR6C01N9******",
+            "primaryDamage": "WATER/FLOOD",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/532d98d0a56d42d7890e0a9ba2aa5c9c_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/532d98d0a56d42d7890e0a9ba2aa5c9c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/b1162d98cfb2482bb9171881e126b87c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/f7018f9902d0433f8d0487e4b3d4d161_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/16cc88cacb9a49adb682d9a992b0dbb4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/f20368682c1e404e82c98463b2344b9d_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 BMW X5 XDRIVE40I",
+        "make": "BMW",
+        "year": "2021",
+        "model": "X5 XDRIVE40I",
+        "link": "https://www.copart.com/lot/60442474/2021-bmw-x5-xdrive40i-fl-punta-gorda-south",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "60442474",
+            "vin": "5UXCR6C07M9******",
+            "primaryDamage": "WATER/FLOOD",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/22b2661b37bd4993b9f52ba7ed75c6e4_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/22b2661b37bd4993b9f52ba7ed75c6e4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/bc40cee29ca74059a4c3ddf165f31d4e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/0daff0a9ae5c49ccb070cd730b37e0cc_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/2beb1d7b348e40e8bcbb77d1c407ff05_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/f8aeb89c36da4efbb15c4a30da62a787_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 BMW 430XI",
+        "make": "BMW",
+        "year": "2022",
+        "model": "430XI",
+        "link": "https://www.copart.com/lot/60301394/2022-bmw-430xi-dc-washington-dc",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "60301394",
+            "vin": "WBA43AT00NC******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/09c8c1ffe80c4cbca109f043b8bfc4f9_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/09c8c1ffe80c4cbca109f043b8bfc4f9_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/ea4af1e4bc984d2e8b7b27955385fb23_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/97fcea4154f146a4ac07f2c2cc9841dd_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/89901e32c07345afb1f9fefb26712fcd_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/f4e646a6e69145338ef1057edbf97b18_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 BMW X1 XDRIVE28I",
+        "make": "BMW",
+        "year": "2021",
+        "model": "X1 XDRIVE28I",
+        "link": "https://www.copart.com/lot/60244134/2021-bmw-x1-xdrive28i-il-southern-illinois",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "60244134",
+            "vin": "WBXJG9C01M5******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLUE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/7b1d35e9b05e48fb94862ecb64401c8c_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/7b1d35e9b05e48fb94862ecb64401c8c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/c9ad687789de4b579309f1392309c318_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/4e7193f21fc74461944672d6b2ee72f0_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/51235e50971d4823ade268fa76b37b52_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/8de4462a9c5848d1b2679d41e649f88b_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 BMW M8",
+        "make": "BMW",
+        "year": "2020",
+        "model": "M8",
+        "link": "https://www.copart.com/lot/59950634/salvage-2020-bmw-m8-mo-st-louis",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "59950634",
+            "vin": "WBSAE0C08LC******",
+            "primaryDamage": "VANDALISM",
+            "transmission": "Yes",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "4.4L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/LPP575/712204cfa9d74b3c84128004474b7ac2_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/LPP575/712204cfa9d74b3c84128004474b7ac2_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/LPP575/fff9ef7a3fd14f5db48df226f066cd54_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/LPP575/f4e8b8ee2bd34fc385dc07cb1249aef3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/LPP575/ec44c577753740c7bfacdcea06b2d730_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/LPP575/96a660bdf35c4a2ebc149358332080b3_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 BMW X5 SDRIVE 40I",
+        "make": "BMW",
+        "year": "2021",
+        "model": "X5 SDRIVE 40I",
+        "link": "https://www.copart.com/lot/59798464/2021-bmw-x5-sdrive-40i-fl-miami-central",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "59798464",
+            "vin": "5UXCR4C01M9******",
+            "primaryDamage": "WATER/FLOOD",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/d61cb05895af47afa50371099b9497fa_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/d61cb05895af47afa50371099b9497fa_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/035df7341d01491394ff774f2dd0629e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/da36408ad54f4e68bf6a7edba4d7ff9f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/1603b8204a864836bd2a0922fdfa536a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/e68b5bea34ef472d97bd18bd01ca24d6_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 BMW X3 XDRIVE30I",
+        "make": "BMW",
+        "year": "2021",
+        "model": "X3 XDRIVE30I",
+        "link": "https://www.copart.com/lot/59775214/2021-bmw-x3-xdrive30i-nj-somerville",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "59775214",
+            "vin": "5UXTY5C06M9******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "SILVER",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/ff8b9b859dc94c289155b4119d3b496d_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/ff8b9b859dc94c289155b4119d3b496d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/0e92ca2d1fae4f418fd55438fddbc02a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/6214357a1dd84ceb85a7ac6073497cb6_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/b3b29024dc884bcdbcfe3a7bcce95d07_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/5a3b0a636daa439fa87f1a685ce269f4_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 BMW X5 XDRIVE40I",
+        "make": "BMW",
+        "year": "2023",
+        "model": "X5 XDRIVE40I",
+        "link": "https://www.copart.com/lot/59570823/2023-bmw-x5-xdrive40i-il-chicago-north",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "59570823",
+            "vin": "5UXCR6C04P9******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0723/7c6d00095bf645f2b3688c2b77004125_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0723/7c6d00095bf645f2b3688c2b77004125_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0723/ebc0ba255e6d422390bdc268f3fe5efc_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0723/0e50c44567a7428a9ea38c6c84279b7a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0723/f05326dfe5b6487aa9a9fee26e28bc02_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0723/9bc9405d934c40219264c6c3e0e95dc2_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 BMW X4 XDRIVE30I",
+        "make": "BMW",
+        "year": "2020",
+        "model": "X4 XDRIVE30I",
+        "link": "https://www.copart.com/lot/58672774/2020-bmw-x4-xdrive30i-ga-fairburn",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "58672774",
+            "vin": "5UX2V1C00L9******",
+            "primaryDamage": "UNDERCARRIAGE",
+            "transmission": "AUTOMATIC",
+            "color": "CHARCOAL",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/3686af99a47746ddbf3adbbf83e4294b_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/3686af99a47746ddbf3adbbf83e4294b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/d204a9d24652441ba6704223e3bc26af_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/ccdd973b39bd43c3b30c7283b82217bf_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/723cf227c85042f2916c16c23ef27e6a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/91c5f3eade694c3ab7471ecabe4a980c_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 BMW X4 M40I",
+        "make": "BMW",
+        "year": "2022",
+        "model": "X4 M40I",
+        "link": "https://www.copart.com/lot/58466664/2022-bmw-x4-m40i-pa-philadelphia",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "58466664",
+            "vin": "5UX43DT03N9******",
+            "primaryDamage": "MINOR DENT/SCRATCHES",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/92e5d0ca1af84eefafe9bd00479bbb9c_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/92e5d0ca1af84eefafe9bd00479bbb9c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/34052934a9444ec99b4d74d7ae91a6db_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/4bb7e6697cf346159ba514c08ea54092_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/ab526365c97942b5984fade1a622a9f3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/eb15bbaffbb0420ab337e1c16c1880c3_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 BMW X5 XDRIVE40I",
+        "make": "BMW",
+        "year": "2022",
+        "model": "X5 XDRIVE40I",
+        "link": "https://www.copart.com/lot/57893374/2022-bmw-x5-xdrive40i-md-baltimore",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "57893374",
+            "vin": "5UXCR6C07N9******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLUE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/31d87c52c7594a3baa30fb1ebb45ce0f_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/31d87c52c7594a3baa30fb1ebb45ce0f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/a736198203164d53a6e0790ed90fd5b5_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/939fe4f5e6684db9be7d772aeb300f0e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/f1fcb836c1c34a1791ec30f826e5f033_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/5b67eab769d24ad889fd9d8c1d48454d_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 BMW 228I",
+        "make": "BMW",
+        "year": "2022",
+        "model": "228I",
+        "link": "https://www.copart.com/lot/57840574/2022-bmw-228i-ut-salt-lake-city",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "57840574",
+            "vin": "WBA53AK0XN7******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/b8eab0403ef24fbeb2297187e81370c6_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/b8eab0403ef24fbeb2297187e81370c6_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/4b83ede2a0f5432dbb1828469211db77_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/1b241d53cb074e0ca291e74add1d5a48_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/6f2c0f782b374de2bf420fabbe0bc8a8_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/3a909df526bd410ab14b38e342d35e43_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 BMW M340XI",
+        "make": "BMW",
+        "year": "2021",
+        "model": "M340XI",
+        "link": "https://www.copart.com/lot/57823394/salvage-2021-bmw-m340xi-oh-dayton",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "57823394",
+            "vin": "3MW5U9J07M8******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "BLUE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/8c235d1417684a54854f594740c1e1bf_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/8c235d1417684a54854f594740c1e1bf_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/72c271da8b7440cbb1de512bde501499_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/aeea7933795443c8ab8b7c3ad192ce32_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/feba382e350f4266ae031e7093475cee_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/a2e8eeea48d949918f2716fd7fd3d66c_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 BMW 330I",
+        "make": "BMW",
+        "year": "2020",
+        "model": "330I",
+        "link": "https://www.copart.com/lot/57685724/2020-bmw-330i-nj-glassboro-east",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "57685724",
+            "vin": "WBA5R1C08LF******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "SILVER",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/4aa2707ec2e9468888ab980e0f358c71_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/4aa2707ec2e9468888ab980e0f358c71_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/c1bb01b5929a4f43bef83912db268f0b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/ec3f95c5e42141bf9ad324e38af36881_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/b02c8c2e840c425c9d74bd8c17affcef_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/b95591ba8bc7444f8a4f25a431bcb4df_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 BMW X7 M50I",
+        "make": "BMW",
+        "year": "2022",
+        "model": "X7 M50I",
+        "link": "https://www.copart.com/lot/57682904/2022-bmw-x7-m50i-il-chicago-north",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 1050
+        },
+        "details": {
+            "lotNumber": "57682904",
+            "vin": "5UXCX6C01N9******",
+            "primaryDamage": "BURN",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "4.4L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/56f35fb199fd4776b467f485aed4df8a_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/56f35fb199fd4776b467f485aed4df8a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/84d2dd362e0b4ced9add261fe950db03_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/54d348b5ebe140318bedda763286e5d2_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/d0d2a208ff1745f781f568fbb613f36f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/6561344848e04a1b949931bf7276e656_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 BMW 330I",
+        "make": "BMW",
+        "year": "2022",
+        "model": "330I",
+        "link": "https://www.copart.com/lot/57444544/2022-bmw-330i-ca-sun-valley",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "57444544",
+            "vin": "3MW5R1J04N8******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/eece7d2cca5e4511b204931dc6613f57_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/eece7d2cca5e4511b204931dc6613f57_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/0a89c0d7053b4c4a880466b0c34ea55d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/2dd68d4033a045d9bab101f209930dc4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/39b8df19125545b4bfc397578b5f979c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/5f50a4bcb88b431aa195b6be46f75f60_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 BMW M550XI",
+        "make": "BMW",
+        "year": "2021",
+        "model": "M550XI",
+        "link": "https://www.copart.com/lot/57444023/2021-bmw-m550xi-on-london",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "57444023",
+            "vin": "WBA13BK07MC******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLUE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "4.4L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0623/1ac3212e22254b0d80bdd6bf0383e305_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0623/1ac3212e22254b0d80bdd6bf0383e305_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0623/61d4bf0fde034103bda51dd7c1defb50_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0623/a1555f3d4e6645289e0f57baabf447d9_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0623/bd39986554db4d92b90483118b9b6ad4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0623/db8272da756c4ac2bdb26860da0a2f4b_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 BMW X7 ALPINA XB7",
+        "make": "BMW",
+        "year": "2022",
+        "model": "X7 ALPINA XB7",
+        "link": "https://www.copart.com/lot/57380154/2022-bmw-x7-alpina-xb7-nj-somerville",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "57380154",
+            "vin": "5UXCX6C11N9******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLUE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "4.4L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/bdb3c4e2299547cd8d2a8e1189a26103_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/bdb3c4e2299547cd8d2a8e1189a26103_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/44d655229822426b977206bc5d0520bf_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/fd9b0dc7a1314856b01e92665eaa6452_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/3eec5afea0c442f09a73b03d7d5401cb_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/cdcb11d0839443a2ab02f736a6d027bb_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 BMW 740 I",
+        "make": "BMW",
+        "year": "2021",
+        "model": "740 I",
+        "link": "https://www.copart.com/lot/57157224/2021-bmw-740-i-ca-van-nuys",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "57157224",
+            "vin": "WBA7T2C08MC******",
+            "primaryDamage": "FRONT END",
+            "transmission": "Yes",
+            "color": "WHITE",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1123/85ea93b79ba64551a7ccce65a29f72bf_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1123/85ea93b79ba64551a7ccce65a29f72bf_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1123/bd7a112ceeb443af87552e2ae9cb488f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1123/ca9341dd77c0480bbc82ef5cd8b205e3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1123/135c663a3d95491cb7b84c6c25227209_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1123/1658bedda994433885bd4f4827e9bd5b_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 BMW M4 COMPETITION",
+        "make": "BMW",
+        "year": "2024",
+        "model": "M4 COMPETITION",
+        "link": "https://www.copart.com/lot/55362064/2024-bmw-m4-competition-ca-van-nuys",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "55362064",
+            "vin": "WBS33BA05RC******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/599edf4e25104df6ac8efa798a2daf96_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/599edf4e25104df6ac8efa798a2daf96_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/00fa1cb9a5244e7aaacfb93f736f7b40_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/42d5fab43ef04db18058d2d1b2abca74_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/37935057d0da405dac926717f724f991_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/8c73dac8ac9942c684618c41374cc726_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 BMW X3 XDRIVE30I",
+        "make": "BMW",
+        "year": "2021",
+        "model": "X3 XDRIVE30I",
+        "link": "https://www.copart.com/lot/54862494/2021-bmw-x3-xdrive30i-in-dyer",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "54862494",
+            "vin": "5UXTY5C09M9******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/a0d1ed5d22314ac49ffe3b4586c842ef_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/a0d1ed5d22314ac49ffe3b4586c842ef_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/3909a6da10ba4886bf166863f222b3d5_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/182970a7665749399d0889f41d74c90c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/0f505821ae40448db5ae71db8001d0e8_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/b137f4da078d4549ba43e02f2903dcb7_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 BMW X5 XDRIVE40I",
+        "make": "BMW",
+        "year": "2020",
+        "model": "X5 XDRIVE40I",
+        "link": "https://www.copart.com/lot/53951324/salvage-2020-bmw-x5-xdrive40i-il-southern-illinois",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "53951324",
+            "vin": "5UXCR6C00LL******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/28e031cfff574bc0a8bd45af2a835405_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/28e031cfff574bc0a8bd45af2a835405_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/86196b3373db4853a6a367701d8a19c1_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/1e345db899e64359abc8160f4bbc1966_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/bbadeab4e11e4238ac69ac424dc00225_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/fad061f668d04ff6818299a6f0fee63f_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 BMW X1 SDRIVE28I",
+        "make": "BMW",
+        "year": "2022",
+        "model": "X1 SDRIVE28I",
+        "link": "https://www.copart.com/lot/53627293/2022-bmw-x1-sdrive28i-hi-honolulu",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "53627293",
+            "vin": "WBXJG7C06N5******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "Front-wheel Drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/285065d8aa7d4bc29fc795e352b03a51_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/285065d8aa7d4bc29fc795e352b03a51_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/2ef28b6d94bd4cef8cfc59188591c9b2_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/391a45637e9a46d98f8a39917cba6fe2_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/41e737425ec7403ba32c036f992294a1_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/161fccc0f78240e88111429c0282b307_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 BMW 330XI",
+        "make": "BMW",
+        "year": "2020",
+        "model": "330XI",
+        "link": "https://www.copart.com/lot/53314324/2020-bmw-330xi-la-baton-rouge",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "53314324",
+            "vin": "3MW5R7J07L8******",
+            "primaryDamage": "MINOR DENT/SCRATCHES",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/b4a57e54380f4757bab22a018662701b_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/b4a57e54380f4757bab22a018662701b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/756b3f9546e542f3a63d1c3d5a9fd401_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/05652858b3e34e7f98fbbc437ac249ef_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/6cd8d3c862da4acea05cc5e50620a832_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/0283db473a06467f8af106672cc8a517_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 BMW M3 COMPETITION",
+        "make": "BMW",
+        "year": "2023",
+        "model": "M3 COMPETITION",
+        "link": "https://www.copart.com/lot/53311004/2023-bmw-m3-competition-ny-long-island",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "53311004",
+            "vin": "WBS43AY01PF******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/07c5df1b3f39489696fb161b947aed28_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/07c5df1b3f39489696fb161b947aed28_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/d45c4cd840014468a909539cfc704607_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/f4059438d38642e386e0c39c62417190_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/ce42a460d0b444fa818ead2b11153bb7_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/1653ee048a7445babe4bbf4b996860cd_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 BMW X4 XDRIVE30I",
+        "make": "BMW",
+        "year": "2023",
+        "model": "X4 XDRIVE30I",
+        "link": "https://www.copart.com/lot/53210444/2023-bmw-x4-xdrive30i-pa-philadelphia",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "53210444",
+            "vin": "5UX33DT05P9******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/c12d8311ff204453b4d6339a78bf837e_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/c12d8311ff204453b4d6339a78bf837e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/9615bb1e6dda47f3aac1ccf883bd3e3a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/3cf8141c47d04331b1778af615b1ee7c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/9cd1bce371c645d59d5c276fe6c79dee_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/949fa2d50c1540aab1c19d9545524bc2_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 BMW X6 M50I",
+        "make": "BMW",
+        "year": "2023",
+        "model": "X6 M50I",
+        "link": "https://www.copart.com/lot/52818133/salvage-2023-bmw-x6-m50i-ca-san-jose",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 5200
+        },
+        "details": {
+            "lotNumber": "52818133",
+            "vin": "5UXCY8C09P9******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLUE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "4.4L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0523/4563fbb65313498dbf0fe0c38dab3e98_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0523/4563fbb65313498dbf0fe0c38dab3e98_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0523/558be9b0c0de49fea282c11f2b4554df_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0523/5d358b83c9c64c91a0c57e29dad4ed06_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0523/209056664c1b48bdbdec3290924d1eca_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0523/a9d911518d8d444798f0b0c4e2ecae1b_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 BMW X1 SDRIVE28I",
+        "make": "BMW",
+        "year": "2021",
+        "model": "X1 SDRIVE28I",
+        "link": "https://www.copart.com/lot/52473453/2021-bmw-x1-sdrive28i-fl-west-palm-beach",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "52473453",
+            "vin": "WBXJG7C03M5******",
+            "primaryDamage": "WATER/FLOOD",
+            "transmission": "AUTOMATIC",
+            "color": "BLUE",
+            "drive": "Front-wheel Drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/9749faabed224afb91367d862e9a232a_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/9749faabed224afb91367d862e9a232a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/65e521bfdeff4b85b4290eb99f450842_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/eb2857ef4add48ce9470b30b32f504b8_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/8f01191bd80044509bcab4b9422d71ac_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/72914a6a50564bb0a6ac22c668369248_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 BMW X3 XDRIVE30I",
+        "make": "BMW",
+        "year": "2020",
+        "model": "X3 XDRIVE30I",
+        "link": "https://www.copart.com/lot/52352514/clean-title-2020-bmw-x3-xdrive30i-on-cookstown",
+        "currentBid": {
+            "currency": "CAD",
+            "amount": 5700
+        },
+        "details": {
+            "lotNumber": "52352514",
+            "vin": "5UXTY5C03LL******",
+            "primaryDamage": "FRONT END",
+            "transmission": "Yes",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0623/8ce5f5a77ba745d5a64efa23c3887e45_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0623/8ce5f5a77ba745d5a64efa23c3887e45_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0623/5e781804d60f451a96fda43af87f43f0_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0623/1973be11299545999db49acc6bceec93_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0623/a96b8861ca8040248f40438fb7f28725_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0623/0f7922e1506143f1a90c42136738c447_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 BMW X3 XDRIVE30I",
+        "make": "BMW",
+        "year": "2023",
+        "model": "X3 XDRIVE30I",
+        "link": "https://www.copart.com/lot/51895874/salvage-2023-bmw-x3-xdrive30i-fl-punta-gorda-south",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "51895874",
+            "vin": "5UX53DP07P9******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLUE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0424/0a28b01982204522b5994010b82520b4_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0424/0a28b01982204522b5994010b82520b4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0424/dedf4fc777144764bd09bcc92ed15f9a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0424/2b4aa6acc12845bc9354f4a63d28b858_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0424/8222a530193c407d9a716cfa62b4d15f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0424/2d34c0e5d5b94806bb15615eb53ed2e9_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 BMW X5 XDRIVE40I",
+        "make": "BMW",
+        "year": "2022",
+        "model": "X5 XDRIVE40I",
+        "link": "https://www.copart.com/lot/51360544/2022-bmw-x5-xdrive40i-tn-memphis",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "51360544",
+            "vin": "5UXCR6C03N9******",
+            "primaryDamage": "VANDALISM",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0424/a99153f086d94b099aa5c0426132370c_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0424/a99153f086d94b099aa5c0426132370c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0424/94229ab2fca247a381d71a3b97b1fa06_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0424/6a07fd8573cd457ebdb206e47b16cf43_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0424/07092ea0e1d7407da344a485a654bd8b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0424/5a9428ff50614caa9902935e6ad1af1d_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 BMW M340I",
+        "make": "BMW",
+        "year": "2021",
+        "model": "M340I",
+        "link": "https://www.copart.com/lot/51268044/salvage-2021-bmw-m340i-ny-newburgh",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "51268044",
+            "vin": "3MW5U7J00M8******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0424/e22b8dd558f3496abe961edee7ffa1d0_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0424/e22b8dd558f3496abe961edee7ffa1d0_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0424/a38e5c4700264384b929eadb0c10f402_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0424/31e33ac3b375459aa1640458a3869e3a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0424/223ad1043b1643398d9296e4a550375c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0424/d41b754733664dbaa1372e7e2898b86b_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 BMW X6 XDRIVE40I",
+        "make": "BMW",
+        "year": "2022",
+        "model": "X6 XDRIVE40I",
+        "link": "https://www.copart.com/lot/51233664/2022-bmw-x6-xdrive40i-ca-van-nuys",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "51233664",
+            "vin": "5UXCY6C04N9******",
+            "primaryDamage": "FRONT END",
+            "transmission": "Yes",
+            "color": "BROWN",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1023/5f5994b2f0c64df89414ff90dd32dea5_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1023/5f5994b2f0c64df89414ff90dd32dea5_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1023/847d611d22954f13adf9e406b190ceff_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1023/4d4125a355cc4d63bdd549c12c8a5e89_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1023/75bf103dada746c0964b54a8d4116382_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1023/c73c8626b7dd4211b33157a7ec29954b_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 BMW X3 XDRIVE30I",
+        "make": "BMW",
+        "year": "2020",
+        "model": "X3 XDRIVE30I",
+        "link": "https://www.copart.com/lot/50689744/2020-bmw-x3-xdrive30i-il-southern-illinois",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "50689744",
+            "vin": "5UXTY5C02L9******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0424/fda19dcfb45c46c4b11d2f8c09afb326_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0424/fda19dcfb45c46c4b11d2f8c09afb326_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0424/7a1bb9fa30824952bb994991c765a97b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0424/ee99708c767947df974c45c6a9cda254_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0424/5d0ec55a1b534cff9bb0d283f41dc81b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0424/7fcd4ef014204aca9b59ca5bcaaaead5_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 BMW X3 XDRIVE30I",
+        "make": "BMW",
+        "year": "2021",
+        "model": "X3 XDRIVE30I",
+        "link": "https://www.copart.com/lot/50313704/salvage-2021-bmw-x3-xdrive30i-il-southern-illinois",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "50313704",
+            "vin": "5UXTY5C0XM9******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0424/8a70ddbb889e44eb89298fe853050cbc_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0424/8a70ddbb889e44eb89298fe853050cbc_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0424/4829ed3a01af43aaa0dc26f13543c504_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0424/a914322471974388a8f0f4cc771d14b5_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0424/05b471c1b8e144ef98c24b709cff0215_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0424/e50e0e8546b7471a87db3f516cbbc00f_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 BMW X7 M50I",
+        "make": "BMW",
+        "year": "2021",
+        "model": "X7 M50I",
+        "link": "https://www.copart.com/lot/50016863/salvage-2021-bmw-x7-m50i-nj-somerville",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "50016863",
+            "vin": "5UXCX6C08M9******",
+            "primaryDamage": "MINOR DENT/SCRATCHES",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "4.4L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0523/15455e3895404b47b87596dacabb0c9c_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0523/15455e3895404b47b87596dacabb0c9c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0523/6229f9730bce406fbec2da7e754ca668_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0523/f1a8c94e2ede4cada930a0cfa176220c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0523/c53a428faf164e6dbc88abaabf734679_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0523/07bc36e4d85c422db0cdec70c06ba4c5_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 BMW X5 XDRIVE40I",
+        "make": "BMW",
+        "year": "2021",
+        "model": "X5 XDRIVE40I",
+        "link": "https://www.copart.com/lot/49910884/salvage-2021-bmw-x5-xdrive40i-mt-helena",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "49910884",
+            "vin": "5UXCR6C01M9******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0424/a7c7586f79714b509bde835d83f815f3_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0424/a7c7586f79714b509bde835d83f815f3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0424/ac666884270049efb2e1150711c0aa88_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0424/01b8468931754156a5b8b401c4dee99f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0424/79f2033775f84c78b9c8645b8a9d6a7f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0424/1e09110db2664c7ebe8ed738bc98b977_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 BMW 228XI",
+        "make": "BMW",
+        "year": "2022",
+        "model": "228XI",
+        "link": "https://www.copart.com/lot/49630575/2022-bmw-228xi-ok-tulsa",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "49630575",
+            "vin": "WBA73AK00N7******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLUE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/28138b27df8140d4b9bdce2008dbbbe7_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/28138b27df8140d4b9bdce2008dbbbe7_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/278fb5ed544542d0b2ac95c6ad4275c3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/27248a05b47d4ff48e70b31807be27ab_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/e40c09d0f9224bd49acd7fae7fc4c585_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/c2417884e40e4e6f9a2d086996debefd_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 BMW X5 XDRIVE40I",
+        "make": "BMW",
+        "year": "2020",
+        "model": "X5 XDRIVE40I",
+        "link": "https://www.copart.com/lot/49543425/clean-title-2020-bmw-x5-xdrive40i-ma-north-boston",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "49543425",
+            "vin": "5UXCR6C05L9******",
+            "primaryDamage": "NORMAL WEAR",
+            "transmission": "AUTOMATIC",
+            "color": "BLUE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/4f11b98eb8b74b5cb542e365f5585e3a_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/4f11b98eb8b74b5cb542e365f5585e3a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/a991347adb4c4bbb9d3eaf4629cef203_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/b94f99ed69d3445598243498859dde39_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/3973a9f4c9d94daebfac45b846fd4bf6_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/effedb41a61a40a1a3215cc2283ac08b_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 BMW 228I",
+        "make": "BMW",
+        "year": "2024",
+        "model": "228I",
+        "link": "https://www.copart.com/lot/49535715/2024-bmw-228i-tx-austin",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "49535715",
+            "vin": "WBA53AK07R7******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/a3de9be7a554454598797a18dc7ec2ba_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/a3de9be7a554454598797a18dc7ec2ba_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/8420d344f62e4afd84c389363483f196_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/70d41e27e83c47abb7a496b25b9ea1ae_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/6f659658866d4ba1ad58b4c2f7fcab35_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/2e9dba3c931a49c0aad9b58f860d08dd_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 BMW X1 XDRIVE28I",
+        "make": "BMW",
+        "year": "2024",
+        "model": "X1 XDRIVE28I",
+        "link": "https://www.copart.com/lot/49535605/clean-title-2024-bmw-x1-xdrive28i-fl-orlando-south",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "49535605",
+            "vin": "WBX73EF08R5******",
+            "primaryDamage": "DAMAGE HISTORY",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/3a4a4eb2b242433a85dbe729aeb049d7_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/3a4a4eb2b242433a85dbe729aeb049d7_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/931dfbec5e9f4989816e7c76b8bc9b65_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/ac55d819992f4a4694ed94d5555568eb_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/34dca2087cf04247a7abce52d516af57_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/0654e248e73b494f8cdb76432aad1431_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 BMW X2 XDRIVE28I",
+        "make": "BMW",
+        "year": "2022",
+        "model": "X2 XDRIVE28I",
+        "link": "https://www.copart.com/lot/49525655/clean-title-2022-bmw-x2-xdrive28i-ma-north-boston",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "49525655",
+            "vin": "WBXYJ1C07N5******",
+            "primaryDamage": "NORMAL WEAR",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/9c82105d077947e2b75449552d39b93d_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/9c82105d077947e2b75449552d39b93d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/7a5bc0e3ed9a4d8798198c9eb7051fd2_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/5049f1d3744947ea98619d47a5c036fb_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/3f2a05006dc8459ab4541932641fb20c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/545251f5ac864cc8a27bccca4477cd3d_thb.jpg"
+        ]
+    },
+    {
+        "title": "2025 BMW X4 M40I",
+        "make": "BMW",
+        "year": "2025",
+        "model": "X4 M40I",
+        "link": "https://www.copart.com/lot/49502645/2025-bmw-x4-m40i-ca-sun-valley",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "49502645",
+            "vin": "5UX43DT09S9******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/e820ade89c49445ab5ccd977cbfabaca_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/e820ade89c49445ab5ccd977cbfabaca_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/9cd3636d071f4b20b063c0b28f899f33_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/7dab5479c0e74df893b41a9828fa2bba_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/3d927f53c4b349ad94b4a85fd38ce92b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/3d30a911627a4e02881159f206acea48_thb.jpg"
+        ]
+    },
+    {
+        "title": "2025 BMW X5 XDRIVE40I",
+        "make": "BMW",
+        "year": "2025",
+        "model": "X5 XDRIVE40I",
+        "link": "https://www.copart.com/lot/49500625/2025-bmw-x5-xdrive40i-md-baltimore",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "49500625",
+            "vin": "5UX23EU05S9******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLUE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/11dfa4bb258a4e1b8f0427edc4559a89_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/11dfa4bb258a4e1b8f0427edc4559a89_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/73cf42040630485ea9581bd89cf49b98_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/03ff1ed8416f44188433cc497f951ea0_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/b94b7c6e9b5142ab8246fbe19949e42c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/7335a4ee4f5e42779eb523801224adc8_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 BMW 330XI",
+        "make": "BMW",
+        "year": "2021",
+        "model": "330XI",
+        "link": "https://www.copart.com/lot/49485275/2021-bmw-330xi-co-denver",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "49485275",
+            "vin": "3MW5R7J06M8******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/ddc06333b7a24db58a18ca267005e35a_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/ddc06333b7a24db58a18ca267005e35a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/c545f05a1c544ceb9ec6c8392b0b0ec2_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/eac142578b4c4d02aee37d3fcbc00c5b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/084152b9dc8b4772bd11a2c981637503_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/10c8ba23e36d46b7909db7568a8a3893_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 BMW X5 M60I",
+        "make": "BMW",
+        "year": "2024",
+        "model": "X5 M60I",
+        "link": "https://www.copart.com/lot/49480305/2024-bmw-x5-m60i-tx-houston",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "49480305",
+            "vin": "5UX33EU03R9******",
+            "primaryDamage": "WATER/FLOOD",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "4.4L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/3a2f0c684be743528877068e7eef194e_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/3a2f0c684be743528877068e7eef194e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/51b0521f75794691a22feb5824b1dff4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/e5f189488cc74e35bc5d94158561795f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/7d0936da676249fc801d02f6aa4554cc_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/64979d620526460295d4c8ff1cfd23c6_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 BMW 330I",
+        "make": "BMW",
+        "year": "2021",
+        "model": "330I",
+        "link": "https://www.copart.com/lot/49475355/2021-bmw-330i-ca-sun-valley",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "49475355",
+            "vin": "3MW5R1J00M8******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/12b8b89fad784c6999fa3720cc852492_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/12b8b89fad784c6999fa3720cc852492_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/c5ffff67ab1b4878b8d24561a97ef5b2_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/e36c8e2f745f4022a1438deb1ba20072_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/21cef0e90a2549a3bcf5f33997933f6a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/f09bf9ddc3c2443ab8355f9dfd13efa4_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 BMW 740 I",
+        "make": "BMW",
+        "year": "2023",
+        "model": "740 I",
+        "link": "https://www.copart.com/lot/49460585/2023-bmw-740-i-fl-tampa-south",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "49460585",
+            "vin": "WBA23EH05PC******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/bd96cdbabf2a47ac95619e8070fd358e_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/bd96cdbabf2a47ac95619e8070fd358e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/d9b3373be16c413a80d150e37063b455_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/4cb305c7c32d43a5a7349ca8921c25bf_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/12d0600cc48741419e5d2d3b66422279_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/cef8eeda17f04a1395b3122c181ed0e9_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 BMW M4 COMPETITION",
+        "make": "BMW",
+        "year": "2023",
+        "model": "M4 COMPETITION",
+        "link": "https://www.copart.com/lot/49420585/2023-bmw-m4-competition-pa-harrisburg",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "49420585",
+            "vin": "WBS33BA0XPC******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/f3ebb15092164d488426881c663e2ec6_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/f3ebb15092164d488426881c663e2ec6_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/d87dcdecc2694b459a99c5fab2b23d7f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/cad35b59529947f5a1109c68a4339ba4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/96847ae6a7e14add98caa51ad81da122_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/ecf150df34c447f3b508f692a41d44cb_thb.jpg"
+        ]
+    },
+    {
+        "title": "2025 BMW X7 XDRIVE40I",
+        "make": "BMW",
+        "year": "2025",
+        "model": "X7 XDRIVE40I",
+        "link": "https://www.copart.com/lot/49387605/2025-bmw-x7-xdrive40i-pa-philadelphia-east-sublot",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "49387605",
+            "vin": "5UX23EM05S9******",
+            "primaryDamage": "REAR END",
+            "transmission": "Yes",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/ce38da46106f42ae8c18c2904547fa9a_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/ce38da46106f42ae8c18c2904547fa9a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/d9c1eb81e41f4b82a7ae9bddf62786d0_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/880ea12329ef41189c67703c573a277f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/f70054bed4134e2b9c6a27eba27b5e55_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/00470fdc24814fea92f6f29417073fb5_thb.jpg"
+        ]
+    }
+]

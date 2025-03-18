@@ -1,0 +1,2752 @@
+[
+    {
+        "title": "2022 PORSCHE BOXSTER S",
+        "make": "PORSCHE",
+        "year": "2022",
+        "model": "BOXSTER S",
+        "link": "https://www.copart.com/lot/89299325/salvage-2022-porsche-boxster-s-fl-miami-south",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 20
+        },
+        "details": {
+            "lotNumber": "89299325",
+            "vin": "WP0CB2A81NS******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "RED",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.5L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/f8aad87940e64282a12f2ef974db8666_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/f8aad87940e64282a12f2ef974db8666_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/82216a062bac4d359bd6b2667aefe385_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ae7c20eee2cc439691047b9a2b736b50_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/4292f584bcbd45b99726be53a24091cb_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/63178056a37246fb8fd3b31a31dba37e_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 PORSCHE CAYENNE E-HYBRID",
+        "make": "PORSCHE",
+        "year": "2022",
+        "model": "CAYENNE E-HYBRID",
+        "link": "https://www.copart.com/lot/89154955/salvage-2022-porsche-cayenne-e-hybrid-ak-anchorage",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 18400
+        },
+        "details": {
+            "lotNumber": "89154955",
+            "vin": "WP1AE2AY9ND******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "CHARCOAL",
+            "drive": "All wheel drive",
+            "fuel": "HYBRID ENGINE",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ad5677613ad64a978df3840df2919ce7_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ad5677613ad64a978df3840df2919ce7_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/9b1f4b34b9994da3a376a0a5cd150a52_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/d712e5faaaca4f689dc6400de8db7fee_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ed6f8cac65d24509a7b5869cd4faca70_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c451bd1f0b694a38bb76b8bf3249947e_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 PORSCHE 911 GT3",
+        "make": "PORSCHE",
+        "year": "2022",
+        "model": "911 GT3",
+        "link": "https://www.copart.com/lot/88943885/salvage-2022-porsche-911-gt3-fl-tampa-south",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 131000
+        },
+        "details": {
+            "lotNumber": "88943885",
+            "vin": "WP0AC2A92NS******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "GREEN",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "4.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/e15f87b2af874fe88082b6c5eabde798_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/e15f87b2af874fe88082b6c5eabde798_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/51030ae44512444ea6d415c103a4c1c5_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b42ffc9e3ceb4b26a03b6d6c276f369c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/53d0b199efb149c395503652b1256cbd_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/31ef4f5b647a47259c3d78b392784d9b_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 PORSCHE PANAMERA GTS",
+        "make": "PORSCHE",
+        "year": "2022",
+        "model": "PANAMERA GTS",
+        "link": "https://www.copart.com/lot/88932985/clean-title-2022-porsche-panamera-gts-tx-houston",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 46500
+        },
+        "details": {
+            "lotNumber": "88932985",
+            "vin": "WP0AG2A74NL******",
+            "primaryDamage": "WATER/FLOOD",
+            "transmission": "AUTOMATIC",
+            "color": "SILVER",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "4.0L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/685289d00e564248adf500629bc41c1a_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/685289d00e564248adf500629bc41c1a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/44a31bc5e2db472084a191aafaf1c230_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/932766da7bf24206a9e998634cb53f81_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/826bf322ccb44438bd219d75a2997897_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/47866e888ab34ca1a54206120da2e374_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 PORSCHE MACAN",
+        "make": "PORSCHE",
+        "year": "2021",
+        "model": "MACAN",
+        "link": "https://www.copart.com/lot/88932355/salvage-2021-porsche-macan-tx-dallas",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 200
+        },
+        "details": {
+            "lotNumber": "88932355",
+            "vin": "WP1AA2A58ML******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c9e0313e76474bb3937acfb4a4826fe0_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c9e0313e76474bb3937acfb4a4826fe0_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/1fe450aa2b064705bc2657b0952789dc_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/0e459bdd259f4c938c4cb9dbbdfcad06_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/849ba13e5e14410b9476b7d248a891e1_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/f0ec73cc31e94477bcc5f311f762e03b_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 PORSCHE MACAN BASE",
+        "make": "PORSCHE",
+        "year": "2023",
+        "model": "MACAN BASE",
+        "link": "https://www.copart.com/lot/88901705/salvage-2023-porsche-macan-base-az-phoenix",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "88901705",
+            "vin": "WP1AA2A50PL******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/0ccf33a4d43f454b9a829df4599b1f9b_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/0ccf33a4d43f454b9a829df4599b1f9b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/502f4e8af5a94158821da92db8ef7e54_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/e5d4be99501a4c28ab644a4a590803ac_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/fad16e8d257a4f02a7ae64e8108d3d9b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/0b98051be7d145f1882b349a03c53124_thb.jpg"
+        ]
+    },
+    {
+        "title": "2025 PORSCHE MACAN BASE",
+        "make": "PORSCHE",
+        "year": "2025",
+        "model": "MACAN BASE",
+        "link": "https://www.copart.com/lot/88865345/salvage-2025-porsche-macan-base-fl-jacksonville-north",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 10000
+        },
+        "details": {
+            "lotNumber": "88865345",
+            "vin": "WP1AA2A50SL******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/40ca976a50bc46edb62e68bfa6c8ae74_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/40ca976a50bc46edb62e68bfa6c8ae74_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b509090e87d6466dade3c31a47480405_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/4bb0adfbdb71429b8247da7ebfb5f1be_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/2c4b46d7a4734ee4be53a4a44ea85b14_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/441eba90c7f84c88b8479fa1aa258a47_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 PORSCHE TAYCAN 4S",
+        "make": "PORSCHE",
+        "year": "2021",
+        "model": "TAYCAN 4S",
+        "link": "https://www.copart.com/lot/88754475/2021-porsche-taycan-4s-fl-tampa-south",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "88754475",
+            "vin": "WP0AB2Y17MS******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "ELECTRIC",
+            "engineType": "Yes"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/84065cfe56754d6b902f249fbaffa5b0_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/84065cfe56754d6b902f249fbaffa5b0_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/720d8a1dbe0d46a0a8a990c20529091a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/3a7b5025367e4989a800df79339ee8ab_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/dd0c6afa7e8a4f17b516a830b2d26b99_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/30b0bba1cbd54c92bd6301caea0e01b1_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 PORSCHE PANAMERA BASE",
+        "make": "PORSCHE",
+        "year": "2024",
+        "model": "PANAMERA BASE",
+        "link": "https://www.copart.com/lot/88739685/salvage-2024-porsche-panamera-base-al-mobile",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 15000
+        },
+        "details": {
+            "lotNumber": "88739685",
+            "vin": "WP0AA2YA8RL******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.9L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/1fcfbdc1059f47599aeaca32fbaf57e8_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/1fcfbdc1059f47599aeaca32fbaf57e8_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a77e22cc3120417788be0ab853c90393_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/d9138545a7f946c384c72d4807e26734_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/94c1a9dd67814e52a91b029c3d289237_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/693843f9079e401e8cc2225c0e9c30dc_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 PORSCHE PANAMERA 4 E-HYBRID",
+        "make": "PORSCHE",
+        "year": "2020",
+        "model": "PANAMERA 4 E-HYBRID",
+        "link": "https://www.copart.com/lot/88738205/salvage-2020-porsche-panamera-4-e-hybrid-ri-exeter",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 9900
+        },
+        "details": {
+            "lotNumber": "88738205",
+            "vin": "WP0AE2A73LL******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "HYBRID ENGINE",
+            "engineType": "2.9L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/369987a68f4c43abb9945d3676fac76c_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/369987a68f4c43abb9945d3676fac76c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/d3af6333f76945049693add81a072609_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/8b096b2be6884366a80784a5f73c3cd7_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/486a7d1f0a2543e09ce23862145e20d1_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a6e120b1a412447d80cbcd314d95ca86_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 PORSCHE BOXSTER BASE",
+        "make": "PORSCHE",
+        "year": "2021",
+        "model": "BOXSTER BASE",
+        "link": "https://www.copart.com/lot/88675115/2021-porsche-boxster-base-tx-houston",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 14200
+        },
+        "details": {
+            "lotNumber": "88675115",
+            "vin": "WP0CA2A80MS******",
+            "primaryDamage": "WATER/FLOOD",
+            "transmission": "AUTOMATIC",
+            "color": "BLUE",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/dff37e6ed001465887ee2ded926070a3_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/dff37e6ed001465887ee2ded926070a3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/737017075e0c4353b55743de3e8b797e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/d73e5c4afebc4c5f9facaec41d67a53b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/bf4f4ee7bcd24859a5f8144639f801be_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/275230fee11d4151bb6f58875505608a_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 PORSCHE CAYENNE",
+        "make": "PORSCHE",
+        "year": "2021",
+        "model": "CAYENNE",
+        "link": "https://www.copart.com/lot/88537005/salvage-2021-porsche-cayenne-mi-wayland",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 200
+        },
+        "details": {
+            "lotNumber": "88537005",
+            "vin": "WP1AA2AY7MD******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/251207dcf446495baac5da2dfbe96409_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/251207dcf446495baac5da2dfbe96409_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/c18c6799847542c29303a32345f44753_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/b6dca0d20b044a34891fea8b0e0e7161_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/b40057c921e543b18fbc3494ee9c7148_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/947fee78005646eb87575372bc1a29cd_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 PORSCHE MACAN",
+        "make": "PORSCHE",
+        "year": "2020",
+        "model": "MACAN",
+        "link": "https://www.copart.com/lot/88422745/salvage-2020-porsche-macan-nj-trenton",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "88422745",
+            "vin": "WP1AA2A55LL******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/4f34dbaedce9457e9e7c570244d68d2d_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/4f34dbaedce9457e9e7c570244d68d2d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ad14af7922c34a4db533b7a8764113f8_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/60e9e28264314933a6a3cc89214d832b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/d04d5d07673c409ca433612b8c1a6a01_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/460b9c5e08df4dd0bfed6f9c8d2dfa3d_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 PORSCHE PANAMERA BASE",
+        "make": "PORSCHE",
+        "year": "2020",
+        "model": "PANAMERA BASE",
+        "link": "https://www.copart.com/lot/88266515/2020-porsche-panamera-base-ct-hartford-springfield",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "88266515",
+            "vin": "WP0AA2A72LL******",
+            "primaryDamage": "MECHANICAL",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/9177de6fe07d45ed9e36f0a8decc5dac_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/9177de6fe07d45ed9e36f0a8decc5dac_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/9d7a8adfd4c04cff92b58c82af0351b5_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/661b5044af884cda9d1f7941f67d0400_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c21d09470a6a4e3abb060fac1f8d5b5e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/cf03e86962de443d86a6841e2c812890_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 PORSCHE TAYCAN",
+        "make": "PORSCHE",
+        "year": "2022",
+        "model": "TAYCAN",
+        "link": "https://www.copart.com/lot/88211535/salvage-2022-porsche-taycan-ny-long-island",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "88211535",
+            "vin": "WP0AA2Y13NS******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLUE",
+            "drive": "Rear-wheel drive",
+            "fuel": "ELECTRIC",
+            "engineType": "Yes"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/7d412326eb3542778640dcedd973fb6f_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/7d412326eb3542778640dcedd973fb6f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/48f91769f9ea44bca95deac06fcff893_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/1064388c2bfe421fb47f32baa9575ab5_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/6752d2fba17445caad9191fd6b51e164_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a69c1b34c9094eb5a06ef8844a68a28b_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 PORSCHE CAYENNE TURBO",
+        "make": "PORSCHE",
+        "year": "2020",
+        "model": "CAYENNE TURBO",
+        "link": "https://www.copart.com/lot/87977605/2020-porsche-cayenne-turbo-nv-reno",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "87977605",
+            "vin": "WP1AF2AY4LD******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "4.0L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c5116b3984c7487f97ee657465f40f5e_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c5116b3984c7487f97ee657465f40f5e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/28ee8a7802ba4df9b133b4ca0671252c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/202109d754fe4edb96a6d84e96aeb66b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/1201e14f5d8e4a71913e9ef3765d7dd1_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/d30dea4cb624409284a0f332b1c94846_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 PORSCHE 911 CARRERA S",
+        "make": "PORSCHE",
+        "year": "2024",
+        "model": "911 CARRERA S",
+        "link": "https://www.copart.com/lot/87745485/2024-porsche-911-carrera-s-tx-houston",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 66000
+        },
+        "details": {
+            "lotNumber": "87745485",
+            "vin": "WP0AB2A98RS******",
+            "primaryDamage": "WATER/FLOOD",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/dcfdb4b8f5b649a9a099e64fd263c580_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/dcfdb4b8f5b649a9a099e64fd263c580_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c78ab0f88c114437aa7a4e9ec8d885a3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/9eab9d94ba374bf788b26d8ec217b5f5_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/799a175a4d50493d8b7632ef105ded12_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/d9fc93538a404727a5de7c09e7deb516_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 PORSCHE CAYENNE BASE",
+        "make": "PORSCHE",
+        "year": "2023",
+        "model": "CAYENNE BASE",
+        "link": "https://www.copart.com/lot/87505515/2023-porsche-cayenne-base-ca-rancho-cucamonga",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "87505515",
+            "vin": "WP1AA2AY2PD******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/71f162e4ead0488f822c571b9789ea57_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/71f162e4ead0488f822c571b9789ea57_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/23213fbcd1784b00b469a5630f8e76bb_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/0c6d041d2c3c4f5fba27a9eb8683e0b2_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/59eb34b4663943c188efba3480f73c18_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/58ab18f9428346b7aa9b94ed506d385b_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 PORSCHE PANAMERA 4S E-HYBRID",
+        "make": "PORSCHE",
+        "year": "2021",
+        "model": "PANAMERA 4S E-HYBRID",
+        "link": "https://www.copart.com/lot/87234704/2021-porsche-panamera-4s-e-hybrid-ny-newburgh",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 12400
+        },
+        "details": {
+            "lotNumber": "87234704",
+            "vin": "WP0AK2A7XML******",
+            "primaryDamage": "WATER/FLOOD",
+            "transmission": "AUTOMATIC",
+            "color": "CHARCOAL",
+            "drive": "All wheel drive",
+            "fuel": "HYBRID ENGINE",
+            "engineType": "2.9L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/c7f71e72d1b44ca098b9697c7485c3cc_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/c7f71e72d1b44ca098b9697c7485c3cc_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/d9e6e38d60be4749b5d276593d65f8ee_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/42244a416b2740c3ad70ba67ef97c48e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/983d960577944a9db3c697122860ea3f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/52121a87f91d4ab6917838bfd4e282e3_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 PORSCHE MACAN",
+        "make": "PORSCHE",
+        "year": "2020",
+        "model": "MACAN",
+        "link": "https://www.copart.com/lot/87228644/2020-porsche-macan-ca-van-nuys",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "87228644",
+            "vin": "WP1AA2A50LL******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLUE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/405bf0ca788c4d198645c3adcf817e6b_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/405bf0ca788c4d198645c3adcf817e6b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a0b832e5e20e4a49949271ffd624c880_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/98b3baa03c0748d482f94c7d7250026d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/858a5b1a6aa7410d8d5430b5e9ba860f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/2afc0e335b894fe78f6411bf3b44a921_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 PORSCHE CAYENNE TURBO S E HYBRID COUPE",
+        "make": "PORSCHE",
+        "year": "2021",
+        "model": "CAYENNE TURBO S E HYBRID COUPE",
+        "link": "https://www.copart.com/lot/86985654/salvage-2021-porsche-cayenne-turbo-s-e-hybrid-coupe-pa-philadelphia",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 175
+        },
+        "details": {
+            "lotNumber": "86985654",
+            "vin": "WP1BH2AY8MD******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "HYBRID ENGINE",
+            "engineType": "4.0L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a5a2df900999419984e9333e563b85d2_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a5a2df900999419984e9333e563b85d2_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/4ded42fb174c4dfe84b71db2f91090ae_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ba7e61e6bbac477cb10b2c18447a58ba_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b2f1ad62893344669edf9c9014a62371_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/0a384bbf3f3a41e5974f949eb08953c1_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 PORSCHE TAYCAN 4S",
+        "make": "PORSCHE",
+        "year": "2020",
+        "model": "TAYCAN 4S",
+        "link": "https://www.copart.com/lot/86907134/2020-porsche-taycan-4s-ga-atlanta-west",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "86907134",
+            "vin": "WP0AB2Y18LS******",
+            "primaryDamage": "MECHANICAL",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "ELECTRIC",
+            "engineType": "Yes"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/b57539807af64c39ba87f510227c5fde_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/b57539807af64c39ba87f510227c5fde_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/b3f2b189ce484bb5bde8d8cd210dd14d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/a374c4056eb94a2f9a236fab6ac61f4f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/e047bfeea20e4863871a204a10f2402f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/316881a21fc24738aec593398a751f63_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 PORSCHE CAYENNE",
+        "make": "PORSCHE",
+        "year": "2022",
+        "model": "CAYENNE",
+        "link": "https://www.copart.com/lot/86853244/salvage-2022-porsche-cayenne-nh-candia",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "86853244",
+            "vin": "WP1AA2AYXND******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/e46a51550e20472697705a91330ecbb1_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/e46a51550e20472697705a91330ecbb1_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/29d2bf3f2d9a4fc087261de730730bbf_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/3dbc50bb3aef431780f0a47b85b669a1_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/66d760949c434caaaba4189e62592538_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/1c1461c3b150495faffe7691f218cedb_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 PORSCHE CAYENNE S",
+        "make": "PORSCHE",
+        "year": "2021",
+        "model": "CAYENNE S",
+        "link": "https://www.copart.com/lot/86746864/clean-title-2021-porsche-cayenne-s-qc-montreal",
+        "currentBid": {
+            "currency": "CAD",
+            "amount": 22200
+        },
+        "details": {
+            "lotNumber": "86746864",
+            "vin": "WP1AB2AY1MD******",
+            "primaryDamage": "VANDALISM",
+            "transmission": "AUTOMATIC",
+            "color": "BLUE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.9L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/7db61ab4ed68407bac0e3275b4d774df_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/7db61ab4ed68407bac0e3275b4d774df_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/a3ce30434ce24d048c7cafa450ea6402_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/625e7cbbf27d487bba00e46f13f1ef87_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/b699dd9cb53a4e4d88722d4bd300bf7f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/fbf7ba0621cd4a49b8a5789eb1398511_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 PORSCHE MACAN BASE",
+        "make": "PORSCHE",
+        "year": "2024",
+        "model": "MACAN BASE",
+        "link": "https://www.copart.com/lot/86657244/2024-porsche-macan-base-nv-las-vegas",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "86657244",
+            "vin": "WP1AA2A57RL******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "CHARCOAL",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c0e7359d09aa4b61bfa9d1154f31cb00_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c0e7359d09aa4b61bfa9d1154f31cb00_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/cb8d0fb76d0d421d8bc2fb67de67765e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/375bb54eb14a4d11969f1c3a97ee4c21_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/d492ac13d4514ab1bc36a5bf1ca4ae1b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/cf02021447484acc81956c3682bb6932_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 PORSCHE MACAN S",
+        "make": "PORSCHE",
+        "year": "2023",
+        "model": "MACAN S",
+        "link": "https://www.copart.com/lot/86141284/2023-porsche-macan-s-ca-sun-valley",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "86141284",
+            "vin": "WP1AG2A52PL******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.9L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/19c67432421848ec9379e7e10c8110d3_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/19c67432421848ec9379e7e10c8110d3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/0756fb9118d341f9bf60d07621e14df9_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/97de32d752974c49972d567f0b492a52_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/eb03433f7b054036a197c7f3d1680fff_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/df9c489a67ed428686b511a8ae7ac139_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 PORSCHE MACAN S",
+        "make": "PORSCHE",
+        "year": "2022",
+        "model": "MACAN S",
+        "link": "https://www.copart.com/lot/85995844/salvage-2022-porsche-macan-s-il-chicago-north",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 300
+        },
+        "details": {
+            "lotNumber": "85995844",
+            "vin": "WP1AG2A5XNL******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/807f18125c634e7fa83d0c9f5dc34fb2_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/807f18125c634e7fa83d0c9f5dc34fb2_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/c76de2763cc34518b688c4a72c414e11_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/3dba724d2ace4dcb83e26853efe0627b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/baa96d7bee1a4ff398bf7a3188b6de09_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/e0e9d6585a364bf886b210531c228071_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 PORSCHE CAYMAN GTS",
+        "make": "PORSCHE",
+        "year": "2024",
+        "model": "CAYMAN GTS",
+        "link": "https://www.copart.com/lot/85912454/salvage-2024-porsche-cayman-gts-tx-houston",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 27500
+        },
+        "details": {
+            "lotNumber": "85912454",
+            "vin": "WP0AD2A89RK******",
+            "primaryDamage": "FRONT END",
+            "transmission": "MANUAL",
+            "color": "GRAY",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "4.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/d73efaf6a43745a0a8aba07448a1f5e8_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/d73efaf6a43745a0a8aba07448a1f5e8_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/bc5745b6bd9b45849f9948f5003ddc9d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/df7b6fbbf1c84202b7689c884874aae6_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/f3b3b24300d241daa01e8f46db8443fa_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/6a1f3b2ca8964b28961617269ed1cecd_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 PORSCHE MACAN BASE",
+        "make": "PORSCHE",
+        "year": "2024",
+        "model": "MACAN BASE",
+        "link": "https://www.copart.com/lot/85819494/salvage-2024-porsche-macan-base-ca-san-bernardino",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 9800
+        },
+        "details": {
+            "lotNumber": "85819494",
+            "vin": "WP1AA2A55RL******",
+            "primaryDamage": "ALL OVER",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/ad09064b63b04dc0b043c6239ab8bdba_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/ad09064b63b04dc0b043c6239ab8bdba_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/c58a4f1ff0a241adbf5d81c54dfe966f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/2f1d3e3b8402433fbe6eac937e1ad659_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/69f40eba9e0f421688053420f9058c99_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/9a546a8dbb6643e6921b062bef856276_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 PORSCHE PANAMERA TURBO S E-HYBRID",
+        "make": "PORSCHE",
+        "year": "2021",
+        "model": "PANAMERA TURBO S E-HYBRID",
+        "link": "https://www.copart.com/lot/85710494/2021-porsche-panamera-turbo-s-e-hybrid-ca-van-nuys",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "85710494",
+            "vin": "WP0AH2A77ML******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "HYBRID ENGINE",
+            "engineType": "4.0L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/b0849ce25c284e3b9396d0da9025b7bc_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/b0849ce25c284e3b9396d0da9025b7bc_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/4cc49d1fbe1c41f0bcec3d3a7256c35d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/b34d5f915209475dbaf7bb1e5388821b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/6a0a164cbc6f470fa5831a7a6020af55_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/afceb86ea76a401a87028fe47ba2cbf4_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 PORSCHE MACAN S",
+        "make": "PORSCHE",
+        "year": "2021",
+        "model": "MACAN S",
+        "link": "https://www.copart.com/lot/85631594/salvage-2021-porsche-macan-s-fl-tampa-south",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 15
+        },
+        "details": {
+            "lotNumber": "85631594",
+            "vin": "WP1AB2A56ML******",
+            "primaryDamage": "WATER/FLOOD",
+            "transmission": "AUTOMATIC",
+            "color": "BLUE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/21036575187d4fe58c6504f29509678d_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/21036575187d4fe58c6504f29509678d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/22bc7c91d193420cb081a7185c99f71e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/c347eea74b614295aeb58dd3b28a7f19_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/77eb73c9f0bd4561a518e904f79e4f95_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/eb950888ac234460ad9f55d80d655223_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 PORSCHE BOXSTER GTS",
+        "make": "PORSCHE",
+        "year": "2023",
+        "model": "BOXSTER GTS",
+        "link": "https://www.copart.com/lot/85533004/2023-porsche-boxster-gts-ca-van-nuys",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "85533004",
+            "vin": "WP0CD2A86PS******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "4.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/58acad7973474fd58de49f4aa5e7d519_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/58acad7973474fd58de49f4aa5e7d519_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/95e495291a99455f8c1b49cc3979619d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/02bad56417e341bca5fb5e33da52b258_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/322a9861b888487bb88e8a53d862a2ab_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/82a30fc952984ce3b3fdf48701289dda_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 PORSCHE 911 TARGA 4S",
+        "make": "PORSCHE",
+        "year": "2023",
+        "model": "911 TARGA 4S",
+        "link": "https://www.copart.com/lot/85494244/salvage-2023-porsche-911-targa-4s-tx-houston",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 45500
+        },
+        "details": {
+            "lotNumber": "85494244",
+            "vin": "WP0BB2A94PS******",
+            "primaryDamage": "WATER/FLOOD",
+            "transmission": "Yes",
+            "color": "RED",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/f6a8562a43f34ce1b0c3cf27537671c7_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/f6a8562a43f34ce1b0c3cf27537671c7_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/ca380d9d1c5547f08afb942ac90cc424_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/3994be09c099430abfaf5b277975a682_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/12f33b2371d8445a9d3a9e07077babb9_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/b204dd58cb7a4a398be6e07c02f377d1_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 PORSCHE 911 CARRERA",
+        "make": "PORSCHE",
+        "year": "2024",
+        "model": "911 CARRERA",
+        "link": "https://www.copart.com/lot/85292944/salvage-2024-porsche-911-carrera-il-chicago-north",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "85292944",
+            "vin": "WP0CA2A90RS******",
+            "primaryDamage": "MECHANICAL",
+            "transmission": "AUTOMATIC",
+            "color": "SILVER",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/e81e144119be4faeb17a56f01f9cd6ca_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/e81e144119be4faeb17a56f01f9cd6ca_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/c253c725384b4cdd8ea09d28d0995cd2_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/b632ac88555d432cb3d26a51c93afee9_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/9b1b1459c46d44649fb4a2a881589e1e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/c990fbe5002d47af9e96e8cef7c19ce2_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 PORSCHE MACAN BASE",
+        "make": "PORSCHE",
+        "year": "2023",
+        "model": "MACAN BASE",
+        "link": "https://www.copart.com/lot/85262204/2023-porsche-macan-base-in-indianapolis",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "85262204",
+            "vin": "WP1AA2A56PL******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLUE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/920d676da4444fb6a1d25ecd034e54b4_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/920d676da4444fb6a1d25ecd034e54b4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/27df680200f24a8298c399f757ed2352_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/87bc7c03fc75466eb591dcc987f877d2_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/2c2ba965e8114a3089ec6a15fc378a09_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/aa79bc975eea4a3993b6714a01757771_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 PORSCHE MACAN BASE",
+        "make": "PORSCHE",
+        "year": "2024",
+        "model": "MACAN BASE",
+        "link": "https://www.copart.com/lot/84712954/2024-porsche-macan-base-fl-tampa-south",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "84712954",
+            "vin": "WP1AA2A59RL******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "BLUE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/65bf96573824445196ac12241d2bff76_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/65bf96573824445196ac12241d2bff76_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/def650d752b243ee886b8b4d2e8f8ee2_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/548e4d797e0d4b4393ae22ce1f5f2126_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/7b643d3623fa490a883c3d0cc76b946e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/fe563185b7ff49a69029919f27d24ec3_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 PORSCHE MACAN BASE",
+        "make": "PORSCHE",
+        "year": "2023",
+        "model": "MACAN BASE",
+        "link": "https://www.copart.com/lot/84636944/2023-porsche-macan-base-pa-philadelphia",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "84636944",
+            "vin": "WP1AA2A50PL******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/afb0ea77c7794065a34bf61d2dd7738d_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/afb0ea77c7794065a34bf61d2dd7738d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/be66843538d946f4a7717343901caced_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/9e11b01574704d0cbf65fc60e131f7cc_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/8972e6a5c3534c6b8770275467687a5b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/b63aa1e52c3b4a72a88fa5f90934dfe2_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 PORSCHE CAYENNE TURBO COUPE",
+        "make": "PORSCHE",
+        "year": "2020",
+        "model": "CAYENNE TURBO COUPE",
+        "link": "https://www.copart.com/lot/84557614/2020-porsche-cayenne-turbo-coupe-ct-hartford",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "84557614",
+            "vin": "WP1BF2AY3LD******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "4.0L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/387b8652ad4148fe94b885e15de3e86d_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/387b8652ad4148fe94b885e15de3e86d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/7f493ae02cc146838b2ee6e00269b051_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/8bd21930154e4ff080697e512ca40548_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/7392f07465e6455d8264f4eaae210ead_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/ea413f33493e42b096f22714cda8eaa2_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 PORSCHE PANAMERA BASE",
+        "make": "PORSCHE",
+        "year": "2023",
+        "model": "PANAMERA BASE",
+        "link": "https://www.copart.com/lot/84332864/salvage-2023-porsche-panamera-base-nv-las-vegas",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "84332864",
+            "vin": "WP0AJ2A73PL******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.9L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/62327a9bb3f440b8b64dd64bd605dcd3_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/62327a9bb3f440b8b64dd64bd605dcd3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/11bb13cb1c32456a848ece5e18276ef5_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/9acf3558c1dd4fbf84f0c3ae0a13d33b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/f0e3b8a58e3c4c16a9322d84543c02f6_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/511660bfe16e44a7ac5d20549c1d9ac5_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 PORSCHE CAYENNE",
+        "make": "PORSCHE",
+        "year": "2024",
+        "model": "CAYENNE",
+        "link": "https://www.copart.com/lot/84116134/salvage-2024-porsche-cayenne-ca-san-jose",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "84116134",
+            "vin": "WP1AA2AY2RD******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLUE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/39c8680265794bcea630e3ddb1e77ba0_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/39c8680265794bcea630e3ddb1e77ba0_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/73698201c3cd4eb29fe8d937e1fa63de_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/ede890e921694f2f968b44c03bc317fe_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/99cea0643ab94f2cacc760487498fa20_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/5a52f1db2bb842b890821e807eb16941_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 PORSCHE TAYCAN 4S",
+        "make": "PORSCHE",
+        "year": "2020",
+        "model": "TAYCAN 4S",
+        "link": "https://www.copart.com/lot/83759324/salvage-2020-porsche-taycan-4s-ny-long-island",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 80
+        },
+        "details": {
+            "lotNumber": "83759324",
+            "vin": "WP0AB2Y14LS******",
+            "primaryDamage": "VANDALISM",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "ELECTRIC",
+            "engineType": "Yes"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/c22b64bef34f4702ad7f74f951829149_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/c22b64bef34f4702ad7f74f951829149_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/92715ba5cc624a34a2879f614cdaed46_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/bcf2adfcf36c444d99416f97534ddc87_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/ef6decaaf1e34279adca4d5267105554_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/67d592c9ac024a439608af9dc7cd9b46_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 PORSCHE MACAN BASE",
+        "make": "PORSCHE",
+        "year": "2023",
+        "model": "MACAN BASE",
+        "link": "https://www.copart.com/lot/83536834/salvage-2023-porsche-macan-base-nv-las-vegas-west",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 150
+        },
+        "details": {
+            "lotNumber": "83536834",
+            "vin": "WP1AA2A54PL******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/e25c0497a1a8485f8aacd93b3d8def02_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/e25c0497a1a8485f8aacd93b3d8def02_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/6c6079f3e55945f4b2f4cf1b5f8720d2_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/3ee50fb2eabb4294b79dcbefb1529611_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/6531d8e241904314bd2a78d627904394_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/a7c80239dc90451ab4f7256d09cc209a_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 PORSCHE 911 CARRERA S",
+        "make": "PORSCHE",
+        "year": "2024",
+        "model": "911 CARRERA S",
+        "link": "https://www.copart.com/lot/83363154/salvage-2024-porsche-911-carrera-s-ri-exeter",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 125
+        },
+        "details": {
+            "lotNumber": "83363154",
+            "vin": "WP0AB2A91RS******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "SILVER",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/040c5cfa3eb9439395469e4985f88869_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/040c5cfa3eb9439395469e4985f88869_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/91fd66070ae44322a168301e0a42862e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/089ff180cd2d40d98f48e1999c150cf9_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/cee521ec9bcd46a795c676b55d93d15c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/1f7f23dfa32b41cea635279ab5ffe2e9_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 PORSCHE MACAN S",
+        "make": "PORSCHE",
+        "year": "2024",
+        "model": "MACAN S",
+        "link": "https://www.copart.com/lot/83147334/2024-porsche-macan-s-ca-van-nuys",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "83147334",
+            "vin": "WP1AG2A50RL******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.9L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/c3e2bde7f36b438cac76e32a9d5aa1a0_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/c3e2bde7f36b438cac76e32a9d5aa1a0_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/f67fda9bce164e97be6d2a735fa08720_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/3cd76d0c8f084a639f3a54c44b14262e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/d2450b6268564418b7d984c013fe83a7_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/c8f131c934fb44aeae1be8d4abb6d680_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 PORSCHE TAYCAN",
+        "make": "PORSCHE",
+        "year": "2024",
+        "model": "TAYCAN",
+        "link": "https://www.copart.com/lot/83117234/2024-porsche-taycan-hi-honolulu",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "83117234",
+            "vin": "WP0AA2Y17RS******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "Rear-wheel drive",
+            "fuel": "ELECTRIC",
+            "engineType": "U"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/d1587755e553469da46cf628fddf2523_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/d1587755e553469da46cf628fddf2523_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/b9d3445a359d42b5a31c9bb8ec6e8a7b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/048082b08ace45bba531846f9776706b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/b2c32d4af588457fb6005906a3975cae_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/777d1cf8512e45b392328900d019d661_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 PORSCHE PANAMERA BASE",
+        "make": "PORSCHE",
+        "year": "2023",
+        "model": "PANAMERA BASE",
+        "link": "https://www.copart.com/lot/82890744/2023-porsche-panamera-base-tx-houston",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "82890744",
+            "vin": "WP0AJ2A75PL******",
+            "primaryDamage": "WATER/FLOOD",
+            "transmission": "Yes",
+            "color": "SILVER",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.9L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/9a36ab3946524b1584ff06bb3e8e3484_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/9a36ab3946524b1584ff06bb3e8e3484_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/59f411b1b50146a38eac0a0dbd69c88e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/8fe9f11729e64ef7826dc4a8b8a7ce19_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/6e5d9e88de4e4bd8aed8249e4f49c23a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/fcf495a3582d4392866138c657e22f05_thb.jpg"
+        ]
+    },
+    {
+        "title": "2025 PORSCHE TAYCAN",
+        "make": "PORSCHE",
+        "year": "2025",
+        "model": "TAYCAN",
+        "link": "https://www.copart.com/lot/82488594/salvage-2025-porsche-taycan-va-fredericksburg",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "82488594",
+            "vin": "WP0AA2Y10SS******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "Rear-wheel drive",
+            "fuel": "ELECTRIC",
+            "engineType": "U"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/c7470d84822d4497b3b79d9d145b414b_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/c7470d84822d4497b3b79d9d145b414b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/9e8b73d65abe4138ac110dc3310d243d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/1e75a08684c841d1b705b8b8b871690d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/350ad44a836a4c6bb4ce0daaedd3fae7_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1224/44b97903fbef46caa33603a657129b60_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 PORSCHE TAYCAN",
+        "make": "PORSCHE",
+        "year": "2022",
+        "model": "TAYCAN",
+        "link": "https://www.copart.com/lot/82279554/salvage-2022-porsche-taycan-ks-kansas-city",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 100
+        },
+        "details": {
+            "lotNumber": "82279554",
+            "vin": "WP0AA2Y10NS******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BROWN",
+            "drive": "Rear-wheel drive",
+            "fuel": "ELECTRIC",
+            "engineType": "Yes"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/029ce11797894053a25af35b8a0846ff_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/029ce11797894053a25af35b8a0846ff_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/2ac55d09782640c98117fee85271b2a6_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/fe853daded8b44638458be55b8079c51_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/ef847ef922e04432be3a408e481e315f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/6968470e6a2841158386eeb1f2a16f0a_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 PORSCHE 911 CARRERA",
+        "make": "PORSCHE",
+        "year": "2022",
+        "model": "911 CARRERA",
+        "link": "https://www.copart.com/lot/82253394/2022-porsche-911-carrera-ca-san-diego",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "82253394",
+            "vin": "WP0CA2A97NS******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/c42ef4e9036b4d3f8ab9da5344975d87_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/c42ef4e9036b4d3f8ab9da5344975d87_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/7a1ab830ed3140a186728adb383b7060_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/faee431b11de4aa0aa271c8d7188e4c1_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/75095981ccb745eeb6fe26d3dba41736_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/5339b3c90e7a442786c2b740f2e77f10_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 PORSCHE MACAN S",
+        "make": "PORSCHE",
+        "year": "2022",
+        "model": "MACAN S",
+        "link": "https://www.copart.com/lot/81981454/salvage-2022-porsche-macan-s-nj-trenton",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "81981454",
+            "vin": "WP1AG2A51NL******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/ed14ea3cc31f4bd0aac31f94b7b5b5bd_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/ed14ea3cc31f4bd0aac31f94b7b5b5bd_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/6561f1082f6246e0b2ad2759635402b3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/b338005384574357a55bb32f62c640c4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/ae86679b8f7644fca1bf530efeda5803_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/446a749e5c8d4541988437aa37c02a66_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 PORSCHE PANAMERA BASE",
+        "make": "PORSCHE",
+        "year": "2022",
+        "model": "PANAMERA BASE",
+        "link": "https://www.copart.com/lot/81958053/clean-title-2022-porsche-panamera-base-tx-dallas-south",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 225
+        },
+        "details": {
+            "lotNumber": "81958053",
+            "vin": "WP0AJ2A73NL******",
+            "primaryDamage": "NORMAL WEAR",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.9L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1223/a2526b89f9cf411292175622148437ac_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1223/a2526b89f9cf411292175622148437ac_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1223/59bd0ada98594ea7bed6c8f73bd44752_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1223/893881ebc74c4909ab196ec4ea56dbd1_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1223/ab8ec82b518347c6ab0026e08e07289a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1223/4ee8525687c645a99e928c24b5723f5e_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 PORSCHE MACAN S",
+        "make": "PORSCHE",
+        "year": "2024",
+        "model": "MACAN S",
+        "link": "https://www.copart.com/lot/81951394/salvage-2024-porsche-macan-s-ca-van-nuys",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 60
+        },
+        "details": {
+            "lotNumber": "81951394",
+            "vin": "WP1AG2A54RL******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "SILVER",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.9L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/043f3c9204b74b3d8f65b26212509fa3_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/043f3c9204b74b3d8f65b26212509fa3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/dbbf83dbc9fc408b90fa4fa2a43670a4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/5a886f2f06f646c5b6f9608de5d9d58d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/f6c01b25d74b4815a19f6d07f137981f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/7205fe97fa4744fe85afbd725b5f5b98_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 PORSCHE PANAMERA 4S E-HYBRID",
+        "make": "PORSCHE",
+        "year": "2023",
+        "model": "PANAMERA 4S E-HYBRID",
+        "link": "https://www.copart.com/lot/81859984/2023-porsche-panamera-4s-e-hybrid-tx-north-austin",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "81859984",
+            "vin": "WP0AK2A73PL******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "HYBRID ENGINE",
+            "engineType": "2.9L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/ea88c7393a1e4518a654dfe404e47e40_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/ea88c7393a1e4518a654dfe404e47e40_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/1786c00f4bbc4f6b87262e5f06ab4bfa_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/eb687b14daca4e2fba80e5143872d21d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/5eb83f6e391b42288fbf55d4eec46037_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/b21078aaf76b4bdfb83edc34cf2add44_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 PORSCHE MACAN S",
+        "make": "PORSCHE",
+        "year": "2024",
+        "model": "MACAN S",
+        "link": "https://www.copart.com/lot/81633984/salvage-2024-porsche-macan-s-ca-van-nuys",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 25500
+        },
+        "details": {
+            "lotNumber": "81633984",
+            "vin": "WP1AG2A51RL******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.9L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/74eefc538f9d4536bc282823ef1bc712_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/74eefc538f9d4536bc282823ef1bc712_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/e3fb0f4cfc0744f2a4daf531936c96da_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/31f2722a7b904715b9a1fcf4a5677440_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/2ef132475cc743b8b5851930ada376e2_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/e5f599510005460f9473cafe0cdef123_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 PORSCHE PANAMERA BASE",
+        "make": "PORSCHE",
+        "year": "2023",
+        "model": "PANAMERA BASE",
+        "link": "https://www.copart.com/lot/81560454/2023-porsche-panamera-base-ca-sun-valley",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "81560454",
+            "vin": "WP0AJ2A72PL******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.9L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/41d0f4f0fb654615a58301e97a44a9d8_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/41d0f4f0fb654615a58301e97a44a9d8_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/8c5a15be20584f93b9fe2e7f5f25e944_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/03a9946681bb4324b9613a5aa37e646e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/67827243ff8745518d777162011e41c1_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/b86ad6f4e5b0426fa3aabf0cdc4fea9f_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 PORSCHE 911 CARRERA",
+        "make": "PORSCHE",
+        "year": "2024",
+        "model": "911 CARRERA",
+        "link": "https://www.copart.com/lot/81538594/salvage-2024-porsche-911-carrera-tx-houston",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 46500
+        },
+        "details": {
+            "lotNumber": "81538594",
+            "vin": "WP0AA2A96RS******",
+            "primaryDamage": "FRONT END",
+            "transmission": "MANUAL",
+            "color": "SILVER",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/edc606d0378747f48784b58964916657_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/edc606d0378747f48784b58964916657_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/2f053fd544114853bb671368bbd2e066_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/356040618b1a47d09d2fe2d30f2ab2c4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/203fa2b4b81448d7b5bcddf847d6b350_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/c8f21ec507044198953c80aa8aeab946_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 PORSCHE TAYCAN 4S",
+        "make": "PORSCHE",
+        "year": "2021",
+        "model": "TAYCAN 4S",
+        "link": "https://www.copart.com/lot/81328264/2021-porsche-taycan-4s-ca-sun-valley",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "81328264",
+            "vin": "WP0AB2Y16MS******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "SILVER",
+            "drive": "All wheel drive",
+            "fuel": "ELECTRIC",
+            "engineType": "Yes"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/58001f1e4143484a9c11278aa94953ae_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/58001f1e4143484a9c11278aa94953ae_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/3f8aafd1760e4fc3946de1bf8df6f6dc_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/b060ee0e719e40caa72b5c2421026094_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/6b8868e561a2421b8e4763dbc19de616_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/6c653e7f7a294738bd9e1e09c82de74b_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 PORSCHE TAYCAN 4S",
+        "make": "PORSCHE",
+        "year": "2020",
+        "model": "TAYCAN 4S",
+        "link": "https://www.copart.com/lot/81319214/2020-porsche-taycan-4s-ca-san-diego",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "81319214",
+            "vin": "WP0AB2Y19LS******",
+            "primaryDamage": "MECHANICAL",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "ELECTRIC",
+            "engineType": "Yes"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/9984950e070a4034a2a941cf949e8317_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/9984950e070a4034a2a941cf949e8317_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/f808c6b54e974439bf32449627072896_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/048f790ddc294d9aa0182a9e848cf543_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/9892e2bb9c6841159656e5e6d0837988_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/d09d7995f62c409ea86298171bbe51a8_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 PORSCHE PANAMERA BASE",
+        "make": "PORSCHE",
+        "year": "2022",
+        "model": "PANAMERA BASE",
+        "link": "https://www.copart.com/lot/81252614/2022-porsche-panamera-base-fl-punta-gorda-south",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "81252614",
+            "vin": "WP0AJ2A71NL******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.9L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/2aa66d9057784fb6b49b61d780959c56_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/2aa66d9057784fb6b49b61d780959c56_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/c47d1f9b712041b6a48324b3dc685430_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/c5056eda6fac470ab1b088c3cebb1bef_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/fa0b0a6494af43968227f15559a1f75b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/292151bcf8d846e4b02f71ec576260fc_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 PORSCHE MACAN BASE",
+        "make": "PORSCHE",
+        "year": "2023",
+        "model": "MACAN BASE",
+        "link": "https://www.copart.com/lot/80419614/clean-title-2023-porsche-macan-base-sc-spartanburg",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 12700
+        },
+        "details": {
+            "lotNumber": "80419614",
+            "vin": "WP1AA2A51PL******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/da514275a84b4e698310f12ebd1fdd54_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/da514275a84b4e698310f12ebd1fdd54_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/e0e753dfe873426881f3756506faad75_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/0536172645a74701a0c983c56767b253_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/9e8c9ab597e9464398d3636a8cf8d5e0_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/532c95d096954207b40d526ddfcac993_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 PORSCHE CAYENNE COUPE",
+        "make": "PORSCHE",
+        "year": "2022",
+        "model": "CAYENNE COUPE",
+        "link": "https://www.copart.com/lot/79840394/salvage-2022-porsche-cayenne-coupe-ga-macon",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 125
+        },
+        "details": {
+            "lotNumber": "79840394",
+            "vin": "WP1BA2AYXND******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/96654140d5504a638e480244ab6dd936_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/96654140d5504a638e480244ab6dd936_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/9587de23aadf4a0e9f0de7dbd48c4774_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/22e117471cee4f74ae96a6b74ae1818b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/5aadf3838f034ddb88437a6caf1b494b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/0126468e611a4fc4bd6c2f2ee91ba36e_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 PORSCHE MACAN S",
+        "make": "PORSCHE",
+        "year": "2023",
+        "model": "MACAN S",
+        "link": "https://www.copart.com/lot/79294024/2023-porsche-macan-s-pa-pittsburgh-west",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "79294024",
+            "vin": "WP1AG2A54PL******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.9L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/be6601b1b9fd4470bad2bf02af95c49d_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/be6601b1b9fd4470bad2bf02af95c49d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/81f8b97d89b944debe29b104d24de5b4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/887f9d27b4154d56ac3e97009c6bd746_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/4164f26ba5bf4c3d9f24f51faa713ef1_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/f379d493536443f9a10caa2336f3e772_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 PORSCHE CAYENNE COUPE",
+        "make": "PORSCHE",
+        "year": "2024",
+        "model": "CAYENNE COUPE",
+        "link": "https://www.copart.com/lot/79049664/clean-title-2024-porsche-cayenne-coupe-mi-wayland",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "79049664",
+            "vin": "WP1BA2AY9RD******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/5afbc515ad9146aca828e396f337e654_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/5afbc515ad9146aca828e396f337e654_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/f688c4c620774fefad8230cf347cf075_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/5f68bf24070a46c0a1c34ba20f05afc6_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/556341d09091471491c9d5e13d78bc42_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/1b910c2cc6b34b57988b6bd018eb77de_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 PORSCHE TAYCAN",
+        "make": "PORSCHE",
+        "year": "2023",
+        "model": "TAYCAN",
+        "link": "https://www.copart.com/lot/78742694/2023-porsche-taycan-nj-trenton",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "78742694",
+            "vin": "WP0AA2Y12PS******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "Rear-wheel drive",
+            "fuel": "ELECTRIC",
+            "engineType": "U"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/13ab2f36703a40d3a6b17c2daabd4628_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/13ab2f36703a40d3a6b17c2daabd4628_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/c28a60b94db34426bd2b1b1d33371715_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/a2d591a7968e4fe0a2239483c7054425_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/70ffa6258c28419db05a636843f84bd5_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/62f35926109942559481ac3cb5719a0e_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 PORSCHE CAYENNE S",
+        "make": "PORSCHE",
+        "year": "2020",
+        "model": "CAYENNE S",
+        "link": "https://www.copart.com/lot/78529964/salvage-2020-porsche-cayenne-s-va-hampton",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 2000
+        },
+        "details": {
+            "lotNumber": "78529964",
+            "vin": "WP1AB2AY3LD******",
+            "primaryDamage": "ALL OVER",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.9L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/2835b40a1f2e43b7861b52e20fad9ee5_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/2835b40a1f2e43b7861b52e20fad9ee5_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/9db026c24a364d37b7a35253799376f6_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/088f696019ea4d95817e087be65e514b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/02365855095f4f80963cc1cac0fd1f7b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/3f86991a06684a13b3272ad112d16fee_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 PORSCHE MACAN",
+        "make": "PORSCHE",
+        "year": "2020",
+        "model": "MACAN",
+        "link": "https://www.copart.com/lot/77945094/2020-porsche-macan-fl-punta-gorda-south",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "77945094",
+            "vin": "WP1AA2A57LL******",
+            "primaryDamage": "WATER/FLOOD",
+            "transmission": "AUTOMATIC",
+            "color": "BLUE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/b3b589cd6b214b9eb981b6d2c17f62b8_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/b3b589cd6b214b9eb981b6d2c17f62b8_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/70f936e3e5fa4272b46c409658fc2a9a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/bb5365a0683142248bdec654b3d626b3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/73ea4eda4de54eb7b01ee9fa65dd9631_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/bb42818b9f604c90be001c8c12198f71_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 PORSCHE MACAN",
+        "make": "PORSCHE",
+        "year": "2022",
+        "model": "MACAN",
+        "link": "https://www.copart.com/lot/77086564/clean-title-2022-porsche-macan-al-tanner",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 15900
+        },
+        "details": {
+            "lotNumber": "77086564",
+            "vin": "WP1AA2A58NL******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/1b20c8ed20354278a8c5b086f1b0ad2a_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/1b20c8ed20354278a8c5b086f1b0ad2a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/9cde32ad28674c6aabebad2354cee612_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/a8ea4fa52726484c83fa2d5eb6fe60ba_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/0bef0177d69b414ab85232ccc985553b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/f4e7eca9fd0a4fb78c3f380e9115b0e0_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 PORSCHE 911 CARRERA S",
+        "make": "PORSCHE",
+        "year": "2020",
+        "model": "911 CARRERA S",
+        "link": "https://www.copart.com/lot/76795724/2020-porsche-911-carrera-s-ri-exeter",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "76795724",
+            "vin": "WP0CB2A99LS******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/5279dd7babfc4b68b40b7b7d1e6abd7d_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/5279dd7babfc4b68b40b7b7d1e6abd7d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/ce824038d37e474db385999c0bf2b4fd_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/a8bb135ee7104e229faca4bdc49bce27_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/51504b125e294c2a8b158ca46678d2ae_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/5cdfe14860e8436daa35b3c8180ad0b5_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 PORSCHE MACAN BASE",
+        "make": "PORSCHE",
+        "year": "2023",
+        "model": "MACAN BASE",
+        "link": "https://www.copart.com/lot/76697554/2023-porsche-macan-base-fl-punta-gorda-south",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "76697554",
+            "vin": "WP1AA2A50PL******",
+            "primaryDamage": "WATER/FLOOD",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/52e659136350410baed7bee02cb2f848_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/52e659136350410baed7bee02cb2f848_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/34ec82f67ef0460780f61d6e49456618_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/5fdd5a72702d483a96acae7c54865a45_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/24caf78e8f1d4a9591aefbf061a0b30c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/c58b29a9d5c44842acdc619c604fdf81_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 PORSCHE PANAMERA BASE",
+        "make": "PORSCHE",
+        "year": "2023",
+        "model": "PANAMERA BASE",
+        "link": "https://www.copart.com/lot/75400414/clean-title-2023-porsche-panamera-base-tx-dallas",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "75400414",
+            "vin": "WP0AJ2A72PL******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.9L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/35d5d49e64e4438a8c60c2f9a63f9493_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/35d5d49e64e4438a8c60c2f9a63f9493_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/fff48da90b2d4c9db32bdf3d46e95d8c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/e74f57fa9f7d4c83822671bf118fe16a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/5e775291ed654fbe84ca7cbdd8e8d126_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/1ecc042253344af783eb46c002064ffc_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 PORSCHE CAYENNE TURBO",
+        "make": "PORSCHE",
+        "year": "2023",
+        "model": "CAYENNE TURBO",
+        "link": "https://www.copart.com/lot/75250654/2023-porsche-cayenne-turbo-tx-houston",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "75250654",
+            "vin": "WP1AF2AY7PD******",
+            "primaryDamage": "WATER/FLOOD",
+            "transmission": "N/A",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "4.0L 8"
+        },
+        "imageUrl": "N/A",
+        "thumbnails": []
+    },
+    {
+        "title": "2021 PORSCHE TAYCAN",
+        "make": "PORSCHE",
+        "year": "2021",
+        "model": "TAYCAN",
+        "link": "https://www.copart.com/lot/75006344/clean-title-2021-porsche-taycan-ga-atlanta-west",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "75006344",
+            "vin": "WP0AA2Y19MS******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "Rear-wheel drive",
+            "fuel": "ELECTRIC",
+            "engineType": "Yes"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/ddb4a912c411420293c0d6c644b095aa_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/ddb4a912c411420293c0d6c644b095aa_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/ba0c132b499a4a2ca1aa327005d3409f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/fc973363326b4d15a6540819b4893670_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/b9236ded990d4d28b42953df8449ea56_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/17171f626731452ebbcf4c1565eb1815_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 PORSCHE CAYENNE",
+        "make": "PORSCHE",
+        "year": "2022",
+        "model": "CAYENNE",
+        "link": "https://www.copart.com/lot/74508614/2022-porsche-cayenne-fl-ft-pierce",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 4450
+        },
+        "details": {
+            "lotNumber": "74508614",
+            "vin": "WP1AA2AY7ND******",
+            "primaryDamage": "WATER/FLOOD",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/f232b6a082db4fa8b88470c4c728aa5c_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/f232b6a082db4fa8b88470c4c728aa5c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/416c979c2f1b4c468cb51abbb95915fc_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/da8cb905408b41e6bd3a7f72a51dbbe2_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/edc34d70a9f5403aaa5f9a0f218c8b26_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/9970a65825644bf8a44954889b08d75d_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 PORSCHE CAYENNE TURBO GT COUPE",
+        "make": "PORSCHE",
+        "year": "2022",
+        "model": "CAYENNE TURBO GT COUPE",
+        "link": "https://www.copart.com/lot/74494584/2022-porsche-cayenne-turbo-gt-coupe-fl-tampa-south",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "74494584",
+            "vin": "WP1BK2AY5ND******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "GREEN",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "4.0L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/5f60baa039524025b6051e8054b88576_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/5f60baa039524025b6051e8054b88576_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/331985d83eb74835bc1eda48952c2f3b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/82cf1bd7cfb449b1bb73ab765692126f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/91bf11cc3c6f4ab89f22970818e08865_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/7791dc892a98493e896d0a0c95b6524e_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 PORSCHE MACAN BASE",
+        "make": "PORSCHE",
+        "year": "2023",
+        "model": "MACAN BASE",
+        "link": "https://www.copart.com/lot/73757864/2023-porsche-macan-base-ca-san-diego",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "73757864",
+            "vin": "WP1AA2A57PL******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/bfd8aa30763f4875af133b57b2363a7f_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/bfd8aa30763f4875af133b57b2363a7f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/05e274234d7f402cb91a0526be592701_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/9b1db5921336400abbbb269b0d62be94_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/d34a3150f149404ab618f1af77d4a7fe_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/e7c1e002d07a44398cffbee4aba94c09_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 PORSCHE 911 TURBO",
+        "make": "PORSCHE",
+        "year": "2021",
+        "model": "911 TURBO",
+        "link": "https://www.copart.com/lot/73601514/salvage-2021-porsche-911-turbo-tx-houston",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 38250
+        },
+        "details": {
+            "lotNumber": "73601514",
+            "vin": "WP0CD2A95MS******",
+            "primaryDamage": "ALL OVER",
+            "transmission": "AUTOMATIC",
+            "color": "SILVER",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.8L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/2eb4664927c94bc9b813ea36bcdbac67_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/2eb4664927c94bc9b813ea36bcdbac67_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/16f851123bc04d0691b1ce6e98fed323_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/145e09228cf346318576d9ab0d6fab91_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/5eaa6ef04d774a469c3784a26e8adc77_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/d5e3f9248e98447c9cc235347b85206c_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 PORSCHE MACAN S",
+        "make": "PORSCHE",
+        "year": "2022",
+        "model": "MACAN S",
+        "link": "https://www.copart.com/lot/73284664/clean-title-2022-porsche-macan-s-ma-north-boston",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 2850
+        },
+        "details": {
+            "lotNumber": "73284664",
+            "vin": "WP1AG2A51NL******",
+            "primaryDamage": "FRONT END",
+            "transmission": "N/A",
+            "color": "SILVER",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/305d3b473467468db3ec68da4c398acb_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/305d3b473467468db3ec68da4c398acb_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/aaf2818df0a4406fb9837fd366d83bd1_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/6b0ea7cca3f34daea0478a260bfc0be7_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/31c02e538a154650a37c110d2aeb22db_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/0b1cddfae721459fb1baac3913a2f14c_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 PORSCHE TAYCAN",
+        "make": "PORSCHE",
+        "year": "2023",
+        "model": "TAYCAN",
+        "link": "https://www.copart.com/lot/72990774/2023-porsche-taycan-nj-trenton",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "72990774",
+            "vin": "WP0AA2Y1XPS******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "BLUE",
+            "drive": "Rear-wheel drive",
+            "fuel": "ELECTRIC",
+            "engineType": "U"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/860541156e944f548f3cf1db45613a4d_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/860541156e944f548f3cf1db45613a4d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/40132c08efbb4334a0d45f773e0c3dd6_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/d7fbf461f6a84f758a79343d5a3a8c65_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/d710f0ea478f4f13ad7f1a230a202fd6_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1024/a043914e3f804a899c5165a4d562475b_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 PORSCHE CAYENNE",
+        "make": "PORSCHE",
+        "year": "2021",
+        "model": "CAYENNE",
+        "link": "https://www.copart.com/lot/72819334/salvage-2021-porsche-cayenne-ny-long-island",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 100
+        },
+        "details": {
+            "lotNumber": "72819334",
+            "vin": "WP1AA2AY2MD******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/e8494450741d4f41a319ed0786b3ad76_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/e8494450741d4f41a319ed0786b3ad76_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/660c7beac3a943e5949fcadfab5e6c41_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/80b3774ba3734b91a073beb1068ef229_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/7c9c2ffc81464b2389bddec6196cabdf_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/442cb7e073314e799831a6a0205ebf8a_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 PORSCHE MACAN S",
+        "make": "PORSCHE",
+        "year": "2020",
+        "model": "MACAN S",
+        "link": "https://www.copart.com/lot/72412134/salvage-2020-porsche-macan-s-nj-trenton",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 275
+        },
+        "details": {
+            "lotNumber": "72412134",
+            "vin": "WP1AB2A53LL******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/8c8e5c8c8bf44ef783e37babc49e83fe_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/8c8e5c8c8bf44ef783e37babc49e83fe_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/8befb41d675a4d83968b3866b8c32917_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/4997708d93f64a409405378d2c65258e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/8c9eec46b8dc45d09726286be25bb9b9_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/6e0afcfd55834c68b74c0bc09620a5f6_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 PORSCHE MACAN",
+        "make": "PORSCHE",
+        "year": "2021",
+        "model": "MACAN",
+        "link": "https://www.copart.com/lot/71638944/2021-porsche-macan-tn-nashville",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "71638944",
+            "vin": "WP1AA2A55ML******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "RED",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/c074a27f645742efb2cbf5d2788663ec_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/c074a27f645742efb2cbf5d2788663ec_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/511be7c036dd4e23ad1f0c4c8f3622a5_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/65966594b6114fb7bc0260e68d383c7b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/e83559ace14240cfaf7825b3e302c488_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/e6642a133f644babb898da7f277427dc_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 PORSCHE MACAN",
+        "make": "PORSCHE",
+        "year": "2022",
+        "model": "MACAN",
+        "link": "https://www.copart.com/lot/70271044/2022-porsche-macan-al-montgomery",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "70271044",
+            "vin": "WP1AA2A59NL******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/92be69fb76324b578753f7d79cdca300_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/92be69fb76324b578753f7d79cdca300_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/f079e44459bc49168c0f08e0084c35f8_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/a2bcfc1d48d943029e358e1db6ea73c4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/1cfd4ceeec024aed825cc58fd2e3071f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0924/268c94e69d784d27a5c616c32d196eb6_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 PORSCHE 911 CARRERA",
+        "make": "PORSCHE",
+        "year": "2024",
+        "model": "911 CARRERA",
+        "link": "https://www.copart.com/lot/68636984/2024-porsche-911-carrera-ca-van-nuys",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "68636984",
+            "vin": "WP0AA2A9XRS******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/79955b9252a347a79abf8d7039406904_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/79955b9252a347a79abf8d7039406904_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/09b6feb5e09e42f2a44e603716c28fc2_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/95228c73da084c35998bc1ebe0436fea_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/f2fb27f4ea944b4f9116dee6727b4ca9_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/b5650d4f2cbc4da9825297f2f65b1d29_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 PORSCHE MACAN",
+        "make": "PORSCHE",
+        "year": "2021",
+        "model": "MACAN",
+        "link": "https://www.copart.com/lot/67490254/2021-porsche-macan-tx-ft-worth",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "67490254",
+            "vin": "WP1AA2A58ML******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/7b632bc2d60a46f7827223a0573fe8eb_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/7b632bc2d60a46f7827223a0573fe8eb_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/86b7a8d6a1704487b9b5c94675f734be_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/88eb639664784194862aa4c772845406_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/db808191d7c54ae4af0b32ea688fb642_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/6710c188ce224a038a0e50505321fa54_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 PORSCHE 911 CARRERA",
+        "make": "PORSCHE",
+        "year": "2024",
+        "model": "911 CARRERA",
+        "link": "https://www.copart.com/lot/65905594/salvage-2024-porsche-911-carrera-ct-hartford",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 475
+        },
+        "details": {
+            "lotNumber": "65905594",
+            "vin": "WP0CA2A93RS******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "SILVER",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/91c7e6d5b9a640709abd15971f85a46a_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/91c7e6d5b9a640709abd15971f85a46a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/2e4be64b2d6e4eeb9f4d13b29a5dd9bc_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/ab982af310fc4bf093b020a1c4e3c425_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/d424edcd46684e4d93dbd43c24aa2916_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/fb888cf720fa46cca7da1f0e49cbab3e_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 PORSCHE MACAN S",
+        "make": "PORSCHE",
+        "year": "2020",
+        "model": "MACAN S",
+        "link": "https://www.copart.com/lot/65778834/2020-porsche-macan-s-va-hampton",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "65778834",
+            "vin": "WP1AB2A55LL******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "SILVER",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/4fe1d0bd94964cd1a67f49de4408932b_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/4fe1d0bd94964cd1a67f49de4408932b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/7abb665bb0a34fbc82f14efb4f6eddc7_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/eabe71ba1bf6439b98bca333c902195b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/9325233205224180beb9a65aea126e55_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0824/05b5abf405d8495fbc08942d7fcfe206_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 PORSCHE 911 GT3",
+        "make": "PORSCHE",
+        "year": "2022",
+        "model": "911 GT3",
+        "link": "https://www.copart.com/lot/65009234/salvage-2022-porsche-911-gt3-ca-sun-valley",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 35500
+        },
+        "details": {
+            "lotNumber": "65009234",
+            "vin": "WP0AC2A94NS******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLUE",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "4.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/91a3d10e619449569582a5144f42032e_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/91a3d10e619449569582a5144f42032e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/4ad4d741196a46c59ddbc91563b6a990_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/7ec0697b8e564fb5a71cfe931b4bd01c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/c8157a65e68c4c56860f4380f4b3906b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0724/400c188db9004e1399e5b8c06f31ee76_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 PORSCHE CAYENNE COUPE",
+        "make": "PORSCHE",
+        "year": "2022",
+        "model": "CAYENNE COUPE",
+        "link": "https://www.copart.com/lot/59605643/2022-porsche-cayenne-coupe-ca-van-nuys",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "59605643",
+            "vin": "WP1BA2AY1ND******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0723/ffd49d09a08444b4806296fa933f5c9a_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0723/ffd49d09a08444b4806296fa933f5c9a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0723/9db927991bb040c395ebd1749608a5ef_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0723/8af3143cde4940dbaddd613d4735d525_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0723/09ff7842bd004c9bbff2d61403dfeaf1_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0723/ce7ea48530f34b4dbba589ae9d77f509_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 PORSCHE CAYENNE GTS",
+        "make": "PORSCHE",
+        "year": "2021",
+        "model": "CAYENNE GTS",
+        "link": "https://www.copart.com/lot/59215004/salvage-2021-porsche-cayenne-gts-mo-st-louis",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 200
+        },
+        "details": {
+            "lotNumber": "59215004",
+            "vin": "WP1AG2AY6MD******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "4.0L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/61638bb6860d4779bc8cfa18f97f3b33_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/61638bb6860d4779bc8cfa18f97f3b33_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/d6645b48270745ef9df95ce682c6aef7_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/eed5a275296f40d7a8f73c9bb29b1f5e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/ad45975e639c44199c942a6b5be00511_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/b762a615ec984844a1ff9cccedda1172_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 PORSCHE CAYENNE",
+        "make": "PORSCHE",
+        "year": "2020",
+        "model": "CAYENNE",
+        "link": "https://www.copart.com/lot/58858824/2020-porsche-cayenne-tn-knoxville",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "58858824",
+            "vin": "WP1AA2AY7LD******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "SILVER",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/b468a3b19d074ff39af1d8553e536a89_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/b468a3b19d074ff39af1d8553e536a89_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/25c7dbad078340ec8b85523fc9391bbb_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/dec7ba87f9004f37ba4977fa4882d1ad_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/ac48d00fba804d7b89d5dbb5122ab5b6_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0624/dad5723efb5c4f3c86d1957cc84ca8ae_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 PORSCHE CAYENNE COUPE",
+        "make": "PORSCHE",
+        "year": "2021",
+        "model": "CAYENNE COUPE",
+        "link": "https://www.copart.com/lot/55646094/2021-porsche-cayenne-coupe-ca-van-nuys",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "55646094",
+            "vin": "WP1BA2AY3MD******",
+            "primaryDamage": "UNDERCARRIAGE",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/fe117322ce9c4cac946fe23c30d3cfba_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/fe117322ce9c4cac946fe23c30d3cfba_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/bffe9620d5f74a24a9b2f2db3121ee4b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/509819b34d7941a987353a73de9ce186_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/f4f77aa07e2e410690684ff37828b49b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0524/59208ba54d724bb8b43a4fe1cc85ec10_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 PORSCHE MACAN",
+        "make": "PORSCHE",
+        "year": "2021",
+        "model": "MACAN",
+        "link": "https://www.copart.com/lot/49990134/2021-porsche-macan-ca-rancho-cucamonga",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "49990134",
+            "vin": "WP1AA2A54ML******",
+            "primaryDamage": "NORMAL WEAR",
+            "transmission": "AUTOMATIC",
+            "color": "SILVER",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0424/497d4b693c5d427180c370748037a450_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0424/497d4b693c5d427180c370748037a450_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0424/87606eaa93d34fb1b8c3953207fdabda_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0424/9c34b81bcc5c49ec8820679630b46f18_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0424/78196c0c02df49d394bf2321637127ec_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0424/5513b3af09ce4946bffce231025adc48_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 PORSCHE CAYMAN BASE",
+        "make": "PORSCHE",
+        "year": "2024",
+        "model": "CAYMAN BASE",
+        "link": "https://www.copart.com/lot/49593905/2024-porsche-cayman-base-tx-san-antonio",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "49593905",
+            "vin": "WP0AA2A82RK******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/5755e5ecada648a489672aeb8be2950d_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/5755e5ecada648a489672aeb8be2950d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/1bc755e59a514ee6b2c4c902dd23248f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/7d6f36b761654a2fab7edf106aa8d38f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/ae596980d0664af1aaeb276a122780d6_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/c235e7f792c341a3a136e1bd6884235b_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 PORSCHE PANAMERA 4 E-HYBRID",
+        "make": "PORSCHE",
+        "year": "2020",
+        "model": "PANAMERA 4 E-HYBRID",
+        "link": "https://www.copart.com/lot/49586665/2020-porsche-panamera-4-e-hybrid-ma-north-boston",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "49586665",
+            "vin": "WP0AE2A7XLL******",
+            "primaryDamage": "MINOR DENT/SCRATCHES",
+            "transmission": "N/A",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "HYBRID ENGINE",
+            "engineType": "2.9L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/0c4b0259f50048e399ef3f38dceead69_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/0c4b0259f50048e399ef3f38dceead69_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/7343ba3e8e2b4987bbf6513f40be6186_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/0b57a726d94641bab62c2c662deda3ef_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/fd6e1112558b4336802535796e13fe97_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/ce1d890e95f243919f5ba80c70f02b59_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 PORSCHE CAYENNE COUPE",
+        "make": "PORSCHE",
+        "year": "2020",
+        "model": "CAYENNE COUPE",
+        "link": "https://www.copart.com/lot/49532065/clean-title-2020-porsche-cayenne-coupe-ma-north-boston",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "49532065",
+            "vin": "WP1BA2AYXLD******",
+            "primaryDamage": "NORMAL WEAR",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/5f9ae1a7475248a98f623d483c4c8dde_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/5f9ae1a7475248a98f623d483c4c8dde_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/5a2e107d1c5e489986ebd05bc488ed6b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/abbcddddc9af4b0681f69770b84fc4f7_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/8dc27ccb31c34b1a9d97425a4ab88bc6_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/020ab57aa7af492d8f999f20870bd6d5_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 PORSCHE CAYENNE GTS COUPE",
+        "make": "PORSCHE",
+        "year": "2022",
+        "model": "CAYENNE GTS COUPE",
+        "link": "https://www.copart.com/lot/49528825/clean-title-2022-porsche-cayenne-gts-coupe-ma-north-boston",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "49528825",
+            "vin": "WP1BG2AY8ND******",
+            "primaryDamage": "NORMAL WEAR",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "4.0L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/4a70df5f8f2344b18d1efe7f27d3a40f_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/4a70df5f8f2344b18d1efe7f27d3a40f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/97c0fd13a3a743ec9607ba0ee920bea8_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/8833614cb784412f9d6d0725f8c4b6f7_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/bac40d57e1814d299d20e9e8f2333562_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/ac3bb8a2e47449e78900d2ff30b300e6_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 PORSCHE BOXSTER S",
+        "make": "PORSCHE",
+        "year": "2024",
+        "model": "BOXSTER S",
+        "link": "https://www.copart.com/lot/49432265/salvage-2024-porsche-boxster-s-ny-newburgh",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "49432265",
+            "vin": "WP0CB2A81RK******",
+            "primaryDamage": "ALL OVER",
+            "transmission": "Yes",
+            "color": "BLACK",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.5L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/4bc385601ea24d56a259208a79dd7906_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/4bc385601ea24d56a259208a79dd7906_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/80266417cbbf427e9ca07bc538994800_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/3544349537a643fb89b12447c76f4306_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/37dea3e506664d399572332d19bc6dd3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/2e44b75c154e4c169553810f0121c070_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 PORSCHE MACAN",
+        "make": "PORSCHE",
+        "year": "2021",
+        "model": "MACAN",
+        "link": "https://www.copart.com/lot/49374295/2021-porsche-macan-fl-orlando-north",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "49374295",
+            "vin": "WP1AA2A54ML******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/a7b203eb83324734a34b4d5598cfc402_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/a7b203eb83324734a34b4d5598cfc402_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/534d2f5f64c24242abef9539972059a1_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/46833998a36841f6a59913c85c5126ea_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/2fcaff3500834d5f83b89486d99b8959_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/d2b3f383881844b69822ce67c4ec563b_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 PORSCHE MACAN BASE",
+        "make": "PORSCHE",
+        "year": "2024",
+        "model": "MACAN BASE",
+        "link": "https://www.copart.com/lot/49342575/2024-porsche-macan-base-tx-houston",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "49342575",
+            "vin": "WP1AA2A57RL******",
+            "primaryDamage": "FRONT END",
+            "transmission": "Yes",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "N/A",
+        "thumbnails": []
+    },
+    {
+        "title": "2024 PORSCHE MACAN BASE",
+        "make": "PORSCHE",
+        "year": "2024",
+        "model": "MACAN BASE",
+        "link": "https://www.copart.com/lot/49216705/salvage-2024-porsche-macan-base-ny-syracuse",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 6700
+        },
+        "details": {
+            "lotNumber": "49216705",
+            "vin": "WP1AA2A57RL******",
+            "primaryDamage": "NORMAL WEAR",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/1e39f4d389af4ac7bb6f9eada6873784_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/1e39f4d389af4ac7bb6f9eada6873784_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/90d3310495bd44bba6b5310c5f9f1cb2_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/32ce5a6d45824ea2a4dfd802e7145794_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/5a96d542cb384b83a7da819d257c20ce_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/46353af575b54abdbe5826b8686afb5f_thb.jpg"
+        ]
+    }
+]
