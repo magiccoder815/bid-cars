@@ -1,0 +1,33 @@
+[
+    {
+        "title": "2023 BENTLEY FLYING SPUR",
+        "make": "BENTLEY",
+        "year": "2023",
+        "model": "FLYING SPUR",
+        "link": "https://www.copart.com/lot/46667145/salvage-2023-bentley-flying-spur-va-danville",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 100
+        },
+        "details": {
+            "lotNumber": "46667145",
+            "vin": "SCBBB6ZG8PC******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "6.0L 12"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/1e1c07ff33b8440988533d0856fd9b81_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/1e1c07ff33b8440988533d0856fd9b81_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/413cdca0f8344079b389652e5f6c46b3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/d3aa5821b21740e5a4cba7bde8528a9b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/07e72a3fd767403aa9e95b193dd71281_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/453945e4bed346c7887fe820a72bd1a8_thb.jpg"
+        ],
+        "uuid": "32f1f569-ddd1-4839-add1-240096da534b",
+        "createdAt": "2025-03-18"
+    }
+]

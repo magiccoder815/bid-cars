@@ -1,493 +1,5 @@
 [
     {
-        "title": "2023 AUDI SQ5 SPORTBACK PREMIUM PLUS",
-        "make": "AUDI",
-        "year": "2023",
-        "model": "SQ5 SPORTBACK PREMIUM PLUS",
-        "link": "https://www.copart.com/lot/43578025/2023-audi-sq5-sportback-premium-plus-ca-fresno",
-        "currentBid": null,
-        "details": {
-            "lotNumber": "43578025",
-            "vin": "WA124AFY1P2******",
-            "primaryDamage": "FRONT END",
-            "transmission": "AUTOMATIC",
-            "color": "WHITE",
-            "drive": "All wheel drive",
-            "fuel": "GAS",
-            "engineType": "3.0L 6"
-        },
-        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/58664181a37a4fb18283c567fe84c0e9_hrs.jpg",
-        "thumbnails": [
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/58664181a37a4fb18283c567fe84c0e9_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/65578514b6b749338708d0381c638de1_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/74f23e0b42364552b2dc131954c532c8_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/60c23905d0774fbfb4bdf052ce8110cb_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/29581dbfb8014d85ba501af1623b20f2_thb.jpg"
-        ]
-    },
-    {
-        "title": "2024 AUDI SQ5 PREMIUM PLUS",
-        "make": "AUDI",
-        "year": "2024",
-        "model": "SQ5 PREMIUM PLUS",
-        "link": "https://www.copart.com/lot/43578335/2024-audi-sq5-premium-plus-nh-candia",
-        "currentBid": null,
-        "details": {
-            "lotNumber": "N/A",
-            "vin": "N/A",
-            "primaryDamage": "N/A",
-            "transmission": "N/A",
-            "color": "N/A",
-            "drive": "N/A",
-            "fuel": "N/A",
-            "engineType": "N/A"
-        },
-        "imageUrl": "N/A",
-        "thumbnails": []
-    },
-    {
-        "title": "2022 AUDI A4 PREMIUM PLUS 40",
-        "make": "AUDI",
-        "year": "2022",
-        "model": "A4 PREMIUM PLUS 40",
-        "link": "https://www.copart.com/lot/43687845/2022-audi-a4-premium-plus-40-oh-cleveland-east",
-        "currentBid": null,
-        "details": {
-            "lotNumber": "43687845",
-            "vin": "WAUBBAF44NA******",
-            "primaryDamage": "SIDE",
-            "transmission": "AUTOMATIC",
-            "color": "BLACK",
-            "drive": "All wheel drive",
-            "fuel": "GAS",
-            "engineType": "2.0L 4"
-        },
-        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/27a853a257d84da8968b59577b8cb7cc_hrs.jpg",
-        "thumbnails": [
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/27a853a257d84da8968b59577b8cb7cc_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/90d5faa9d6274d48aa0c2e50aa0d6e8b_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/9b53016efd7f4809a506607dbc958fb8_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/dc22d13e02b8490087921029213edc4d_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/cf7aac2a745049ad8f77cc0b56a90c32_thb.jpg"
-        ]
-    },
-    {
-        "title": "2021 AUDI RS Q8",
-        "make": "AUDI",
-        "year": "2021",
-        "model": "RS Q8",
-        "link": "https://www.copart.com/lot/43690355/2021-audi-rs-q8-mn-minneapolis-north",
-        "currentBid": null,
-        "details": {
-            "lotNumber": "43690355",
-            "vin": "WU1ARBF1XMD******",
-            "primaryDamage": "REAR END",
-            "transmission": "AUTOMATIC",
-            "color": "GRAY",
-            "drive": "All wheel drive",
-            "fuel": "GAS",
-            "engineType": "4.0L 8"
-        },
-        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/b7aea722ef254f0dad164e3de1a6af42_hrs.jpg",
-        "thumbnails": [
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/b7aea722ef254f0dad164e3de1a6af42_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/a0e63e29dcae42e18c59a8b6f1792552_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/1797b40fdccf40fc9a2d7eebf8486368_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/efb4da3ffefe4777a6231a433f4e3d3e_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/d394a47a74dc4fcfaf7fcb7cce69c018_thb.jpg"
-        ]
-    },
-    {
-        "title": "2021 AUDI R8",
-        "make": "AUDI",
-        "year": "2021",
-        "model": "R8",
-        "link": "https://www.copart.com/lot/43702475/2021-audi-r8-fl-tampa-south",
-        "currentBid": null,
-        "details": {
-            "lotNumber": "43702475",
-            "vin": "WUABAAFX7M7******",
-            "primaryDamage": "FRONT END",
-            "transmission": "AUTOMATIC",
-            "color": "BLACK",
-            "drive": "Rear-wheel drive",
-            "fuel": "GAS",
-            "engineType": "5.2L 10"
-        },
-        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/f32ff69a6cc44bd3b1b7a8e9b0aebeed_hrs.jpg",
-        "thumbnails": [
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/f32ff69a6cc44bd3b1b7a8e9b0aebeed_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/986874a640234fb2b27c5965bf516fc6_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/ba432a07406d4d3589a9360bb6f705cc_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/1ffefa6713844575a94e61b05ccde587_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/c9e2963db8344cacb971a15215d07fb3_thb.jpg"
-        ]
-    },
-    {
-        "title": "2022 AUDI Q5 PREMIUM PLUS 45",
-        "make": "AUDI",
-        "year": "2022",
-        "model": "Q5 PREMIUM PLUS 45",
-        "link": "https://www.copart.com/lot/43724325/2022-audi-q5-premium-plus-45-on-cookstown",
-        "currentBid": null,
-        "details": {
-            "lotNumber": "43724325",
-            "vin": "WA1EAAFY1N2******",
-            "primaryDamage": "FRONT END",
-            "transmission": "AUTOMATIC",
-            "color": "SILVER",
-            "drive": "All wheel drive",
-            "fuel": "GAS",
-            "engineType": "2.0L 4"
-        },
-        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/a8631defed7e4297adca3f1cbd6de17b_hrs.jpg",
-        "thumbnails": [
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/a8631defed7e4297adca3f1cbd6de17b_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/9002a91416654837861562e81ca10c01_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/1c6b50c8eb0f4108a3e3dacec07893d0_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/b586a2528d4943199567fb4d56bbd260_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/f38ad1b0ad08455285dc961ed501f05c_thb.jpg"
-        ]
-    },
-    {
-        "title": "2022 AUDI Q7 PREMIUM PLUS",
-        "make": "AUDI",
-        "year": "2022",
-        "model": "Q7 PREMIUM PLUS",
-        "link": "https://www.copart.com/lot/43745035/2022-audi-q7-premium-plus-tx-san-antonio",
-        "currentBid": null,
-        "details": {
-            "lotNumber": "43745035",
-            "vin": "WA1LJBF74ND******",
-            "primaryDamage": "SIDE",
-            "transmission": "AUTOMATIC",
-            "color": "BROWN",
-            "drive": "All wheel drive",
-            "fuel": "GAS",
-            "engineType": "2.0L 4"
-        },
-        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/7b14c00305c34eee895a1fd60ce893cc_hrs.jpg",
-        "thumbnails": [
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/7b14c00305c34eee895a1fd60ce893cc_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/7ece8f1324624cb69d236a987f0477a2_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/de98a5995824463ba538eb7f9cdc874a_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/1d8ae20c88144c54aceaf78e1ad48912_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/e32f4c23ac6944c8840ef42f31e07ebd_thb.jpg"
-        ]
-    },
-    {
-        "title": "2021 AUDI E-TRON PREMIUM",
-        "make": "AUDI",
-        "year": "2021",
-        "model": "E-TRON PREMIUM",
-        "link": "https://www.copart.com/lot/43758605/salvage-2021-audi-e-tron-premium-il-chicago-south",
-        "currentBid": null,
-        "details": {
-            "lotNumber": "43758605",
-            "vin": "WA1AAAGE9MB******",
-            "primaryDamage": "SIDE",
-            "transmission": "AUTOMATIC",
-            "color": "BLACK",
-            "drive": "All wheel drive",
-            "fuel": "ELECTRIC",
-            "engineType": "Yes"
-        },
-        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/ab881a274f344272a31b3d9004c94e70_hrs.jpg",
-        "thumbnails": [
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/ab881a274f344272a31b3d9004c94e70_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/5aeebbe894e141d1ab0489fd7e85dfb2_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/32065ef9edec443fa45754599e41e85b_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/bef2875057524642beef25f98fd12134_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/c7308f4f0b4d489a961c5c5ee32873db_thb.jpg"
-        ]
-    },
-    {
-        "title": "2024 AUDI A4 PREMIUM PLUS 45",
-        "make": "AUDI",
-        "year": "2024",
-        "model": "A4 PREMIUM PLUS 45",
-        "link": "https://www.copart.com/lot/43761735/2024-audi-a4-premium-plus-45-fl-miami-north",
-        "currentBid": null,
-        "details": {
-            "lotNumber": "43761735",
-            "vin": "WAUEAAF40RN******",
-            "primaryDamage": "FRONT END",
-            "transmission": "AUTOMATIC",
-            "color": "WHITE",
-            "drive": "All wheel drive",
-            "fuel": "GAS",
-            "engineType": "2.0L 4"
-        },
-        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/0a962a2838b24d34abebbc04240a5ddf_hrs.jpg",
-        "thumbnails": [
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/0a962a2838b24d34abebbc04240a5ddf_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/c35488512f0f40bca413e19eaf6dab76_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/1f6896c3a57d4f6e861c0273a782415e_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/240677bdf87f44da9af41733a7da36b7_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/7908876f435d4979bf85cd6bd23cc715_thb.jpg"
-        ]
-    },
-    {
-        "title": "2022 AUDI Q3 PREMIUM S LINE 45",
-        "make": "AUDI",
-        "year": "2022",
-        "model": "Q3 PREMIUM S LINE 45",
-        "link": "https://www.copart.com/lot/43773895/2022-audi-q3-premium-s-line-45-nv-las-vegas-west",
-        "currentBid": null,
-        "details": {
-            "lotNumber": "43773895",
-            "vin": "WA1DECF33N1******",
-            "primaryDamage": "FRONT END",
-            "transmission": "AUTOMATIC",
-            "color": "RED",
-            "drive": "All wheel drive",
-            "fuel": "GAS",
-            "engineType": "2.0L 4"
-        },
-        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/adfd57482ece4885864e2d578ab0935f_hrs.jpg",
-        "thumbnails": [
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/adfd57482ece4885864e2d578ab0935f_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/dc8971ad64fb42869f23a1cfe04c86dc_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/8a11f2c25d7a4b3794dda108d7a77416_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/742813510f994cbd8f679ef5f3ee43f6_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/684a7aaffe0448ada9ef18a7a8cce874_thb.jpg"
-        ]
-    },
-    {
-        "title": "2020 AUDI Q5 PREMIUM PLUS",
-        "make": "AUDI",
-        "year": "2020",
-        "model": "Q5 PREMIUM PLUS",
-        "link": "https://www.copart.com/lot/43777955/2020-audi-q5-premium-plus-co-denver-south",
-        "currentBid": null,
-        "details": {
-            "lotNumber": "43777955",
-            "vin": "WA1BNAFY8L2******",
-            "primaryDamage": "FRONT END",
-            "transmission": "AUTOMATIC",
-            "color": "WHITE",
-            "drive": "All wheel drive",
-            "fuel": "GAS",
-            "engineType": "2.0L 4"
-        },
-        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/92f9d541ae7a494e9ce17db6818b7981_hrs.jpg",
-        "thumbnails": [
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/92f9d541ae7a494e9ce17db6818b7981_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/436726c125144baf85a2119efd223078_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/3c15b7e3b427416bb740e0e02ef3bec0_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/2e9295b196854285a57284611a4e04cc_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/684eb043825a43a58cc91aaa4786714f_thb.jpg"
-        ]
-    },
-    {
-        "title": "2022 AUDI Q3 PREMIUM S LINE 45",
-        "make": "AUDI",
-        "year": "2022",
-        "model": "Q3 PREMIUM S LINE 45",
-        "link": "https://www.copart.com/lot/43791725/2022-audi-q3-premium-s-line-45-ca-van-nuys",
-        "currentBid": null,
-        "details": {
-            "lotNumber": "43791725",
-            "vin": "WA1DECF38N1******",
-            "primaryDamage": "FRONT END",
-            "transmission": "AUTOMATIC",
-            "color": "WHITE",
-            "drive": "All wheel drive",
-            "fuel": "GAS",
-            "engineType": "2.0L 4"
-        },
-        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/68bb905f83174b83bbef5a89523ede6c_hrs.jpg",
-        "thumbnails": [
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/68bb905f83174b83bbef5a89523ede6c_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/e0fe43598a1d4b4fa33ef0051c9c52c3_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/cf4c17338c1643d8b380b28bbcd92be0_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/85f2ebba9f9a4adfb3c54663fc78c677_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/cc91ee6b7d4a41628c0d27dcf36278b7_thb.jpg"
-        ]
-    },
-    {
-        "title": "2022 AUDI RS5",
-        "make": "AUDI",
-        "year": "2022",
-        "model": "RS5",
-        "link": "https://www.copart.com/lot/43809545/2022-audi-rs5-ca-long-beach",
-        "currentBid": null,
-        "details": {
-            "lotNumber": "43809545",
-            "vin": "WUAAWCF5XNA******",
-            "primaryDamage": "SIDE",
-            "transmission": "AUTOMATIC",
-            "color": "BLACK",
-            "drive": "All wheel drive",
-            "fuel": "GAS",
-            "engineType": "2.9L 6"
-        },
-        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/b18f1e0c823a4261953cacd11cda42c8_hrs.jpg",
-        "thumbnails": [
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/b18f1e0c823a4261953cacd11cda42c8_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/66af55f71a3d421d9002e2ecffaaa1c0_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/39be190f825241359cc6bf5ca8777c19_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/e3efc84ada69470ebc3eba598871bfb2_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/808370c926ff4899ba13dad4f50fd1f0_thb.jpg"
-        ]
-    },
-    {
-        "title": "2021 AUDI A4 PREMIUM PLUS 45",
-        "make": "AUDI",
-        "year": "2021",
-        "model": "A4 PREMIUM PLUS 45",
-        "link": "https://www.copart.com/lot/43828485/2021-audi-a4-premium-plus-45-co-colorado-springs",
-        "currentBid": null,
-        "details": {
-            "lotNumber": "43828485",
-            "vin": "WAUEAAF43MN******",
-            "primaryDamage": "FRONT END",
-            "transmission": "AUTOMATIC",
-            "color": "BLACK",
-            "drive": "All wheel drive",
-            "fuel": "GAS",
-            "engineType": "2.0L 4"
-        },
-        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/19f9fb70fcd947ff978776c8a61f0992_hrs.jpg",
-        "thumbnails": [
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/19f9fb70fcd947ff978776c8a61f0992_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/888f4aa75e4f4affaa546b86a18cfc99_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/b5444dba77b4446fa4cd72540d833d90_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/687ce37af72740ad9fdca141268187d2_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/0efa2b3825d84bdfabc11eb20c89edfd_thb.jpg"
-        ]
-    },
-    {
-        "title": "2024 AUDI A5 PREMIUM PLUS 45",
-        "make": "AUDI",
-        "year": "2024",
-        "model": "A5 PREMIUM PLUS 45",
-        "link": "https://www.copart.com/lot/43834005/2024-audi-a5-premium-plus-45-ms-jackson",
-        "currentBid": null,
-        "details": {
-            "lotNumber": "43834005",
-            "vin": "WAUFACF51RA******",
-            "primaryDamage": "FRONT END",
-            "transmission": "AUTOMATIC",
-            "color": "GRAY",
-            "drive": "All wheel drive",
-            "fuel": "GAS",
-            "engineType": "2.0L 4"
-        },
-        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/49fedd9b4da2446ba71630faae6858ae_hrs.jpg",
-        "thumbnails": [
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/49fedd9b4da2446ba71630faae6858ae_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/56b46565068e4a09b7733b2ad435734c_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/d396f7c3bd7b41c1b26d5611fe6d655f_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/ba886879487b4126bd217a826616c6a9_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/c0a76cf065eb407cbcaf0f3dd9890aac_thb.jpg"
-        ]
-    },
-    {
-        "title": "2020 AUDI A4 PREMIUM",
-        "make": "AUDI",
-        "year": "2020",
-        "model": "A4 PREMIUM",
-        "link": "https://www.copart.com/lot/43867355/2020-audi-a4-premium-tx-houston-east",
-        "currentBid": null,
-        "details": {
-            "lotNumber": "43867355",
-            "vin": "WAUGMAF40LA******",
-            "primaryDamage": "SIDE",
-            "transmission": "AUTOMATIC",
-            "color": "GRAY",
-            "drive": "Front-wheel Drive",
-            "fuel": "GAS",
-            "engineType": "2.0L 4"
-        },
-        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/a4171b198eb84719a2c58845f63c5920_hrs.jpg",
-        "thumbnails": [
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/a4171b198eb84719a2c58845f63c5920_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/53ddd8c7cf324ab0a3c23a7592c07188_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/733b26868e464ea69cfc237754c4db69_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/7bd02e5e39314ce597bc847efc3516fb_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/b71a9c8cf2e94cc78b1f010b31fafa14_thb.jpg"
-        ]
-    },
-    {
-        "title": "2021 AUDI Q5 PREMIUM PLUS",
-        "make": "AUDI",
-        "year": "2021",
-        "model": "Q5 PREMIUM PLUS",
-        "link": "https://www.copart.com/lot/43942875/2021-audi-q5-premium-plus-mi-kincheloe",
-        "currentBid": null,
-        "details": {
-            "lotNumber": "43942875",
-            "vin": "WA1BAAFY9M2******",
-            "primaryDamage": "FRONT END",
-            "transmission": "AUTOMATIC",
-            "color": "BLACK",
-            "drive": "All wheel drive",
-            "fuel": "GAS",
-            "engineType": "2.0L 4"
-        },
-        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/eabcdb5ab3624bf5bac2b969ec9e81ba_hrs.jpg",
-        "thumbnails": [
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/eabcdb5ab3624bf5bac2b969ec9e81ba_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/fcfd8b121cd34844a7b31b506bd3f431_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/7a781f2976ec47548e9dfa4226409ae9_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/43a86684df7d44b9a51300780563c537_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/22ad7601044b439d9597c9458b6ed6bd_thb.jpg"
-        ]
-    },
-    {
-        "title": "2023 AUDI Q5 PREMIUM 40",
-        "make": "AUDI",
-        "year": "2023",
-        "model": "Q5 PREMIUM 40",
-        "link": "https://www.copart.com/lot/43965375/2023-audi-q5-premium-40-nv-las-vegas-west",
-        "currentBid": null,
-        "details": {
-            "lotNumber": "43965375",
-            "vin": "WA1ABAFY4P2******",
-            "primaryDamage": "FRONT END",
-            "transmission": "AUTOMATIC",
-            "color": "BLACK",
-            "drive": "All wheel drive",
-            "fuel": "GAS",
-            "engineType": "2.0L 4"
-        },
-        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/944116db6def4654bd77ca2807a3535f_hrs.jpg",
-        "thumbnails": [
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/944116db6def4654bd77ca2807a3535f_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/dbb60265fabd4573a8650d9f3ae99cf9_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/6a2b01370bd743b3a480dd44858ed7ae_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/756950f8b88a4dd193adc140aef97051_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/d9762de1b78c43b8999ffc5cfeedf689_thb.jpg"
-        ]
-    },
-    {
-        "title": "2023 AUDI Q5 PREMIUM PLUS 45",
-        "make": "AUDI",
-        "year": "2023",
-        "model": "Q5 PREMIUM PLUS 45",
-        "link": "https://www.copart.com/lot/43978935/2023-audi-q5-premium-plus-45-tx-dallas",
-        "currentBid": null,
-        "details": {
-            "lotNumber": "43978935",
-            "vin": "WA1EAAFYXP2******",
-            "primaryDamage": "FRONT END",
-            "transmission": "AUTOMATIC",
-            "color": "BLACK",
-            "drive": "All wheel drive",
-            "fuel": "GAS",
-            "engineType": "2.0L 4"
-        },
-        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/29abfdeb36574c08acebf9a192363917_hrs.jpg",
-        "thumbnails": [
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/29abfdeb36574c08acebf9a192363917_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/8c687b73cba14d7dafd465b64a5182ab_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/c629a3da7f824080ba47079f2e0086d5_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/b2cd38b78d4842d08940711b46603a6d_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/e350d39811384227b670bfbd79988fce_thb.jpg"
-        ]
-    },
-    {
         "title": "2022 AUDI Q7 PREMIUM PLUS",
         "make": "AUDI",
         "year": "2022",
@@ -544,7 +56,7 @@
         "make": "AUDI",
         "year": "2020",
         "model": "Q3 PREMIUM S LINE",
-        "link": "https://www.copart.com/lot/44001445/2020-audi-q3-premium-s-line-nv-las-vegas",
+        "link": "https://www.copart.com/lot/44001445/salvage-2020-audi-q3-premium-s-line-nv-las-vegas",
         "currentBid": null,
         "details": {
             "lotNumber": "44001445",
@@ -868,7 +380,7 @@
             "fuel": "GAS",
             "engineType": "2.0L 4"
         },
-        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/4ce7a01042ba4c3cb538980af4761516_hrs.jpg",
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/4ce7a01042ba4c3cb538980af4761516_ful.jpg",
         "thumbnails": [
             "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/4ce7a01042ba4c3cb538980af4761516_thb.jpg",
             "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/9b0fdc749ea84ced92d31fe86eb583bb_thb.jpg",
@@ -1476,32 +988,6 @@
         ]
     },
     {
-        "title": "2022 AUDI E-TRON PREMIUM",
-        "make": "AUDI",
-        "year": "2022",
-        "model": "E-TRON PREMIUM",
-        "link": "https://www.copart.com/lot/44607415/2022-audi-e-tron-premium-on-cookstown",
-        "currentBid": null,
-        "details": {
-            "lotNumber": "44607415",
-            "vin": "WA1AAAGE6NB******",
-            "primaryDamage": "REAR END",
-            "transmission": "AUTOMATIC",
-            "color": "WHITE",
-            "drive": "All wheel drive",
-            "fuel": "ELECTRIC",
-            "engineType": "Yes"
-        },
-        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/0003374017244885acb1a901ddbc5584_hrs.jpg",
-        "thumbnails": [
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/0003374017244885acb1a901ddbc5584_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/8970536136614ff9864b2bb14ba8ce4e_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/17127f116afb46f4936b0e0e4594c8a9_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/2a1a8f19779444df8749431725736405_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/a89578dcb85740479019db8d5fabdcb2_thb.jpg"
-        ]
-    },
-    {
         "title": "2022 AUDI E-TRON CHRONOS",
         "make": "AUDI",
         "year": "2022",
@@ -1700,7 +1186,7 @@
             "fuel": "GAS",
             "engineType": "2.0L 4"
         },
-        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/5bba739bfdd54086b874465d94d84509_hrs.jpg",
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/5bba739bfdd54086b874465d94d84509_ful.jpg",
         "thumbnails": [
             "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/5bba739bfdd54086b874465d94d84509_thb.jpg",
             "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/9a5d01a6f64441ec8634bbc06921b00b_thb.jpg",
@@ -1752,7 +1238,7 @@
             "fuel": "GAS",
             "engineType": "3.0L 6"
         },
-        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/af2fca1cbcb84c12a7569b93e40533b7_hrs.jpg",
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/af2fca1cbcb84c12a7569b93e40533b7_ful.jpg",
         "thumbnails": [
             "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/af2fca1cbcb84c12a7569b93e40533b7_thb.jpg",
             "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/24fa15422d414cb6b30deb22ae6b5d30_thb.jpg",
@@ -1882,7 +1368,7 @@
             "fuel": "GAS",
             "engineType": "2.0L 4"
         },
-        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/457bcf4b85be4305bce852e0ea65792d_hrs.jpg",
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/457bcf4b85be4305bce852e0ea65792d_ful.jpg",
         "thumbnails": [
             "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/457bcf4b85be4305bce852e0ea65792d_thb.jpg",
             "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/09b1a69a45794dce937573345db07d2f_thb.jpg",
@@ -1934,7 +1420,7 @@
             "fuel": "GAS",
             "engineType": "2.0L 4"
         },
-        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/85b977c3f8ca41199f79a633cb87735b_hrs.jpg",
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/85b977c3f8ca41199f79a633cb87735b_ful.jpg",
         "thumbnails": [
             "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/85b977c3f8ca41199f79a633cb87735b_thb.jpg",
             "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/139bdad0f95c496e80c6ec8a03063ef4_thb.jpg",
@@ -1960,7 +1446,7 @@
             "fuel": "ELECTRIC",
             "engineType": "Yes"
         },
-        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/8607d22f1db94a56990f6a43382e0682_hrs.jpg",
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/8607d22f1db94a56990f6a43382e0682_ful.jpg",
         "thumbnails": [
             "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/8607d22f1db94a56990f6a43382e0682_thb.jpg",
             "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/75b0a5a76fe84974b4c1bf7df2979985_thb.jpg",
@@ -2038,7 +1524,7 @@
             "fuel": "GAS",
             "engineType": "2.0L 4"
         },
-        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/9233ca25ff2449e09404085924cde0c1_hrs.jpg",
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/9233ca25ff2449e09404085924cde0c1_ful.jpg",
         "thumbnails": [
             "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/9233ca25ff2449e09404085924cde0c1_thb.jpg",
             "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/d58925b39cd547dc968c0f77f184c64c_thb.jpg",
@@ -2064,7 +1550,7 @@
             "fuel": "GAS",
             "engineType": "2.0L 4"
         },
-        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/bc315ef3dcb94ad89b7bf7ecbf775567_hrs.jpg",
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/bc315ef3dcb94ad89b7bf7ecbf775567_ful.jpg",
         "thumbnails": [
             "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/bc315ef3dcb94ad89b7bf7ecbf775567_thb.jpg",
             "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/4d55894ddc164da3a4066efc979a592f_thb.jpg",
@@ -2168,8 +1654,14 @@
             "fuel": "GAS",
             "engineType": "2.0L 4"
         },
-        "imageUrl": "N/A",
-        "thumbnails": []
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/ebf1d6eeadb448b3931efd6482231ec5_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/ebf1d6eeadb448b3931efd6482231ec5_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/758b46ebf86e4f55a93800954040d23c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/0143dacde1034546a3f3df9da2a08dfa_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/70303f7e3f854c418bb64ed5598e5453_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/fbd72462ae2143f6a60e4d38df029c3b_thb.jpg"
+        ]
     },
     {
         "title": "2020 AUDI S5 PREMIUM PLUS",
@@ -2276,32 +1768,6 @@
         ]
     },
     {
-        "title": "2022 AUDI A4 PREMIUM PLUS 45",
-        "make": "AUDI",
-        "year": "2022",
-        "model": "A4 PREMIUM PLUS 45",
-        "link": "https://www.copart.com/lot/45101975/2022-audi-a4-premium-plus-45-ga-atlanta-east",
-        "currentBid": null,
-        "details": {
-            "lotNumber": "45101975",
-            "vin": "WAUEAAF43NN******",
-            "primaryDamage": "FRONT END",
-            "transmission": "AUTOMATIC",
-            "color": "WHITE",
-            "drive": "All wheel drive",
-            "fuel": "GAS",
-            "engineType": "2.0L 4"
-        },
-        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/5e5f7f2fc70f44d38cc1920396ccaa6c_hrs.jpg",
-        "thumbnails": [
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/5e5f7f2fc70f44d38cc1920396ccaa6c_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/1d63c98afa454db0bdb0202aab2c308c_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/a0a68cefbb39434682bf46a6442e7dde_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/e56d8cad13fe4afd9b079ec7d481c1ea_thb.jpg",
-            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/12d41fa639574b0386f5ddd519276128_thb.jpg"
-        ]
-    },
-    {
         "title": "2021 AUDI A4 PREMIUM 45",
         "make": "AUDI",
         "year": "2021",
@@ -2396,7 +1862,7 @@
             "fuel": "GAS",
             "engineType": "2.0L 4"
         },
-        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/08a9214011ae4a6c89e581adc8f6cbda_hrs.jpg",
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/08a9214011ae4a6c89e581adc8f6cbda_ful.jpg",
         "thumbnails": [
             "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/08a9214011ae4a6c89e581adc8f6cbda_thb.jpg",
             "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/7c14ed90766e47c4a3635623b1bc7b84_thb.jpg",
@@ -2585,6 +2051,552 @@
             "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/3fb3b822fc854fc9baa2a5ca512db26b_thb.jpg",
             "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/1ac02d61f5bd459fa490cd6ed06c7e3a_thb.jpg",
             "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/39a0000dfcaa471b978e06283181d302_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 AUDI Q5 PREMIUM 45",
+        "make": "AUDI",
+        "year": "2024",
+        "model": "Q5 PREMIUM 45",
+        "link": "https://www.copart.com/lot/45182125/2024-audi-q5-premium-45-mi-flint",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "45182125",
+            "vin": "WA1GAAFY9R2******",
+            "primaryDamage": "ROLLOVER",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/27347cb5f8054eea9ce1f306a035fa23_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/27347cb5f8054eea9ce1f306a035fa23_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/6f2d740cd10e47b2ab5f9d24d733fe1a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/cbc4c35da9f642c2820ffa6cc52d3d25_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/676dc1d3f40543af8fcf5ab6331b6e9f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/5d48e4506f4f4d24934575ccf82d06ef_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 AUDI Q5 SPORTBACK PRM PLS 45",
+        "make": "AUDI",
+        "year": "2022",
+        "model": "Q5 SPORTBACK PRM PLS 45",
+        "link": "https://www.copart.com/lot/45190765/2022-audi-q5-sportback-prm-pls-45-il-chicago-north",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "45190765",
+            "vin": "WA15AAFY8N2******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "SILVER",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/7cc530b853f44966a128d732f160c414_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/7cc530b853f44966a128d732f160c414_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/43f7a9241b1941fe85c875e2b53ff1a7_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/bf583549a0fe4157a3440337d12796fb_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/12cef512715c4dd3938569cbdd732b37_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/ae6591d6309c4b94b3cb7c70464d5e1e_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 AUDI Q5 PRESTIGE 45",
+        "make": "AUDI",
+        "year": "2022",
+        "model": "Q5 PRESTIGE 45",
+        "link": "https://www.copart.com/lot/45195465/2022-audi-q5-prestige-45-sc-north-charleston",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "45195465",
+            "vin": "WA1FAAFY0N2******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLUE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/224fd20277eb4364bf53413f104e61d6_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/224fd20277eb4364bf53413f104e61d6_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/3fb4b398eec7441db126a5c1fe29fe09_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/0a6fda2c95f743258ceac7b7dd62ef76_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/a5703eedad244fbdb49901a2d846dd65_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/b850bd72a5f54513ba5890e0974b0acd_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 AUDI Q5 E PREMIUM PLUS 55",
+        "make": "AUDI",
+        "year": "2024",
+        "model": "Q5 E PREMIUM PLUS 55",
+        "link": "https://www.copart.com/lot/45228105/2024-audi-q5-e-premium-plus-55-ga-atlanta-west",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "45228105",
+            "vin": "WA1E2AFY6R2******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "HYBRID ENGINE",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/e15c31450efb45e8898aa62a34bfb20a_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/e15c31450efb45e8898aa62a34bfb20a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/27f19f49e2fd48bb8d1580cd035ab408_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/c69b14e757a84997b26c3b2678576da2_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/9fb8c400be1e4affbd90276999eb3c4b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/2f242363e94e4c42bfc8c29af3957676_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 AUDI A4 PREMIUM PLUS 45",
+        "make": "AUDI",
+        "year": "2022",
+        "model": "A4 PREMIUM PLUS 45",
+        "link": "https://www.copart.com/lot/45233575/2022-audi-a4-premium-plus-45-nv-las-vegas",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "45233575",
+            "vin": "WAUEAAF45NN******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/5058f2fc2e5541378ff9c35061293847_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/5058f2fc2e5541378ff9c35061293847_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/035e2828093b4aee97060316a83d1bb3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/6ca9c505f17e4e2480a418b6a621e985_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/c61a937b0f0d4ff9bca7866afb978fb8_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/5a83bc46129b454394ac2d4ebf3fff77_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 AUDI RS3",
+        "make": "AUDI",
+        "year": "2024",
+        "model": "RS3",
+        "link": "https://www.copart.com/lot/45241425/2024-audi-rs3-wa-graham",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "45241425",
+            "vin": "WUAG4DGY1RA******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.5L 5"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/e16c5520e2d24137b63ecc4e3a871145_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/e16c5520e2d24137b63ecc4e3a871145_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/6919b28d107644ddbfaed2c2a2c246e0_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/de623694aa87437898e63fc4d3de16fe_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/a4031cd051624d2cbf2ff49092da29ae_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/6077e5d24dd14e08afc3273e192bc327_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 AUDI SQ8 E-TRON PREMIUM PLUS",
+        "make": "AUDI",
+        "year": "2024",
+        "model": "SQ8 E-TRON PREMIUM PLUS",
+        "link": "https://www.copart.com/lot/45241475/2024-audi-sq8-e-tron-premium-plus-ca-van-nuys",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "45241475",
+            "vin": "WA14CBGE6RB******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "ELECTRIC",
+            "engineType": "Yes"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/5c3a8efac2824eecba42613fd6ff3c13_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/5c3a8efac2824eecba42613fd6ff3c13_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/e95dfa794ac246dfb110253058f3e118_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/bed99c0e550841afb49c1651c6a424b5_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/073f4db9a4874c14a087499305f82afd_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/06bea21187bd47cda113ca4ea39326e9_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 AUDI SQ8 PRESTIGE",
+        "make": "AUDI",
+        "year": "2022",
+        "model": "SQ8 PRESTIGE",
+        "link": "https://www.copart.com/lot/45247435/2022-audi-sq8-prestige-ca-rancho-cucamonga",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "45247435",
+            "vin": "WA1CWBF16ND******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "4.0L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/2c085bd57622470ea4d0360f2e5c7293_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/2c085bd57622470ea4d0360f2e5c7293_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/d9835adc49984edbb2c4ba447b9e92fa_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/ecb4702718f447fc9f27fe6258d80b64_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/ce2e0b7c4095418590fc48935b9c511c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/5c891eff270142518dfb58c1992da509_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 AUDI Q5 PREMIUM 40",
+        "make": "AUDI",
+        "year": "2023",
+        "model": "Q5 PREMIUM 40",
+        "link": "https://www.copart.com/lot/45296975/2023-audi-q5-premium-40-ny-long-island",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "45296975",
+            "vin": "WA1ABAFY0P2******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/00b97b95469b4c2eaebafb92e9d63cf6_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/00b97b95469b4c2eaebafb92e9d63cf6_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/9c3cfe5ddf874ca2bdc14ce555e87b33_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/fa8546dd0c46491caad931fbfde2c4a2_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/017b0b1df169475691be83bcaf5cc3f5_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/3a2d656854664d3e82d1fa60cb296f01_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 AUDI A5 PREMIUM PLUS 45",
+        "make": "AUDI",
+        "year": "2022",
+        "model": "A5 PREMIUM PLUS 45",
+        "link": "https://www.copart.com/lot/45300325/2022-audi-a5-premium-plus-45-ca-fresno",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "45300325",
+            "vin": "WAUFACF51NA******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/aad65fdad5624bbbbb4dc5f6f7a57b70_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/aad65fdad5624bbbbb4dc5f6f7a57b70_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/fbe4d4262ad14e8e9056f00d6d211656_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/e4fff609c2504fd5a39b909dfb079b05_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/5e2739aab9a14db6a3cd734cf7411b36_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/0b1391e96b114636bef0e6633a3ba60d_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 AUDI A4 PREMIUM PLUS 45",
+        "make": "AUDI",
+        "year": "2021",
+        "model": "A4 PREMIUM PLUS 45",
+        "link": "https://www.copart.com/lot/45301315/2021-audi-a4-premium-plus-45-ct-hartford",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "45301315",
+            "vin": "WAUEAAF41MN******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/9ad42f1bb6294ce9bf5ad220f9f7f1a1_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/9ad42f1bb6294ce9bf5ad220f9f7f1a1_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/4bf70e32f60641ba94792b22b3717b7a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/cc49093f8abe4b00802e96f3f288774f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/0f079eda368749429da63e01fee7fe12_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/7978ccc32dd84c7b87cb81e312dd258d_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 AUDI Q5 PREMIUM",
+        "make": "AUDI",
+        "year": "2020",
+        "model": "Q5 PREMIUM",
+        "link": "https://www.copart.com/lot/45314975/2020-audi-q5-premium-wv-charleston",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "45314975",
+            "vin": "WA1ANAFY5L2******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/4c1025a9fa6a4efdba2f4871e94a55da_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/4c1025a9fa6a4efdba2f4871e94a55da_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/15a99c6dac3c41588c857f0138a71d9f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/7f284b2b403940749a37e2fb2f3e6840_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/76484083385f4872bd18089e3734ab9c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/f17cf5be447f4850b05759ff0b094eca_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 AUDI Q5 SPORTBACK PRM PLS 45",
+        "make": "AUDI",
+        "year": "2024",
+        "model": "Q5 SPORTBACK PRM PLS 45",
+        "link": "https://www.copart.com/lot/45367515/2024-audi-q5-sportback-prm-pls-45-ny-long-island",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "45367515",
+            "vin": "WA15AAFY9R2******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/29679e25cbe44fff8d1c65ca2dfbc5c4_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/29679e25cbe44fff8d1c65ca2dfbc5c4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/8dcb6d6240704c6faf10a74a17786e2e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/2758a0e3ad0b480784ee51a464579e16_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/3bfc36372b2b4ed6a4621528922bf4ff_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/d6e660871ecb4e51844b07a02248a838_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 AUDI A3 PREMIUM",
+        "make": "AUDI",
+        "year": "2020",
+        "model": "A3 PREMIUM",
+        "link": "https://www.copart.com/lot/45394075/2020-audi-a3-premium-wi-appleton",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "45394075",
+            "vin": "WAUAUGFF4LA******",
+            "primaryDamage": "UNDERCARRIAGE",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "Front-wheel Drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/3b5fa9a5b49b41159bc23259eb5a5fc1_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/3b5fa9a5b49b41159bc23259eb5a5fc1_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/681a3f962bf34f55bca8c2af68d550a6_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/34b200b3163543e28fc0d0460d8d2987_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/774f23874601425196a7ae6c806b28c5_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/1de6226e9a8c4e299bb146aa218eccd0_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 AUDI Q3 PREMIUM",
+        "make": "AUDI",
+        "year": "2020",
+        "model": "Q3 PREMIUM",
+        "link": "https://www.copart.com/lot/45402635/2020-audi-q3-premium-fl-miami-central",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "45402635",
+            "vin": "WA1AECF30L1******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/009246da5a62425d9563819ef2137ac8_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/009246da5a62425d9563819ef2137ac8_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/ce1bbf9a10ab4ee48dbef515194ef178_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/bf2338b62f684f6abfea44cf00c0bdc9_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/2a71e6e66f4a4658bc55dbdf8023a624_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/a618fef1ee244f3da640a6aeb4a47e34_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 AUDI Q4 E-TRON PREMIUM PLUS",
+        "make": "AUDI",
+        "year": "2023",
+        "model": "Q4 E-TRON PREMIUM PLUS",
+        "link": "https://www.copart.com/lot/45415485/2023-audi-q4-e-tron-premium-plus-ca-so-sacramento",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "45415485",
+            "vin": "WA1L2BFZ0PP******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "ELECTRIC",
+            "engineType": "Yes"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/db2730558c3e43f1bb0add28fac2be4a_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/db2730558c3e43f1bb0add28fac2be4a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/28ad129a3ebd47bd9b21b9456dc771d5_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/b95b618411f743c1a4590e8f841ea5ed_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/1490fc20958a49189058f5f69f8b1084_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/9ef5305c54ee430d9768da23bf12138a_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 AUDI E-TRON PREMIUM PLUS",
+        "make": "AUDI",
+        "year": "2021",
+        "model": "E-TRON PREMIUM PLUS",
+        "link": "https://www.copart.com/lot/45421695/2021-audi-e-tron-premium-plus-va-richmond",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "45421695",
+            "vin": "WA1LAAGE9MB******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "ELECTRIC",
+            "engineType": "Yes"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/b797f569460043839a3fa2f21dad0385_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/b797f569460043839a3fa2f21dad0385_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/0b267dc2a8604f6a9da1b2b7628b442f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/e98a43a5f0c640a2b700dc643c8ccc8a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/b68f6fa6ddc94301a4b844f899deb30d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/eec6b58de0fc4e9e819e917d9f2ad652_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 AUDI A5 PREMIUM PLUS 45",
+        "make": "AUDI",
+        "year": "2022",
+        "model": "A5 PREMIUM PLUS 45",
+        "link": "https://www.copart.com/lot/45425194/salvage-2022-audi-a5-premium-plus-45-mo-st-louis",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "45425194",
+            "vin": "WAUFACF56NA******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0324/783440b3bc474d568ba3cd391f2cf4f2_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0324/783440b3bc474d568ba3cd391f2cf4f2_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0324/4dff8916821141f98b1628c823172cd7_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0324/76480397dade4977b1d071ce153df204_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0324/8e710530aee445a39950d77535d31ed5_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0324/93b2f795ba754d059362f84afcab5d7b_thb.jpg"
+        ]
+    },
+    {
+        "title": "2022 AUDI S3 PRESTIGE",
+        "make": "AUDI",
+        "year": "2022",
+        "model": "S3 PRESTIGE",
+        "link": "https://www.copart.com/lot/45448765/2022-audi-s3-prestige-ca-fresno",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "45448765",
+            "vin": "WAUJ3DGY6NA******",
+            "primaryDamage": "WATER/FLOOD",
+            "transmission": "AUTOMATIC",
+            "color": "RED",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/8249c019fe6e45d698bcad812432a395_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/8249c019fe6e45d698bcad812432a395_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/828d85b4f97548c08a5feaf22b69678e_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/be3ca50bf27d44a1888e087bb6abadd0_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/e948d0efb32c4de483070a991b6ec2e2_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/ea15da49ec924c7abc2496fba389d84a_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 AUDI S5 PREMIUM PLUS",
+        "make": "AUDI",
+        "year": "2023",
+        "model": "S5 PREMIUM PLUS",
+        "link": "https://www.copart.com/lot/45460005/2023-audi-s5-premium-plus-il-chicago-north",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "45460005",
+            "vin": "WAUC4CF58PA******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "3.0L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/61ae89207f0b44b88d39eb3186ac5d00_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/61ae89207f0b44b88d39eb3186ac5d00_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/b3933e8698bb46aead21e6217121d877_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/cc1f070044ac462abc216627f7c859b2_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/322b15deaf3f45698dcebbbb3606abae_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/f0df323ebdea43849610d2c463314172_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 AUDI Q5 E PRESTIGE",
+        "make": "AUDI",
+        "year": "2021",
+        "model": "Q5 E PRESTIGE",
+        "link": "https://www.copart.com/lot/45461495/2021-audi-q5-e-prestige-mn-st-cloud",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "45461495",
+            "vin": "WA1F2AFY9M2******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "HYBRID ENGINE",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/4c7c7cca8e944dc19983d771a83cc52b_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/4c7c7cca8e944dc19983d771a83cc52b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/199ba1b14ecf484d9bafe3195d0b8b0c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/2befd38c34e8480e8369724960ba2b38_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/1c412b46f5334d4bb5d0fd399e345f74_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/a2a8471132f94b2baad6f4b8ebaa7e0c_thb.jpg"
         ]
     }
 ]

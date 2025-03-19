@@ -1,0 +1,64 @@
+[
+    {
+        "title": "2023 ASTON MARTIN DBX 707",
+        "make": "ASTON MARTIN",
+        "year": "2023",
+        "model": "DBX 707",
+        "link": "https://www.copart.com/lot/45496975/salvage-2023-aston-martin-dbx-707-co-denver-south",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 27750
+        },
+        "details": {
+            "lotNumber": "45496975",
+            "vin": "SD7VUJBW8PT******",
+            "primaryDamage": "REAR END",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "4.0L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/5c67ef9e6f2b4dceb587e2506e48f326_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/5c67ef9e6f2b4dceb587e2506e48f326_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/b75751b7bc8147859e51221cd5868cb4_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/e74dc694ac9147f38fff750fec1c3339_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/07aa466085b94bcca155ca830af8e556_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0225/b28c1f5043bb4aac822d457a5e259ee9_thb.jpg"
+        ],
+        "uuid": "3baf7124-18f9-472e-acb6-9427344b3c4c",
+        "createdAt": "2025-03-18"
+    },
+    {
+        "title": "2020 ASTON MARTIN VANTAGE",
+        "make": "ASTON MARTIN",
+        "year": "2020",
+        "model": "VANTAGE",
+        "link": "https://www.copart.com/lot/84055064/salvage-2020-aston-martin-vantage-tx-crashedtoys-dallas",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 150
+        },
+        "details": {
+            "lotNumber": "84055064",
+            "vin": "SCFSMGAW1LG******",
+            "primaryDamage": "SIDE",
+            "transmission": "AUTOMATIC",
+            "color": "SILVER",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "4.0L 8"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/3a6c45d65e044d5a9646da47d3eaa09a_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/3a6c45d65e044d5a9646da47d3eaa09a_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/1c327d4fe6874b5f958c9f0d71979f89_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/28ed9368461b4573ab34da5fe1532f83_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/bc80d44ebd7f4fd9a1e84e7cb68fafb3_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0325/59ea10dcab2c4000a890bd4f9c28336d_thb.jpg"
+        ],
+        "uuid": "c6a3cc54-8e8e-4da8-b430-f24497f3b1a6",
+        "createdAt": "2025-03-18"
+    }
+]

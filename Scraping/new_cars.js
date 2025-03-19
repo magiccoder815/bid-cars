@@ -3,9 +3,6 @@ const path = require("path");
 const puppeteer = require("puppeteer");
 const { v4: uuidv4 } = require("uuid");
 
-// const StealthPlugin = require("puppeteer-extra-plugin-stealth");
-// puppeteer.use(StealthPlugin());
-
 const makes = [
     "AUDI",
     "ASTON MARTIN",
@@ -38,9 +35,6 @@ const baseUrl =
     const allCarData = []; // Array to hold all car data
 
     for (const make of makes) {
-        const makeFolder = make.replace(" ", "_");
-        fs.mkdirSync(makeFolder, { recursive: true });
-
         const encodedMake = encodeURIComponent(make);
         const url = baseUrl.replace("{make}", encodedMake);
 
@@ -65,7 +59,7 @@ const baseUrl =
             await new Promise((resolve) => setTimeout(resolve, 2000));
             await page.click("li[aria-label='100']");
             await new Promise((resolve) => setTimeout(resolve, 5000));
-
+            let carData = [];
             const scrapePage = async (pageNumber) => {
                 console.log(`Scraping page ${pageNumber}...`);
 
@@ -77,7 +71,6 @@ const baseUrl =
                 const cars = await page.$$(
                     "tr.p-element.p-selectable-row.ng-star-inserted"
                 );
-                const carData = [];
 
                 for (const car of cars) {
                     try {
@@ -244,7 +237,7 @@ const baseUrl =
                             createdAt: formattedYesterday,
                         };
 
-                        console.log(carInfo);
+                        console.log(title);
                         carData.push(carInfo);
                         totalCarsScraped++; // Increment count for this make
                     } catch (error) {
@@ -252,12 +245,6 @@ const baseUrl =
                     }
                 }
 
-                const filename = path.join(
-                    makeFolder,
-                    `car_data_page_${pageNumber}.json`
-                );
-                fs.writeFileSync(filename, JSON.stringify(carData, null, 4));
-                console.log(`✅ Page ${pageNumber} data saved.`);
                 return carData;
             };
 
@@ -286,17 +273,25 @@ const baseUrl =
                 }
             }
 
-            console.log(`✅ All data saved in folder '${makeFolder}'`);
+            console.log(`✅ All data saved for '${make}'`);
+            console.log("--------------------");
             console.log(`Total cars scraped for ${make}: ${totalCarsScraped}`);
+
             allCarData.push(...carData); // Add to the allCarData array
         } catch (error) {
-            console.error("Error scraping:", error);
+            console.log(
+                `No results found for ${make}. Skipping to the next make.`
+            );
+            continue; // Skip to the next make
         }
     }
 
     // Write all car data to a single JSON file
-    fs.writeFileSync("new.json", JSON.stringify(allCarData, null, 4));
-    console.log("✅ All car data saved to 'new.json'");
+    fs.writeFileSync(
+        `data/${formattedYesterday}.json`,
+        JSON.stringify(allCarData, null, 4)
+    );
+    console.log(`✅ All car data saved to ${formattedYesterday}.json`);
 
     await browser.close();
 })();

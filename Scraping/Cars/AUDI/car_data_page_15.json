@@ -1,0 +1,236 @@
+[
+    {
+        "title": "2022 AUDI A5 PREMIUM PLUS 45",
+        "make": "AUDI",
+        "year": "2022",
+        "model": "A5 PREMIUM PLUS 45",
+        "link": "https://www.copart.com/lot/89203285/2022-audi-a5-premium-plus-45-va-richmond",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "89203285",
+            "vin": "WAUWAGF50NN******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "GREEN",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/50f94c887b8c461bb6c7f7806e198994_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/50f94c887b8c461bb6c7f7806e198994_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/a01c5e4ba80047f188b720c81c1fc52c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/649215ace7f84562b9237bdfa9666dc9_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/f76af299e7054af8a7f1a99bc6a3c86f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/8e6b613e66e74b94ba78eb39e53cf8fa_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 AUDI Q5 PREMIUM",
+        "make": "AUDI",
+        "year": "2021",
+        "model": "Q5 PREMIUM",
+        "link": "https://www.copart.com/lot/89253525/2021-audi-q5-premium-nc-gastonia",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "89253525",
+            "vin": "WA1AAAFY5M2******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/45843b301d254a6ca733eb043b01f0a8_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/45843b301d254a6ca733eb043b01f0a8_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c80141a6851f4b59b01194826011e7c6_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/21b958c6462c4ec49b89685c2054e290_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/6949d1507d6444beba276c232fc3a025_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/3840496f444243ffb47c1acb1593c22e_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 AUDI RS3",
+        "make": "AUDI",
+        "year": "2024",
+        "model": "RS3",
+        "link": "https://www.copart.com/lot/89262995/2024-audi-rs3-fl-miami-north",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "89262995",
+            "vin": "WUAG4DGYXRA******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.5L 5"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/85616c07944540a795c34e953ee657bc_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/85616c07944540a795c34e953ee657bc_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/7d2d96b193634c8c830f9e79da5c3c78_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/8b47b155aaf44f74952f80f780066bad_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ae49135706d046bea91a744adbe2b3fa_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/63c2d7208f8a456cbb7ec6c4dc6ca5e0_thb.jpg"
+        ]
+    },
+    {
+        "title": "2023 AUDI Q5 SPORTBACK PRM PLS 45",
+        "make": "AUDI",
+        "year": "2023",
+        "model": "Q5 SPORTBACK PRM PLS 45",
+        "link": "https://www.copart.com/lot/89328515/2023-audi-q5-sportback-prm-pls-45-or-portland-south",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "89328515",
+            "vin": "WA15AAFY6P2******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "WHITE",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/2f274aab85c94548a2ed8c0e9331de73_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/2f274aab85c94548a2ed8c0e9331de73_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/e25991619e3b48fba5bdf79cfdf3e545_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/aecb66a5bf204fa5ae96995404b5f5e6_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/8a852c2bc37a4ad59b11b5cdf880177b_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/e3998b9e8cc04978ad70279e3d4519ea_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 AUDI A5 PREMIUM",
+        "make": "AUDI",
+        "year": "2020",
+        "model": "A5 PREMIUM",
+        "link": "https://www.copart.com/lot/89355705/2020-audi-a5-premium-ny-long-island",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "89355705",
+            "vin": "WAUANCF54LA******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/4165f204849b48b4baa4990259eb35f5_ful.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/4165f204849b48b4baa4990259eb35f5_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/77f9e102852943188f0d556b14307cee_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/cbdc2dfb1347462588bf7a79e03d0593_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/62b95fd348f146e5b060b638c13ea710_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/5b2f4fb86e534abf8695f51eb5c93808_thb.jpg"
+        ]
+    },
+    {
+        "title": "2021 AUDI Q5 PREMIUM PLUS",
+        "make": "AUDI",
+        "year": "2021",
+        "model": "Q5 PREMIUM PLUS",
+        "link": "https://www.copart.com/lot/89370645/2021-audi-q5-premium-plus-il-chicago-south",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "89370645",
+            "vin": "WA1BAAFY5M2******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/7601801a5f37446b8631eef2ba783210_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/7601801a5f37446b8631eef2ba783210_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/d761d8ad98714c8997c01cd642b46fc9_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/f21762b9a0ea4dfc9def6ef2467795f1_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ff0d19a4efc149d8a5add861af129de6_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/0d0252d09180444dada150c46f2de9b9_thb.jpg"
+        ]
+    },
+    {
+        "title": "2024 AUDI RS5",
+        "make": "AUDI",
+        "year": "2024",
+        "model": "RS5",
+        "link": "https://www.copart.com/lot/89385595/2024-audi-rs5-ny-long-island",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "89385595",
+            "vin": "WUAAWCF53RA******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.9L 6"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/294bc53b23414dc6b9ff2f5092e1fd2c_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/294bc53b23414dc6b9ff2f5092e1fd2c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/52627eaeb3494f72b922403321123faa_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/9b869f8bc6a5444a8f5bc65c8d5a9b16_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/23cc336c53964f60a76f352d6572fc31_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/8dc656c48c1d4a57b837bcb13c3c1576_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 AUDI A4 PREMIUM PLUS",
+        "make": "AUDI",
+        "year": "2020",
+        "model": "A4 PREMIUM PLUS",
+        "link": "https://www.copart.com/lot/89396255/2020-audi-a4-premium-plus-on-cookstown",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "89396255",
+            "vin": "WAUENAF42LN******",
+            "primaryDamage": "UNDERCARRIAGE",
+            "transmission": "AUTOMATIC",
+            "color": "GRAY",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ea88558f67e1415d84b03c2ad07c9c58_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/ea88558f67e1415d84b03c2ad07c9c58_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c799d6994b234d7d89eb02401c41c4b9_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/c9634de7e33449e8ba2235aa163489e9_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/97df0b8760574f76bcffccc03d11f79c_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/293a7685361e4f4a8c0c5e2ce60c3d94_thb.jpg"
+        ]
+    },
+    {
+        "title": "2020 AUDI A3 S-LINE PREMIUM",
+        "make": "AUDI",
+        "year": "2020",
+        "model": "A3 S-LINE PREMIUM",
+        "link": "https://www.copart.com/lot/89398835/2020-audi-a3-s-line-premium-ny-rochester",
+        "currentBid": null,
+        "details": {
+            "lotNumber": "89398835",
+            "vin": "WAUBEGFF3LA******",
+            "primaryDamage": "FRONT END",
+            "transmission": "AUTOMATIC",
+            "color": "BLACK",
+            "drive": "All wheel drive",
+            "fuel": "GAS",
+            "engineType": "2.0L 4"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/32e0f625615f4486aab7884b9cbc6f2d_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/32e0f625615f4486aab7884b9cbc6f2d_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/256723f7f2604908ab7bf4b1b22c904f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/b24dae17981d45bc8db27ef7ddcf650f_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/67bab0cfeed749c09bff9c8bf74074e7_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0125/bff2279bbab04fcca0346345b5e4d4f2_thb.jpg"
+        ]
+    }
+]

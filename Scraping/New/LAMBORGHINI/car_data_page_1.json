@@ -1,0 +1,33 @@
+[
+    {
+        "title": "2023 LAMBORGHINI HURACAN STO",
+        "make": "LAMBORGHINI",
+        "year": "2023",
+        "model": "HURACAN STO",
+        "link": "https://www.copart.com/lot/79047854/2023-lamborghini-huracan-sto-fl-miami-south",
+        "currentBid": {
+            "currency": "USD",
+            "amount": 0
+        },
+        "details": {
+            "lotNumber": "79047854",
+            "vin": "ZHWUA6ZX6PL******",
+            "primaryDamage": "ALL OVER",
+            "transmission": "Yes",
+            "color": "GRAY",
+            "drive": "Rear-wheel drive",
+            "fuel": "GAS",
+            "engineType": "5.2L 10"
+        },
+        "imageUrl": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/b1f7497c26584ccd9f1039190d3797d1_hrs.jpg",
+        "thumbnails": [
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/b1f7497c26584ccd9f1039190d3797d1_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/3dbeb8d1d1764312a91cd3261cdde361_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/5e5e485ec4344f27a90cc32dce27f8c6_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/4db38ffe22944b25bfa73bd93cf4dd89_thb.jpg",
+            "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/1124/3c2250cee0ab4ac5ac86c5fc553775fd_thb.jpg"
+        ],
+        "uuid": "ecc26bc9-d6fb-4f12-8097-a032ae7184dc",
+        "createdAt": "2025-03-18"
+    }
+]
