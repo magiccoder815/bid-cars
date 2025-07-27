@@ -8,14 +8,9 @@ const { v4: uuidv4 } = require("uuid");
 
 const makes = [
     "AUDI",
-    "ASTON MARTIN",
     "BMW",
-    "MERCEDES-BENZ",
-    "PORSCHE",
     "FERRARI",
-    "LAMBORGHINI",
     "LEXUS",
-    "MCLAREN AUTOMOTIVE",
     "BENTLEY",
     "LAND ROVER",
     "ROLLS-ROYCE",
