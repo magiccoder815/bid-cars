@@ -41,7 +41,7 @@ const baseUrl =
 
         try {
             await page.waitForSelector("h3.text-black span.blue-heading", {
-                timeout: 5000,
+                timeout: 3000,
             });
             const totalResults = await page.$eval(
                 "h3.text-black span.blue-heading",
@@ -51,7 +51,7 @@ const baseUrl =
 
             // Set items per page to 100
             await page.waitForSelector(".p-paginator-rpp-options", {
-                timeout: 5000,
+                timeout: 3000,
             });
             await page.click(".p-paginator-rpp-options");
             await new Promise((resolve) => setTimeout(resolve, 2000));
